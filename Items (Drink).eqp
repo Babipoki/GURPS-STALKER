@@ -1,0 +1,421 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "bb338861-c00d-427a-aa50-ed822961f6e5",
+			"type": "equipment",
+			"description": "Mineral Water",
+			"notes": "Mineral water from Ukrainian springs. Carbonated and with additional calcium.\n\n+127 kcal\n-20 mSv/sec for 34 seconds\n\nProperties: drink, alcohol sobering effect, slight sleepiness reduction, significant thirstiness reduction, repair bonus: +1%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 31.66,
+			"weight": "2.06 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 31.66,
+				"extended_weight": "2.06 lb"
+			}
+		},
+		{
+			"id": "c304e7d0-8367-4f8f-a779-d1fa98d2dd15",
+			"type": "equipment",
+			"description": "Beard's Tea",
+			"notes": "Beard's popular hot tea made from a mixture of sugar, edible dried mushrooms and boiled water that is said to be radiation-free. Stalkers who can afford to buy the drink often take it for long trips in the Zone. It's a good and healthy way to stay on your toes when you're getting tired or when you're out exploring on cold nights.\n\n+226 kcal\n-39 mSv/sec for 38 seconds\n\nProperties: drink, alcohol sobering effect, slight sleepiness reduction, significant thirstiness reduction, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 82.38,
+			"weight": "2.06 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 82.38,
+				"extended_weight": "2.06 lb"
+			}
+		},
+		{
+			"id": "54be8c49-fabe-4824-85de-b1c70e1ce148",
+			"type": "equipment",
+			"description": "Ukrainian Beer",
+			"notes": "Ukrainian beer. Another popular beverage in the Zone, besides vodka.\n\n+247 kcal\n-19 mSv/sec for 30 seconds\n\nProperties: drink, alcohol, slight sleepiness increment, moderate thirstiness increment, unhealthy",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 24.84,
+			"weight": "1.42 lb",
+			"max_uses": 247,
+			"equipped": true,
+			"calc": {
+				"extended_value": 24.84,
+				"extended_weight": "1.42 lb"
+			}
+		},
+		{
+			"id": "11fc2c9e-b2eb-4893-a8da-5ac6c5d00bb7",
+			"type": "equipment",
+			"description": "Cheap Vodka",
+			"notes": "Metal bottle containing a portion of what seems to be Zone-produced vodka. The fumes are strong and the quality is lacking.\n\n+19 kcal\n+7% ext. radiation resistance\n+4% psychic resistance\n\nProperties: drink, alcohol, moderate sleepiness increment, moderate thirstiness increment, unhealthy, repair bonus: +2%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 39.59,
+			"weight": "2.84 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 39.59,
+				"extended_weight": "2.84 lb"
+			}
+		},
+		{
+			"id": "72a1b4da-1167-4dfa-873b-852622d0fc49",
+			"type": "equipment",
+			"description": "Brewed Coffee",
+			"notes": "Brewed, hot coffee.\n\n+120 kcal\n+250 μg of adrenaline\n-2 mSv/sec for 500 seconds",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 7.4,
+			"weight": "0.66 lb",
+			"max_uses": 120,
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.4,
+				"extended_weight": "0.66 lb"
+			}
+		},
+		{
+			"id": "65c9e9a2-dfdb-473e-a5a0-0766628b6ed3",
+			"type": "equipment",
+			"description": "Cuban Cigar",
+			"notes": "This valuable Cuban cigar can bring you bliss for a short while, especially when you're admiring a nice sunset. Some stalkers noticed that smoking strong tobacoo repels mosquitoes. Cuban cigars are considered the finest in the world. A rare commodity.\n\n+32 kcal\n-28 mSv/sec for 81 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 34.95,
+			"weight": "0.02 lb",
+			"max_uses": 32,
+			"equipped": true,
+			"calc": {
+				"extended_value": 34.95,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "d214bd94-188e-4edd-bf61-9e0a36bb675d",
+			"type": "equipment",
+			"description": "Cigarettes (Soviet)",
+			"notes": "A pack of budget, strong cigarettes of average quality. Genuine USSR flavour has been carefully preserved.\n\n+31 kcal\n-18 mSv/sec for 89 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 10 uses",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 125.13,
+			"weight": "0.04 lb",
+			"max_uses": 10,
+			"equipped": true,
+			"calc": {
+				"extended_value": 125.13,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "1fd91c8e-717b-4d86-8697-c18c71366c00",
+			"type": "equipment",
+			"description": "Cigarettes (Marlboro)",
+			"notes": "Cigarettes imported from the West. Smoking just one, may relax you and satisfy your hunger a bit. They are somewhat rare in the Zone and quite valuable.\n\n+29 kcal\n-19 mSv/sec for 78 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 15 uses",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 195,
+			"weight": "0.04 lb",
+			"max_uses": 15,
+			"equipped": true,
+			"calc": {
+				"extended_value": 195,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "11f757bf-2515-4bf3-af5c-a2af734ea2a3",
+			"type": "equipment",
+			"description": "Cigarettes (Lucky Strike)",
+			"notes": "Cigarettes imported from the West. Some stalkers trade them for a few rounds of ammo within their faction.\n\n+14 kcal\n-20 mSv/sec for 81 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 14 uses",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 117,
+			"weight": "0.02 lb",
+			"max_uses": 14,
+			"equipped": true,
+			"calc": {
+				"extended_value": 117,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "e82f04e1-ea3f-4488-b43c-91fcf8b5cfdf",
+			"type": "equipment",
+			"description": "Cigarettes (Russian)",
+			"notes": "The cheapest pack of cigarettes in the Zone. Russian budget brand.\n\n+32 kcal\n-8 mSv/sec for 72 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 25 uses",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 97,
+			"weight": "0.02 lb",
+			"max_uses": 25,
+			"equipped": true,
+			"calc": {
+				"extended_value": 97,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "b4bf30fd-5fed-4f6b-b5d3-7bbb19021eaf",
+			"type": "equipment",
+			"description": "UCC Cold Brew Coffee",
+			"notes": "UCC Cold Brew Arabica and Robusta Milk Coffee\n\n+120 kcal\n-2 mSv/sec for 300 seconds\n+250 μg of adrenaline\n\nProperties: drink, stimulant, potent alcohol sobering effect, moderate sleepiness reduction, significant thirstiness reduction",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 16.94,
+			"weight": "0.66 lb",
+			"max_uses": 120,
+			"equipped": true,
+			"calc": {
+				"extended_value": 16.94,
+				"extended_weight": "0.66 lb"
+			}
+		},
+		{
+			"id": "44fbc61a-f94b-4d81-ab5c-9a2d9b4ae73e",
+			"type": "equipment",
+			"description": "Tea \"The Beak\"",
+			"notes": "\"The Beak\" is a powerful mixture of Zone-produced vodka and pulverized beak of a black crow. Not every beak can be used as an ingredient, because only black male crowns that have lived in the Zone for more than 15 years have mutated sufficiently. The rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that drinking \"the Beak\" makes you feel like having wings for a few seconds. On the downside however, its taste is awful.\n\n+446 kcal\n-27 mSv/sec for 174 seconds\n\nProperties: drink, stimulant, alcohol, moderate sleepiness reduction, significant thirstiness reduction, unhealthy",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink",
+				"Stimulant"
+			],
+			"quantity": 1,
+			"value": 104.24,
+			"weight": "0.44 lb",
+			"max_uses": 446,
+			"equipped": true,
+			"calc": {
+				"extended_value": 104.24,
+				"extended_weight": "0.44 lb"
+			}
+		},
+		{
+			"id": "20060121-c8fa-48f6-a57d-3da3e523233d",
+			"type": "equipment",
+			"description": "Energy Drink",
+			"notes": "Often used by stalkers on long trips due to its exhilarating effect when tired. Also will help sober up if drank, as well as induce the release of adrenaline into the bloodstream. Do not overdose.\n\n+113 kcal\n-2 mSv/sec for 280 seconds\n+280 μg of adrenaline\n\nProperties: drink, stimulant, alcohol sobering effect, moderate sleepiness reduction, significant thirstiness reduction",
+			"legality_class": "4",
+			"tags": [
+				"Drink",
+				"Stimulant"
+			],
+			"quantity": 1,
+			"value": 15.47,
+			"weight": "0.66 lb",
+			"max_uses": 113,
+			"equipped": true,
+			"calc": {
+				"extended_value": 15.47,
+				"extended_weight": "0.66 lb"
+			}
+		},
+		{
+			"id": "74ffc93b-7a06-41be-8513-a262045ce285",
+			"type": "equipment",
+			"description": "Flask (Purified Water)",
+			"notes": "Flask filled with purified water.\n\n+66 kcal\n-9 mSv/sec for 31 seconds\n\nProperties: drink, slight sleepiness reduction, significant thirstiness reduction, repair bonus: +1%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 12.12,
+			"weight": "2.66 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 12.12,
+				"extended_weight": "2.66 lb"
+			}
+		},
+		{
+			"id": "7aa4ac0f-4dde-4cc4-a619-3b38d8bf780a",
+			"type": "equipment",
+			"description": "Ground Coffee",
+			"notes": "Ground coffee ready to be brewed.\n\n+10 kcal\n\nProperties: food, stimulant, requires a cooking kit and water to brew, slight sleepiness reduction, moderate thirstiness increment, 5 uses",
+			"legality_class": "4",
+			"tags": [
+				"Food",
+				"Stimulant"
+			],
+			"quantity": 1,
+			"value": 1.84,
+			"weight": "0.68 lb",
+			"max_uses": 5,
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.84,
+				"extended_weight": "0.68 lb"
+			}
+		},
+		{
+			"id": "08de13fa-92a8-4c51-9961-c328848d02d1",
+			"type": "equipment",
+			"description": "Hand-rolling Tobacco",
+			"notes": "Precious hand-rolling tobacco, imported from the West. With no additional ingredients, it's possible to enjoy the original taste of the tobacco leaf.\n\n+72 kcal\n-44 mSv/sec for 23 seconds\n\nProperties: tobacco, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Stimulant",
+				"Tobacco"
+			],
+			"quantity": 1,
+			"value": 51.58,
+			"weight": "0.02 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 51.58,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "d60f545a-5eb9-42aa-ada5-7dea4eb79680",
+			"type": "equipment",
+			"description": "Russian Tobacco",
+			"notes": "Cigarettes are expensive and rare in the Zone and having raw tobacco enables you to produce your own cigarettes at a lower cost. This tin is sealed, which ensures that the tobacco will stay fresh for days or weeks depending on the conditions it's kept in.\n\n+58 kcal\n-37 mSv/sec for 30 seconds\n\nProperties: cigarette, stimulant, alcohol sobering effect, slight sleepiness reduction, slight thirstiness increment, unhealthy, required tool: Matchbox, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Cigarette",
+				"Stimulant"
+			],
+			"quantity": 1,
+			"value": 60.18,
+			"weight": "0.22 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 60.18,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "955001f8-dc5d-438c-b5fb-10466c16f93d",
+			"type": "equipment",
+			"description": "Nemiroff Vodka",
+			"notes": "Nemiroff is a Ukrainian producer of alcoholic beverages, specializing in vodkas and other spirits, based in the town of Nemyriv in the Vinnytska oblast. One of the best vodkas in the world and by extension, in the Zone.\n\n+22 kcal\n-27 mSv/sec for 35 seconds\n\nProperties: drink, alcohol, slight sleepiness increment, moderate thirstiness increment, unhealthy, repair bonus: +3%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 17.42,
+			"weight": "2.9 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 17.42,
+				"extended_weight": "2.9 lb"
+			}
+		},
+		{
+			"id": "0bb16bdc-6c4e-4fd9-95b6-9f4bcbfb7048",
+			"type": "equipment",
+			"description": "Putinka Vodka",
+			"notes": "Following the tradition of naming vodka brands after Russian leaders, Putinka first went into production after Vladimir Putin was elected president. Produced in Russia from the finest grain and crystal clear water from Siberian springs. Triple purification, smooth texture, unique taste are not the only characteristics of this beverage. Drink with moderation.\n\n+42 kcal\n-38 mSv/sec\n\nProperties: drink, alcohol, slight sleepiness increment, moderate thirstiness increment, unhealthy, repair bonus: +3%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 27.92,
+			"weight": "2.9 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 27.92,
+				"extended_weight": "2.9 lb"
+			}
+		},
+		{
+			"id": "0cafbf38-7d4e-4ece-b30b-6797f9457d5a",
+			"type": "equipment",
+			"description": "Stolichnaya Vodka",
+			"notes": "A favourite among Russians and many people around the world. A Russian vodka of high quality. High popular in the Zone and widely available, most probably thanks to an outside connection of one of the traders. In order to avoid detection by the military unuits stationed around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n\n+28 kcal\n-93 mSv/sec for 35 seconds\n\nProperties: drink, alcohol, moderate sleepiness increment, moderate thirstiness increment, unhealthy, repair bonus: +4%, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Alcohol",
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 49.04,
+			"weight": "2.9 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 49.04,
+				"extended_weight": "2.9 lb"
+			}
+		},
+		{
+			"id": "da98880e-6f3b-4c73-aebd-5ab7d36a8745",
+			"type": "equipment",
+			"description": "Sparkling Water",
+			"notes": "Sparkling water for thirsty stalker. It has some exhilarating effect when you're tired.\n\n+112 kcal\n-13 mSv/sec for 32 seconds\n\nProperties: drink, alcohol sobering effect, slight sleepiness reduction, significant thirstiness reduction, repair bonus: +1%",
+			"legality_class": "4",
+			"tags": [
+				"Drink"
+			],
+			"quantity": 1,
+			"value": 11.29,
+			"weight": "0.76 lb",
+			"max_uses": 112,
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.29,
+				"extended_weight": "0.76 lb"
+			}
+		}
+	]
+}

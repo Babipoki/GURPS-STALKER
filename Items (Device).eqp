@@ -1,0 +1,491 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "7bcab0fd-d22b-4ba4-aa05-73feb14ea820",
+			"type": "equipment",
+			"description": "Doppler Weather Radar Kit",
+			"notes": "An advanced pulse-Doppler, weather radar mini-kit. This kit is considered a miracle in meteorology field. It sends directional pulses of microwave radiation, with a transmission speed of approximately one microsecond, using a cavity magnetron connected to a waveguide to a parabolic antenna, to collect weather data.\nTwo scientists found out that using a \"Meatchunk\" artefact near the antenna can greatly amplify the pulse power, to the point it alters the ions in the Troposphere layer of the atmosphere, changing its properties completely.\n*Unique, not really purchasable as far as you know.",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 626.15,
+			"weight": "9.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 626.15,
+				"extended_weight": "9.4 lb"
+			}
+		},
+		{
+			"id": "8c98de0b-e0cc-4eed-a44e-27250027e943",
+			"type": "equipment",
+			"description": "Jury-rigged Exoskeleton Power Supply",
+			"notes": "Auxiliary power supply equipped on exoskeletons to improve energy capacity. Popular with most stalkers given the rather inefficient power plants that come with standard exoskeletons. This type of power supply is haphazardly put together and quite inefficient. While lightweight, it only offers a marginal increase to the energy capacity. One of the major drawbacks to most exoskeletons is that they are intended to be fielded for a short amount of time, usually in pitched battles before returning to base to recharge. External power supplies like these can partially alleviate the problem, but, as clearly shown by this, are not necessarily effective.\n\nProperties: increases power capacity by 50%",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 94.38,
+			"weight": "4.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 94.38,
+				"extended_weight": "4.14 lb"
+			}
+		},
+		{
+			"id": "1c18b299-1494-471c-af86-f422f8684ea7",
+			"type": "equipment",
+			"description": "Mil-spec Exoskeleton Power Supply",
+			"notes": "Auxiliary power supply equipped on exoskeletons to improve energy capacity. Popular with most stalkers given the rather inefficient power plants that come with standard exoskeletons. This model is professionally made in a factory and mounts seamlessly to an exoskeleton. It is hefty but very durable and quite energy-efficient, providing a substantial boost to energy capacity and am inor benefit to energy efficiency. However, it is quite heavy.\n\nProperties: increases power capacity by 200%, reduces power consumption by 30%",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 293.85,
+			"weight": "11.94 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 293.85,
+				"extended_weight": "11.94 lb"
+			}
+		},
+		{
+			"id": "6b0db108-7ceb-42d6-89a3-e39f7098fdaf",
+			"type": "equipment",
+			"description": "Experimental PSU \"Reactor\"",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 1030.5,
+			"weight": "19.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1030.5,
+				"extended_weight": "19.04 lb"
+			}
+		},
+		{
+			"id": "a387f175-5deb-47e0-833f-2fb4971f5f6c",
+			"type": "equipment",
+			"description": "Experimental PSU \"Engine\"",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 1030.5,
+			"weight": "19.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1030.5,
+				"extended_weight": "19.04 lb"
+			}
+		},
+		{
+			"id": "c853bb7a-6296-4bd0-bfad-5ec5da1e556b",
+			"type": "equipment",
+			"description": "Experimental PSU \"Stronghold\"",
+			"legality_class": "4",
+			"tags": [
+				"Device"
+			],
+			"quantity": 1,
+			"value": 1030.5,
+			"weight": "19.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1030.5,
+				"extended_weight": "19.04 lb"
+			}
+		},
+		{
+			"id": "272a83d2-46c4-41d2-a229-4f269e27cb58",
+			"type": "equipment",
+			"description": "Bear Detector (Tier II)",
+			"notes": "This last generation anomalous activity detector can be used to locate anomalous formations and has a colour diode panel, which not only indicates the direction of artefacts, but also measures the distance to them. To switch to artefact search mode, open the device's front cover.\nUnfortunately, the device is programmed with a somewhat outdated list of detectable artefacts.\n\nProperties: power consumption: 15 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 137.75,
+			"weight": "0.72 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 137.75,
+				"extended_weight": "0.72 lb"
+			}
+		},
+		{
+			"id": "a535f3e5-6e49-409e-ab25-30b13148dc8e",
+			"type": "equipment",
+			"description": "Anomalous Measurement Device",
+			"notes": "The first prototype was designed in 2008 under Professor Sakharov's supervision in the mobile lab in Yantar. Since then, more copies have been made after its proven success in field study. This device is able to take and record measurements of anomalous fields. Its improved framework and high sensitivity sensors, guarantee reliable operation even in the most hostile environments.\n\nProperties: power consumption: 10 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 49.72,
+			"weight": "1.06 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 49.72,
+				"extended_weight": "1.06 lb"
+			}
+		},
+		{
+			"id": "5dd9561d-976b-4660-b8e4-b44cb08096c7",
+			"type": "equipment",
+			"description": "Veles Detector (Tier III)",
+			"notes": "A next generation, scientific detector. Thanks to its three, advanced detection chambers, the position of the artefact is displayed on a special LED screen in realtime. When closed, the device registers only particles of radiation and anomalies. To switch to artefact search module, open the front LED display. When in search mode, the detector is capable of locating all artefacts known to science.\n\nProperties: power consumption: 20 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 863.35,
+			"weight": "0.58 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 863.35,
+				"extended_weight": "0.58 lb"
+			}
+		},
+		{
+			"id": "4f3c5193-660b-44af-8ff4-08e0940be5ac",
+			"type": "equipment",
+			"description": "Geiger Counter",
+			"notes": "A Geiger counter measures ionizing radiation. It detects the emissions of alpha, beta and gamma particles. Invented in 1908, Geiger counters remain popular to this day and are used for measurements in health, physicsc, industry, geology and other fields. Made of simple electronic circuits.\n\nProperties: power consumption of 70 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 49.72,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 49.72,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "2f8e4a1d-0a6c-4aeb-b277-49327337e6b6",
+			"type": "equipment",
+			"description": "Grizzly Detector",
+			"notes": "This anomalous activity detector is an updated version of the Bear detector and is able to detect all known artefacts signatures just like the Svarog or Veles detectors. This upgraded Bear is especially appreciated by stalkers hunting artefacts during the night since its simple display is compatible withj night vision goggles.\n\nProperties: power consumption of 15 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 507.55,
+			"weight": "0.72 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 507.55,
+				"extended_weight": "0.72 lb"
+			}
+		},
+		{
+			"id": "8714f1c6-485f-41cd-a698-cfd98104bda7",
+			"type": "equipment",
+			"description": "RF Receiver",
+			"notes": "The RF (Radio frequencies) receiver is a small device with a highhly-sensitive RF module used for basic communications. Quite common among soldiers despite the old technology. As the name suggests, it has ability to interact with radio signals in a radius of 200m. This device is able to process radio waves with a frequency range between 30 and 300MHz.\n\nProperties: power consumption of 10 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 49.72,
+			"weight": "0.74 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 49.72,
+				"extended_weight": "0.74 lb"
+			}
+		},
+		{
+			"id": "0851e243-a806-41f5-ad5e-dcc3bad7ef4c",
+			"type": "equipment",
+			"description": "Svarog Detector (Tier IV)",
+			"notes": "A prototype detector, with the expanded functionality of an anomalous frequency scanner. This device comes with a program that identifies any static areas of anomalous activity stored in the database, while retaining the ability to locate artefacts. The positions of both anomalous areas and artefacts are displayed on a special LED screen. The artefact search mode which can be activated by opening the front LED display, has been modified to detect even anomalous formations currently unknown to science.\n\nProperties: power consumption of 20 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 1817.31,
+			"weight": "0.56 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1817.31,
+				"extended_weight": "0.56 lb"
+			}
+		},
+		{
+			"id": "c03784d9-46bb-45bd-b22c-ab62ae191be5",
+			"type": "equipment",
+			"description": "Echo Detector (Tier I)",
+			"notes": "This dated anomalous activity detector produces an alarm signal when anomalous particles enter a special chamber as you approach an anomaly. It can also register the presence of artefacts and measure the distance to the nearest one. The distance is indicated by the frequency of the sound the detector emits. To switch to artefact search mode, open the device's front cover. Due to its simple design, it can only be used to locate the most common artefacts.\n\nProperties: power consumption of 10 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Detector"
+			],
+			"quantity": 1,
+			"value": 63.72,
+			"weight": "0.88 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 63.72,
+				"extended_weight": "0.88 lb"
+			}
+		},
+		{
+			"id": "d20d6cce-2789-4fe7-a99d-b127b9994460",
+			"type": "equipment",
+			"description": "Flashlight",
+			"notes": "A general purpose, hand-hend flashlight. Unfortunately, it cannot be used along with most weapons, since it requires a free hand. Thus, it can be used simultaneously only with pistols and other single-handed equipment.\n\nProperties: power consumption of 5 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 44.94,
+			"weight": "0.96 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 44.94,
+				"extended_weight": "0.96 lb"
+			}
+		},
+		{
+			"id": "97f9f7f2-bbc1-4f7e-aec7-adae47f43503",
+			"type": "equipment",
+			"description": "Glowstick (Green)",
+			"notes": "Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n\nRange: 3\nIllumination: 3\nLifetime: ~40 minutes",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 7.37,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.37,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "2c3ad980-6c50-4b4c-878b-6be2684df213",
+			"type": "equipment",
+			"description": "Glowstick (Blue)",
+			"notes": "Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n\nRange: 1\nIllumination: 5\nLifetime: ~30 minutes",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 7.37,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.37,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "f4c63160-3e3f-485a-a73d-eb84fd7c571c",
+			"type": "equipment",
+			"description": "Glowstick (Orange)",
+			"notes": "Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n\nRange: 2\nIllumination: 2\nLifetime: ~40 minutes",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 7.37,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.37,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "20bd71c2-0401-45f2-a745-5cad9fbba0ab",
+			"type": "equipment",
+			"description": "Glowstick (Red)",
+			"notes": "Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources.\n\nRange: 5\nIllumination: 2\nLifetime: ~60 minutes",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 7.37,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.37,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "67abc099-372a-45bb-9c50-24628dd6122f",
+			"type": "equipment",
+			"description": "PDA",
+			"notes": "A pocket-sized electronic device meant to encompass the basic and most vital functions of a computer. The PDA is essential for daily information sharing. It comes pre-installed with a GPS module to provide geolocation and time information to the user.\n\nProperties: power consumption of 23 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"PDA"
+			],
+			"quantity": 1,
+			"value": 73.66,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 73.66,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "c0ac0c84-897c-45cc-9585-aa8b94e89876",
+			"type": "equipment",
+			"description": "PDA (Version 2.0) with KilTrak™",
+			"notes": "A pocket-sized electronic device meant to encompass the basic and most vital functions of a computer. The PDA is essential for daily information sharing. It comes with pre-installed GPS module to provide geolocation and time information to the user. The module in this version has been improved to retrieve and process the position of other modules connected to the network in a radius of 300 meters, which makes this PDA compelling among stalkers.\n\nThis particular device is also able to locate the dead bodies of targets eliminated by the owner because somebody has jailbroken it and installed a pirated version of IMI KilTrak software.\n\nProperties: power consumption of 23 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"PDA"
+			],
+			"quantity": 1,
+			"value": 460.4,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 460.4,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "e0802237-478c-423d-ac07-acdffce725bb",
+			"type": "equipment",
+			"description": "PDA (Version 3.1) with KilTrak™",
+			"notes": "A pocket-sized electronic device meant to encompass the basic and most vital functions of a computer. The PDA is essential for daily information sharing. It comes with a pre-installed GPS module to provide geolocation and time information to the user. The module in this version has been greatly improved to retrieve and process the position of other modules connected to the network. This particular device comes with a pirated version of the IMI KilTrak software.\n\nProperties: power consumption of 23 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"PDA"
+			],
+			"quantity": 1,
+			"value": 920.81,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 920.81,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "55ca1bf0-2936-4897-bb8a-85d1de3a374e",
+			"type": "equipment",
+			"description": "Headlamp",
+			"notes": "A standard, head-mounted flashlight. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. Useful as it frees up both hands for field operations.\n\nProperties: power consumption of 10 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 80.85,
+			"weight": "0.38 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 80.85,
+				"extended_weight": "0.38 lb"
+			}
+		},
+		{
+			"id": "27989d18-ede4-41ad-accd-c47896d4f84a",
+			"type": "equipment",
+			"description": "Headlamp w/ 1PN93-1 Nightvision",
+			"notes": "A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp comes with a standard-issue 1PN91-1 Russian Military Forces night-vision device. Offers generation 2+ image intensification, especially useful for operations at night or in low-light conditions.\n\nProperties: power consumption of 15 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 361.88,
+			"weight": "0.38 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 361.88,
+				"extended_weight": "0.38 lb"
+			}
+		},
+		{
+			"id": "c1fe2280-2f18-43c5-b1f3-0336bdf09624",
+			"type": "equipment",
+			"description": "Headlamp w/ PN21KL Nightvision",
+			"notes": "A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp comes with an IIT generation 2+ image intensification, intended for operation at night under natural ilumination and in the complete darkness with the switched on infrared iluminator.\n\nProperties: power consumption at 15 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 452.17,
+			"weight": "0.38 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 452.17,
+				"extended_weight": "0.38 lb"
+			}
+		},
+		{
+			"id": "a762a67a-3131-4098-8252-905a78572e5d",
+			"type": "equipment",
+			"description": "Headlamp w/ Oracle Psi-stimulator",
+			"notes": "A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp has image-processing software that removes video noise and enhances image-intensifying capabilities of PN21K unit, thus making it a full-fledged generation 3+ night vision device.\n\nProperties: power consumption at 15 mAh/Sec",
+			"legality_class": "4",
+			"tags": [
+				"Device",
+				"Light Source"
+			],
+			"quantity": 1,
+			"value": 578.84,
+			"weight": "0.38 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 578.84,
+				"extended_weight": "0.38 lb"
+			}
+		}
+	]
+}
