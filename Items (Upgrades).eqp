@@ -1,0 +1,1686 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "15565886-1761-4f2e-b802-25de3cf75a62",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'BRna' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "235d313a-e86c-4b1e-b5d4-af2df1ce1619",
+			"type": "equipment",
+			"description": "Suit Utility Package 'APTe' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.8 lb"
+			}
+		},
+		{
+			"id": "7256a8e8-022c-4984-a944-b957d5690d18",
+			"type": "equipment",
+			"description": "Suit Utility Package 'KrV' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3.2 lb"
+			}
+		},
+		{
+			"id": "8fad8e6b-8b0f-439e-a952-db95064d1f3f",
+			"type": "equipment",
+			"description": "CBRN Material Package 'KHMy' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "b270e043-1d13-4353-918a-62464f9f230e",
+			"type": "equipment",
+			"description": "Suit Utility Package 'OSEL' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "dbf61193-cc0f-49d5-b08c-116e6a94a1f9",
+			"type": "equipment",
+			"description": "CBRN Materials Package 'CHM-1' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "cf320842-f9bd-49ad-9312-654d8578a5c1",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'PzDH' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "c76f52d7-c571-4206-a38c-4664e07350fd",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'PRCh' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "e0f649f0-227f-4fb0-bac8-7f24990602fa",
+			"type": "equipment",
+			"description": "Suit Utility package 'HPs-1' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "6551f020-cb72-4e97-bc93-0c8aa0820b55",
+			"type": "equipment",
+			"description": "Suit Environmental Protection Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "b1610be9-af76-4012-a6d9-499cadb76a37",
+			"type": "equipment",
+			"description": "Suit Armor Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "7142c09f-8761-43d1-8233-c00bef81a6c3",
+			"type": "equipment",
+			"description": "Suit Utility Package 'UPRz' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "de98bf27-4729-4bb6-9233-5aedcfcfeca5",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MZg' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.3 lb"
+			}
+		},
+		{
+			"id": "c49a4665-90f6-40ea-9656-f7ed7b2fcd8f",
+			"type": "equipment",
+			"description": "CBRN Material Package 'CHst' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "c66acfdd-1290-4e45-b672-d4207fe67fc6",
+			"type": "equipment",
+			"description": "Suit Utility Package 'DVgt' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.1 lb"
+			}
+		},
+		{
+			"id": "bae723a7-a7af-493b-b153-4c0c8b99c927",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MSCh' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "4ff7d11a-9180-4194-be4b-4d1a3a9177e0",
+			"type": "equipment",
+			"description": "Suit Utility Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "2aa8b95a-692c-44f8-8570-2e4d41fcf496",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'LGkY' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "d11828d8-a2f1-4f60-8012-7c1baa558127",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'BRna' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "c00a4fdf-572e-4af6-945f-56119478bd09",
+			"type": "equipment",
+			"description": "Suit Utility Package 'APTe' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.8 lb"
+			}
+		},
+		{
+			"id": "fab6a89e-e709-43a4-a035-3344258ae330",
+			"type": "equipment",
+			"description": "Suit Utility Package 'KrV' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3.2 lb"
+			}
+		},
+		{
+			"id": "5fa9c02f-4281-42d3-92cd-4dba762dfb5f",
+			"type": "equipment",
+			"description": "CBRN Material Package 'KHMy' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "4bf94911-4a60-4671-b670-4a6c5f14ab60",
+			"type": "equipment",
+			"description": "Suit Utility Package 'OSEL' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "96c7a53a-6915-4f7d-bf1b-5cdff96709f8",
+			"type": "equipment",
+			"description": "CBRN Materials Package 'CHM-1' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "2d1d2e5e-8b79-44e1-a8d7-02146bb3ddb3",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'PzDH' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "3ad64485-7e59-41b8-921c-c95b53ce6916",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'PRCh' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "d11d004e-118c-44a6-8e68-e585b5cca2f0",
+			"type": "equipment",
+			"description": "Suit Utility Package 'HPs-1' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "2cc55ee1-4e70-4b24-9d82-9afdc64ea94d",
+			"type": "equipment",
+			"description": "Suit Environmental Protection Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "c2a81ddb-80d5-46ea-a4b7-3f5b82a450ad",
+			"type": "equipment",
+			"description": "Suit Armor Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "45ce6d30-2b8d-45ae-9c9f-649e479cdd49",
+			"type": "equipment",
+			"description": "Suit Utility Package 'UPRz' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "7feb18a6-e75e-48ac-b6ad-f0991217189e",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MZg' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.3 lb"
+			}
+		},
+		{
+			"id": "e143092c-ef9a-4651-aac0-9fb116fd8d75",
+			"type": "equipment",
+			"description": "CBRN Material Package 'CHst' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "925eaa07-bb35-472b-a873-b4937db96037",
+			"type": "equipment",
+			"description": "Suit Utility Package 'DVgt' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.1 lb"
+			}
+		},
+		{
+			"id": "89d9d19a-8967-4b31-b6eb-ecaf997e3e67",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MSCh' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "1d7747be-54fe-4b49-bb2b-534a01f9af0e",
+			"type": "equipment",
+			"description": "Suit Utility Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "4012da93-ad10-4955-b803-97e24faa47ea",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'LGkY' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "901c4ab9-ec2b-4d14-9705-ee07f4544f60",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'BRna' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "9dfe25e1-81ac-4256-a117-5f85005c5a73",
+			"type": "equipment",
+			"description": "Suit Utility Package 'APTe' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.8 lb"
+			}
+		},
+		{
+			"id": "ad15e814-b95c-43bb-8c0c-38518e7e62af",
+			"type": "equipment",
+			"description": "Suit Utility Package 'KrV' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3.2 lb"
+			}
+		},
+		{
+			"id": "5abf6621-0b33-4729-8f6b-ed4957fb82a9",
+			"type": "equipment",
+			"description": "CBRN Material Package 'KHMy' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "c065c9db-0060-4c77-9b7e-5b9e4f112f57",
+			"type": "equipment",
+			"description": "Suit Utility Package 'OSEL' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "58c82610-083d-4b9f-b2c2-82d498c74d40",
+			"type": "equipment",
+			"description": "CBRN Materials Package 'CHM-1' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "ef40de34-efef-4fdc-a8fa-20973f572c3c",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'PzDH' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "cb752a62-6fd2-47e7-935a-1a2a9c232bbf",
+			"type": "equipment",
+			"description": "Ballistic materials Package 'PRCh' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "d294b46b-2edc-4c01-97bd-761e27e1f76c",
+			"type": "equipment",
+			"description": "Suit Utility Package 'HPs-1' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "336c30a5-54ab-4516-8cb2-1af5215f7a3a",
+			"type": "equipment",
+			"description": "Suit Environmental Protection Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "d521cf39-d8f1-417b-bdce-e716976dd2ac",
+			"type": "equipment",
+			"description": "Suit Armor Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "b8cd5e7e-4a95-444f-87b9-156a8037828a",
+			"type": "equipment",
+			"description": "Suit Utility Package 'UPRz' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "74b10e69-d461-4b79-8209-56d6e8f8067f",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MZg' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.3 lb"
+			}
+		},
+		{
+			"id": "0cca7a2c-4c72-48a4-984c-eb4bd98d7194",
+			"type": "equipment",
+			"description": "CBRN Material Package 'CHst' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "11504e3d-4a3d-4b3f-a4df-1f4dcf24e046",
+			"type": "equipment",
+			"description": "Suit Utility Package 'DVgt' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.1 lb"
+			}
+		},
+		{
+			"id": "26c9b1d0-8785-48f4-aa55-4f99149cee6b",
+			"type": "equipment",
+			"description": "CBRN Material Package 'MSCh' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "67c3f4c7-ee2b-4559-9779-5a68144247d5",
+			"type": "equipment",
+			"description": "Suit Utility Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "a28104f9-e011-4cac-8b0e-461175098902",
+			"type": "equipment",
+			"description": "Ballistic Materials Package 'LGkY' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "92c61a84-01fb-4e4c-869c-75dd9ece8f15",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'C-22' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "b7ff9da7-6d59-4e38-899e-1154ffcba245",
+			"type": "equipment",
+			"description": "Aftermarket Parts Package 'D-19' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "91cdf2c9-b0bc-4902-8888-be6deb59c636",
+			"type": "equipment",
+			"description": "Weapon Body Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "ec72ec0a-3a92-46a9-97bb-d531025d8bde",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'F-23' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "6cfca852-5116-4972-a7f6-00d7b235abbf",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'Gzh-L' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "25b2c1f0-e52e-446b-be3e-fa833926668e",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'H-7' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.6 lb"
+			}
+		},
+		{
+			"id": "a1df4e3c-5afe-4b87-80d9-f717eb82bbe4",
+			"type": "equipment",
+			"description": "Weapon Mechanism Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "2207d5a0-8c53-4cff-a0ff-dc22e309d161",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'M-45' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "565a546d-9e59-4219-bb99-6319431f2d5b",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'SPS' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "b1a06d55-4edb-460e-a85c-f61b90bfaebd",
+			"type": "equipment",
+			"description": "Optical Scope Upgrade Kit (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "39ebf243-2343-4cbb-a7dc-d3f44a8b2425",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'K-01' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "7271ba23-8eb8-41a3-83ed-fa847d424c80",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'D-11' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.2 lb"
+			}
+		},
+		{
+			"id": "d6455c81-13bf-41af-a312-d953dcbd02ca",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'R-39' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.7 lb"
+			}
+		},
+		{
+			"id": "ddf5756f-2e1d-47b9-9e3d-d75f6ead7c86",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'OByE' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.7 lb"
+			}
+		},
+		{
+			"id": "7525a0ae-ccb0-4322-973c-a09d1f5865e8",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'MTt' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "5cdd2c39-2504-40b9-9ce7-8819364476d4",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'V-99' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "0ccd11ce-d6fd-47a4-a014-8f0622ea2934",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'W-02' (Basic)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "5c3bcb4f-3a99-4bd7-8ac6-9e2d71c6eafc",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'C-22' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "5faa144f-c633-4303-a14e-d4829e503c1d",
+			"type": "equipment",
+			"description": "Aftermarket Parts Package 'D-19' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "4dd843f4-d3ee-47a7-99ab-7009efdad79e",
+			"type": "equipment",
+			"description": "Weapon Body Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "20c93533-6901-4e2c-9dc1-071ad0a44ee6",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'F-23' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "e06fbd80-8cd6-4b8b-9c03-91541f66d45e",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'Gzh-L' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "83fb74eb-9afd-4487-9d97-4edd39fd496e",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'H-7' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.6 lb"
+			}
+		},
+		{
+			"id": "568bce94-c84d-4fda-8369-e0bb72e73df4",
+			"type": "equipment",
+			"description": "Weapon Mechanism Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "2ec15304-cbee-4113-b3dd-41c271cc72d1",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'M-45' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "5a58e479-c8ed-4692-b1cc-7a44cee0b612",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'SPS' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "162fb0ea-51fd-4a26-b5e9-78e5a3e1334f",
+			"type": "equipment",
+			"description": "Optical Scope Upgrade Kit (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "5bfcdbb2-63bc-4b10-810b-eea0539776d4",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'K-01' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "6f4ed22e-d63a-4c5f-8c96-25501fedded2",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'D-11' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.2 lb"
+			}
+		},
+		{
+			"id": "42d17bce-fda7-4cbc-b485-d7f7a1cfd200",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'R-39' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.7 lb"
+			}
+		},
+		{
+			"id": "34deb996-f168-4467-a516-79d4bfb8e006",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'OByE' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.7 lb"
+			}
+		},
+		{
+			"id": "63449a8a-3e14-4454-aa58-9966498700dd",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'MTt' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "3485d3ca-ca33-4c78-8307-e1c3aae6a74a",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'V-99' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "e7278dec-bd6e-44ec-8ec2-836932594245",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'W-02' (Advanced)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "f8963968-94d5-4194-baef-ca751b117b92",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'C-22' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "cbea926a-3af9-41bf-aefe-a565211dd1b7",
+			"type": "equipment",
+			"description": "Aftermarket Parts Package 'D-19' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.2 lb"
+			}
+		},
+		{
+			"id": "0d2dcefd-ad02-43b1-899a-a620b356f09c",
+			"type": "equipment",
+			"description": "Weapon Body Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "a66b95c0-ad9e-4862-b664-3b1c92fcc1c1",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'F-23' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "25e5c230-9ace-42c6-a055-a47745f2aea5",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'Gzh-L' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "8c4d85ae-3718-46a2-a041-dc142ea9a604",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'H-7' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.6 lb"
+			}
+		},
+		{
+			"id": "36566dcb-c6d6-4d85-be95-f2f5e9790c2b",
+			"type": "equipment",
+			"description": "Weapon Mechanism Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "8eea99f1-13ab-4762-9124-54eb544a9f7a",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'M-45' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "076c4c3a-101a-46af-8fa7-46d344a52f22",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'SPS' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "5b8a6c40-bcd9-4799-b91c-5d99efc58f6d",
+			"type": "equipment",
+			"description": "Optical Scope Upgrade Kit (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "6 lb"
+			}
+		},
+		{
+			"id": "12f75a01-affc-4e7d-b57d-a9accb103e05",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'K-01' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "0a4b953a-0783-46b7-8324-6368d531fc1a",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'D-11' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.2 lb"
+			}
+		},
+		{
+			"id": "ccc3afc5-d904-4bb3-8beb-46f58e6157c9",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'R-39' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.7 lb"
+			}
+		},
+		{
+			"id": "58d2e9cc-5abc-4077-8a5d-3ec87a83d9e0",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'OByE' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "2.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2.7 lb"
+			}
+		},
+		{
+			"id": "2f428051-3125-41d3-ba1a-4f3d1a2bfcb7",
+			"type": "equipment",
+			"description": "Firearm Optics and Mounts Package 'MTt' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "7f949aec-58a5-4403-9878-7251196cf99a",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'V-99' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "ff71733b-8c5a-4bfe-ad89-f6e47a4e9610",
+			"type": "equipment",
+			"description": "Small Arms Tuning Package 'W-02' (Fine-tuning)",
+			"legality_class": "4",
+			"tags": [
+				"Upgrades"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		}
+	]
+}
