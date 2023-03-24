@@ -1,0 +1,783 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "795836ab-2620-4dff-83b9-cb420c37f8dd",
+			"type": "equipment",
+			"description": "Portable Workshop",
+			"notes": "A combination of deployable table, workshop tools and an integrated stash. This allows stalkers to be more self-sufficient in less than friendly areas, though its weight is deterrent against crafting on the road.\n\nProperties: high capacity (integrated), usable for repairing equipment",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 460.41,
+			"weight": "20 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 460.41,
+				"extended_weight": "20 lb"
+			}
+		},
+		{
+			"id": "21b65c1c-17cd-411a-80d7-bf96c3910211",
+			"type": "equipment",
+			"description": "Sleeping Bag",
+			"notes": "A light sleeping bag that will keep you warm and dry when you need to rest. Be suere to pick a safe spot with a possible escape route.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 47.52,
+			"weight": "4.56 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 47.52,
+				"extended_weight": "4.56 lb"
+			}
+		},
+		{
+			"id": "d2049058-0347-4b7d-80e4-f08e38d79ce7",
+			"type": "equipment",
+			"description": "Camping Tent Bag (Full)",
+			"notes": "A bag containing a tent for camping, sheltering from rain and wind. Assembly and installation takes some time. In the Zone, it is best deployed in a place with escape routes in case of danger.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 84.35,
+			"weight": "4.56 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 84.35,
+				"extended_weight": "4.56 lb"
+			}
+		},
+		{
+			"id": "d95830a6-7717-461e-888e-9d036e0a2ada",
+			"type": "equipment",
+			"description": "Charcoal",
+			"notes": "Charcoal from hardwood timber.\n\nProperties: cooking fuel, 3 uses",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 23.24,
+			"weight": "5.44 lb",
+			"max_uses": 3,
+			"equipped": true,
+			"calc": {
+				"extended_value": 23.24,
+				"extended_weight": "5.44 lb"
+			}
+		},
+		{
+			"id": "f5524186-e5a0-4d39-8d24-c4e7cddb373f",
+			"type": "equipment",
+			"description": "Portable Keyboard",
+			"notes": "A luxury installation not often seen in the Zone. Although it does not offer any protection against mutants or hostile stalkers, it can provide a brief respite against the hostilities of the Zone. This one appears to have many music sheets of varying difficulty and a number of synthetic-sounding instruments.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 147.33,
+			"weight": "8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 147.33,
+				"extended_weight": "8 lb"
+			}
+		},
+		{
+			"id": "263a4625-3049-47d6-b819-fb0644aefda8",
+			"type": "equipment",
+			"description": "Guitar",
+			"notes": "The guitar is a string instrument widely used by stalkers of all factions throughout the Zone in order to raise spirits and fraternize. Stalkers can often be seen playing the guitar in camps, outposts or other places of relative safety - usually by the fire.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 59.3,
+			"weight": "3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 59.3,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "3dd25730-4072-43ca-aeb0-ef1076420ee6",
+			"type": "equipment",
+			"description": "Multitool",
+			"notes": "A worn but functional multitool, used to disassemble weapons and armor on parts and to maintain worn and rusty trigger mechanisms.\n\nProperties: disassembling tool, toolkit, usable for weapon parts maintenance, base condition gain: +25%, not usable below condition level: 60%, repair bonus: +6%",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 73.66,
+			"weight": "0.8 lb",
+			"max_uses": 1000,
+			"equipped": true,
+			"calc": {
+				"extended_value": 73.66,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "823fe273-d534-4e73-8871-ab2c1b1f07c2",
+			"type": "equipment",
+			"description": "Compact Psi-Light",
+			"notes": "An object of unknown origin and purpose. Originally, this strange object emitted lethal psi-waves and was the cause of death to many unsuspecting stalkers who braved the northern areas. This one was modified by Sakharov and, with the help of a Moonlight artefact, became a source of limitless light strength.\n\nFuel: gauss batteries",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 920.81,
+			"weight": "10 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 920.81,
+				"extended_weight": "10 lb"
+			}
+		},
+		{
+			"id": "c4f208c2-c66b-4a43-8d0d-7bdd6aa29ca6",
+			"type": "equipment",
+			"description": "Empty Exoskeleton Repair Kit",
+			"notes": "An empty case stripped of any useful items. Many stalkers simply discard these repair kits after tending to their high tech suits, though the capacity and size of this one is useful when reused as storage.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 18.42,
+			"weight": "2.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 18.42,
+				"extended_weight": "2.8 lb"
+			}
+		},
+		{
+			"id": "2bee6d98-5883-4af9-8155-5a3910343385",
+			"type": "equipment",
+			"description": "Gas Balloon",
+			"notes": "Heavy metal gas balloon. In the Zone, such canisters often contain a composition of methane, propane, ethane and butane, and can be used for cooking or heating as well as combat purposes, though some Zoners have found alternate ways of utilizing the gas balloons, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 147.33,
+			"weight": "20.72 lb",
+			"max_uses": 8,
+			"equipped": true,
+			"calc": {
+				"extended_value": 147.33,
+				"extended_weight": "20.72 lb"
+			}
+		},
+		{
+			"id": "dcae1328-1cf5-406d-ae6f-cd52d7022a32",
+			"type": "equipment",
+			"description": "Jerrycan",
+			"notes": "A large metal can filled with E95 gasoline. Usable as high-tier cooking fuel though some Zoners have found alternate ways of utilizing the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 119.71,
+			"weight": "16.96 lb",
+			"max_uses": 8,
+			"equipped": true,
+			"calc": {
+				"extended_value": 119.71,
+				"extended_weight": "16.96 lb"
+			}
+		},
+		{
+			"id": "3d442da0-e98d-4852-a55b-7dcb7b915d0f",
+			"type": "equipment",
+			"description": "Army Kettle",
+			"notes": "This army kettle is supplied with a wire-handle-loop for hanging and carrying. The bowl cover can be used as a pan when heating or preparing a dish. The handle of the lid is designed to hold it, securely closing the lid when carrying, and a tablespoon is inserted into the special holes on the handle.\n\nFuel: charcoal",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 113.44,
+			"weight": "2.66 lb",
+			"max_uses": 8,
+			"equipped": true,
+			"calc": {
+				"extended_value": 113.44,
+				"extended_weight": "2.66 lb"
+			}
+		},
+		{
+			"id": "87000872-e511-4cad-a14b-5e35fd7dd941",
+			"type": "equipment",
+			"description": "Artefact Melter",
+			"notes": "A strange and high-tech device created by Pr. Sakharov. The Artefacts Melter (AM) allows the manipulation of artefacts materials. This tool is fueled using the energy held by artefacts, which can be acquired and stored for further uses by melting them. The Artefacts Melter can also strengthen artefacts of the same kind, or even fuse artefacts of different kind to generate new ones. The chemical and physicall processes at work are not fully understood yet. Recent researches are pointing towards the ability of the tool to harness the Noosphere's power. Other experiments showed that the AM only works in the Zone. These findings quickly prompted most high ranked stalkers to acquire such a tool in order to create stronger and more expensive artefacts for the black market or their own use.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 276.24,
+			"weight": "3 lb",
+			"max_uses": 10,
+			"equipped": true,
+			"calc": {
+				"extended_value": 276.24,
+				"extended_weight": "3 lb"
+			}
+		},
+		{
+			"id": "ce761128-98d6-44ae-9a0d-00dc512a0471",
+			"type": "equipment",
+			"description": "Military Battery Unit",
+			"notes": "A heavy mil-spec battery for powering exoskeletons. Developed by Ukrainian research facilities based on Zone research, these high-density power packs can replace spent cells in exoskeleton power plants, or transfer power to onboard storage.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 197.97,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 197.97,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "b6862a7b-4b3c-4d78-8417-1c39d14cc9dd",
+			"type": "equipment",
+			"description": "Metal Box",
+			"notes": "A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its heavy weight make it harder to transport.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 92.08,
+			"weight": "16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 92.08,
+				"extended_weight": "16 lb"
+			}
+		},
+		{
+			"id": "c075eab2-594b-43ee-b0e3-ea75b120ff8b",
+			"type": "equipment",
+			"description": "Gun Case",
+			"notes": "An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 64.46,
+			"weight": "8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 64.46,
+				"extended_weight": "8 lb"
+			}
+		},
+		{
+			"id": "bdcca962-d672-42dd-b328-33dddb137d72",
+			"type": "equipment",
+			"description": "Field Cooking Kit",
+			"notes": "A field cooking travel kit containing cooking accessories and utensils for use when camping and travelling. Unwieldy due to its heavy weight but is still very popular among groups of stalkers. The Cooking Kit can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilization of more advanced equipment.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 42.54,
+			"weight": "1.92 lb",
+			"max_uses": 8,
+			"equipped": true,
+			"calc": {
+				"extended_value": 42.54,
+				"extended_weight": "1.92 lb"
+			}
+		},
+		{
+			"id": "165e51d7-c1f3-45fe-b9b8-cc873b726837",
+			"type": "equipment",
+			"description": "Multi-fuel Stove",
+			"notes": "Since fuels used in the multi-fuel stove are much more efficient energy-carriers than wood or coal, the multi-fuel stove is, in the long run, significantly more cost-effective than traditional wood and coal stoves. On the other hand, these fuels are usually carried in heavy metal containers, which makes them more suited for use at bases, rather than in field operations.\n\nFuel: gasoline, jerrycan, kerosene",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 187.02,
+			"weight": "1.86 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 187.02,
+				"extended_weight": "1.86 lb"
+			}
+		},
+		{
+			"id": "2eda0364-5770-459f-8686-ca8e01ed9baf",
+			"type": "equipment",
+			"description": "Advanced Tools",
+			"notes": "A decent set of old tools, but despite their age they appear to be in good condition. Contains a handful set of small pliers, tipped tweezers, probe and pick set. With enough knowledge and experience, this kit can be used for the creation of better equipment.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 184.16,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 184.16,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "081b4321-2289-417a-a786-77e5a6dbb6f6",
+			"type": "equipment",
+			"description": "Gunsmithing Tools",
+			"notes": "A decent set of old gunsmithing tools and accessories. Contains a pin punch set, wheeler hammer, press tool and a black powder measure kit. With enough knowledge and experience, this kit can be used for recycling damaged ammunition and the creation of better variants.\n\nProperties: requires suitable materials, usable on mechanic's workshop for crafting, a technician could use this to fully modify weapons and armor",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 162.06,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 162.06,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "ce1b5773-57b7-47e0-ad66-3569ad62a468",
+			"type": "equipment",
+			"description": "Basic Tools",
+			"notes": "A basic repair toolkit. Unlikely to be suitable for advanced maintenance, but could be useful in the hands of a thrifty technician. Contains different types and sizes of pliers, screws, adhesives and assorted fasteners. With enough knowledge and experience, this kit can be used for the creation of basic equipment.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 128.91,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 128.91,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "2b089a35-c395-4879-912f-4e24a080a6cb",
+			"type": "equipment",
+			"description": "Drug-making Kit",
+			"notes": "Small cases and various metal objects consitute a kit for managing and producing drugs. Contains some plastic packages, tablets and ampoules.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 121.55,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 121.55,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "f2d25402-5c9d-4516-882c-6b769a0fa822",
+			"type": "equipment",
+			"description": "Expert Tools",
+			"notes": "A professional set of high quality tools for fine-tuning equipment. Contains drill bit set, precision tweezers, soldiering iron, 4mm screwdriver bits and a multimeter. With enough knowledge and experience, this kit can be used for the creation of advanced equipment.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 257.83,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 257.83,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "b73cfa33-d50f-4618-8706-fe2c0e5f47c6",
+			"type": "equipment",
+			"description": "Radio",
+			"notes": "A radio in working condition. It is able to receive the same signals as those heard in many bases throughout the Zone.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 27.62,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 27.62,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "3cb29c40-e6a5-472f-a35d-ad127ac0c139",
+			"type": "equipment",
+			"description": "Battery Pack",
+			"notes": "A pack of batteries. Intended for use in flashlights, PDAs, night vision goggles and other electronic devices. Remember to keep a few spare ones in case of an emergency.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 11.49,
+			"weight": "0.26 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.49,
+				"extended_weight": "0.26 lb"
+			}
+		},
+		{
+			"id": "9bd7a998-a067-4c88-a209-b8abdebf87ae",
+			"type": "equipment",
+			"description": "Pack of Throwables",
+			"notes": "A small pack containing a handful of bolts and empty bullets used as a cheap alternative for anomaly navigation. This doesn't prevent you from picking up some tiny rocks from the ground - sometimes you find yourself in a place with no rocks and forget to bring some with you. This is for those situations. Also, some anomalies react differently to steel.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 13.08,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.08,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "ae318d32-f263-4e5c-ab8f-0da97db88d32",
+			"type": "equipment",
+			"description": "Matchbox",
+			"notes": "A small box in which matches are stored. Very valuable within the zone. Comes with 30 matches.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 12.19,
+			"weight": "0.1 lb",
+			"max_uses": 30,
+			"equipped": true,
+			"calc": {
+				"extended_value": 12.19,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "f24f53b4-cd07-48ad-9dd7-26143b60481f",
+			"type": "equipment",
+			"description": "Gas Lamp",
+			"notes": "Generates light by igniting a wick doused in kerosene. Lanterns are an uncommon light source amongst stalkers as fuel takes up weight and space that could otherwise be used for ammunition or pricelss artefacts. Experienced stalkers that regularly travel along the path less troden make use of these lamps for their hideouts.\n\nFuel: kerosene",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 110.5,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 110.5,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "3362729b-7aa5-477c-a76d-063c475c37d8",
+			"type": "equipment",
+			"description": "Metal Torch",
+			"notes": "A soviet-era handheld flashlight. This particular light can be constructed in the field, though its usefulness is hampered by its tight light spread. Experienced stalkers use thos to their advantage, illuminating potential intruders whilst maintaining their own concealment.\n\nFuel: batteries",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 67.4,
+			"weight": "1.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 67.4,
+				"extended_weight": "1.2 lb"
+			}
+		},
+		{
+			"id": "a3b51ffd-bb34-40be-b279-ccfc2a04917d",
+			"type": "equipment",
+			"description": "Grooming Kit",
+			"notes": "Grooming kit that packs a ballistic nylon travel case with a beard and moustache comb and detail facial scissors, featuring man-sized finger rings, ultra-sharp cutting blades of stainless steel, non-slip rubberized grip, and a precision trimming tip.\n\nProperties: disassembling tool, repari bonus: +2",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 2.95,
+			"weight": "0.26 lb",
+			"max_uses": 1000,
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.95,
+				"extended_weight": "0.26 lb"
+			}
+		},
+		{
+			"id": "ecbf9092-907a-45d2-9a22-aacf4af070a8",
+			"type": "equipment",
+			"description": "Harmonica",
+			"notes": "For blues and prison romance lovers.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 12.06,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 12.06,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "e54291be-7021-480e-a9c8-12ecbfb7e2e6",
+			"type": "equipment",
+			"description": "Quick Release System",
+			"notes": "The QR-system almost immediately removes the straps from your backpack and lets you escape to a safe place without the additional weight hampering your movement.\n\nProperties: built-in GPS",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 11.97,
+			"weight": "0.54 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.97,
+				"extended_weight": "0.54 lb"
+			}
+		},
+		{
+			"id": "9345a11f-5dc1-4654-852a-639b2098f20e",
+			"type": "equipment",
+			"description": "Personal Journal",
+			"notes": "A leather-bound journal.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 2.95,
+			"weight": "0.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.95,
+				"extended_weight": "0.14 lb"
+			}
+		},
+		{
+			"id": "9970dc3e-7098-4e29-806d-c37606385b13",
+			"type": "equipment",
+			"description": "Firestarter Set",
+			"notes": "A simple set of pine wood, impregnated with resin. The firestarter set allows you to create a small but steady hearth fire. An indespensable thing in any campaign, because it is easy to light up even in the wet.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 5.9,
+			"weight": "2.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 5.9,
+				"extended_weight": "2.8 lb"
+			}
+		},
+		{
+			"id": "67d9435e-8196-490b-8a37-57098950740b",
+			"type": "equipment",
+			"description": "10 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 0.184,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.184,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6d129314-2db4-4d6b-a9d7-9f140a256f26",
+			"type": "equipment",
+			"description": "1 Rouble Coin",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 0.0184,
+			"weight": "0.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.0184,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "06a4af4d-2b43-4dce-a4e8-dafcf2940a65",
+			"type": "equipment",
+			"description": "50 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 0.9208,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.9208,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "2ebe1eaa-f56d-4335-8c29-576639d0b6ec",
+			"type": "equipment",
+			"description": "100 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 1.84,
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.84,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "08c110dd-fe08-462b-8824-7a58ee6c8389",
+			"type": "equipment",
+			"description": "500 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 9.208,
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.208,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "f9a48787-e68b-4344-997c-d91bc8299d37",
+			"type": "equipment",
+			"description": "1000 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 18.41,
+			"equipped": true,
+			"calc": {
+				"extended_value": 18.41,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "51187c9d-66cd-44e8-853a-6103b4db2e8c",
+			"type": "equipment",
+			"description": "5000 Roubles",
+			"legality_class": "4",
+			"tags": [
+				"Tool",
+				"Currency"
+			],
+			"quantity": 1,
+			"value": 92.08,
+			"equipped": true,
+			"calc": {
+				"extended_value": 92.08,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "93e8d19d-52a8-4fc7-a62e-4d88d166ed36",
+			"type": "equipment",
+			"description": "Small Sack",
+			"notes": "Small cloth sheets sewn together to form a simple sack. While not particularly useful in permanent bases, this one finds its niche in creating a small stash when in pinch.",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 3.68,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.68,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "9db0a352-9dc4-44b4-87cd-c6eb268d03ef",
+			"type": "equipment",
+			"description": "Swiss Knife",
+			"notes": "The universal and elegant Swiss knife. It can be utilized as a supportive material in both weapon and outfit repairs.\n\nProperties: disassembling tool, repair bonus: +2%",
+			"legality_class": "4",
+			"tags": [
+				"Tool"
+			],
+			"quantity": 1,
+			"value": 16.57,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 16.57,
+				"extended_weight": "0.2 lb"
+			}
+		}
+	]
+}
