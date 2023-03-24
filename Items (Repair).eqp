@@ -424,135 +424,171 @@
 			"id": "2d674693-1d16-449a-9f21-19f7aa51249e",
 			"type": "equipment",
 			"description": "\"Brunox Gun Care\" Spray Lubricant",
+			"notes": "Spray can containing oil intended for lubricating and protecting firearms. Frequent application will prevent guns from malfunctioning and corroding, especially after prolonged use in combat situations. Bear in mind, however, that oil requires adequate tools to be spread properly and so that it can reach deep into weapon's inner mechanisms. \"Brunox\" should thus be regarded as more of an add-on thatn a stand-alone maintenance item.\n\nCOMPATIBILITY:\n- suited for all weapons\n\nPROPERTIES:\n- spray lubricant\n- usable for repairing equipment\n- base condition gain: +10%\n- not usable below condition level: 40%\n- repair bonus: +10%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 50.55,
+			"weight": "0.5 lb",
+			"max_uses": 5,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 50.55,
+				"extended_weight": "0.5 lb"
 			}
 		},
 		{
 			"id": "db3be7b8-003a-41fe-bca0-ae2f90754e19",
 			"type": "equipment",
 			"description": "\"Rusak\" Gun Oil",
+			"notes": "Plastic bottle containing a budget Russian mineral gun oil. Despite its low price, it can prove useful in keeping a firearm in good condition if applied frequently. Bear in mind, however that the oil requires adequate tools to be spread properly so that it can reach deep into weapon's inner mechanisms. \"Rusak\" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n\nCOMPATIBILITY:\n- suited for all weapons\n\nPROPERTIES:\n- liquid gun oil\n- usable for repairing equipment\n- base condition gain: +6%\n- not usable below condition level: 60%\n- repair bonus: +6%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 35.91,
+			"weight": "0.44 lb",
+			"max_uses": 5,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 35.91,
+				"extended_weight": "0.44 lb"
 			}
 		},
 		{
 			"id": "6338e34e-c1bb-442e-8d00-30f46ca4c3fb",
 			"type": "equipment",
-			"description": "\"Dvoja\" Gun Oil \u0026 Cleaning Solvent",
+			"description": "\"Dvojka\" Gun Oil \u0026 Cleaning Solvent",
+			"notes": "Iconic Red Army oil that has been in service for almost 70 years. The metal bottle is divided into two separate compartments, one for oil and the other one for the cleaning solvent. Bear in mind, however, that the oil requires adequate tools to be spread properly and so that it can reach deep into weapon's inner mechanisms. \"Dvojka\" should thus be regarded as more of an add-on that a stand-alone maintenance item.\n\nCOMPATIBILITY:\n- suited for all weapons\n\nPROPERTIES:\n- liquid gun oil and cleaning solvent\n- usable for repairing equipment\n- base condition gain: +15%\n- not usable below condition level: 50%\n- repair bonus: +15%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 45.12,
+			"weight": "0.18 lb",
+			"max_uses": 5,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 45.12,
+				"extended_weight": "0.18 lb"
 			}
 		},
 		{
 			"id": "41ea6786-45c0-48dd-8d7c-03194ceb2254",
 			"type": "equipment",
 			"description": "Advanced Sewing Kit",
+			"notes": "This advanced set contains more and better sewing accessories than its basic counterpart. Double reels of nylon thread and a large selection of higher-quality needles make it suitable for working on thicker and harder materials, including lighter mutant skins and artificial fibers. It is also capable of repairing more damaged outfits.\n\nCOMPATIBILITY:\n- all outfits and light headgear sets\n\nPROPERTIES:\n- usable for repairing equipment\n- base condition gain: +8%\n- not usable below condition level: 75%\n- repair bonus: +8%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 159.48,
+			"weight": "0.88 lb",
+			"max_uses": 4,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 159.48,
+				"extended_weight": "0.88 lb"
 			}
 		},
 		{
 			"id": "ba68a92b-b059-4443-9f26-86e55960cae7",
 			"type": "equipment",
 			"description": "Basic Sewing Kit",
+			"notes": "A light sewing kit consisting of a cloth reel, several steel needles and a pair of scissors. It can be used to sew up bullet holes or ruptures in soft fabrics of outfits. Its practical applications are limited due to the short length of the thread and subpar durability of needles, so so the kit will be useless in case of more serious damage. For the same reason, it's compatible with only a handful of materials. Nonetheless, it is strongly advise to always use whatever is available to make the kit more effective.\n\nCOMPATIBILITY:\n- all outfits and light headgear sets\n\nPROPERTIES:\n- usable for repairing equipment\n- base condition gain: +8%\n- not usable below condition level: 85%\n- repair bonus: +8%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 80.29,
+			"weight": "0.58 lb",
+			"max_uses": 4,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 80.29,
+				"extended_weight": "0.58 lb"
 			}
 		},
 		{
 			"id": "e3123d0d-92e2-450e-9b23-cfd5d723d37e",
 			"type": "equipment",
 			"description": "Heavy Sewing Kit",
+			"notes": "This military-grade, heavy sewing kit is designed to handle fractures in protective plates of modern combat armors. It contains enough metallic thread to put together outfits that have literally been torn apart. Capable of sewing on even hardest of mutant hides to your armor of choice. Another advantage of the kit are the basic mechanical tools that can be used to disassemble outfits and headgear in order to salvage repair materials. It's the highest quality sewing kit available in the Zone.\n\nCOMPATIBILITY:\n- all outfits and light headgear sets\n\nPROPERTIES:\n- usable for repairing equipment\n- base condition gain: +8%\n- not usable below condition level: 65%\n- repair bonus: +8%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 247.15,
+			"weight": "1.18 lb",
+			"max_uses": 4,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 247.15,
+				"extended_weight": "1.18 lb"
 			}
 		},
 		{
 			"id": "588ea4d2-dfae-4fc9-93b9-bf414d80fc77",
 			"type": "equipment",
 			"description": "Basic Sewing Thread",
+			"notes": "This sewing thread is made out of many different materials including cotton, linen, nylon, and silk. Every stalker knows it's not easy to avoid cloth tearing every so often due to the harsh environment inside the Zone. Saving a couple of sewing threads for long trips is a wise idea.\n\nPROPERTIES:\n- everyday item\n- usable for outfit parts maintenance\n- base condition gain: +25%\n- not usable below condition level: 50%\n- repair bonus: +3%\n- can repair materials by using their counterparts",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 11.05,
+			"weight": "0.02 lb",
+			"max_uses": 2,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 11.05,
+				"extended_weight": "0.02 lb"
 			}
 		},
 		{
 			"id": "b31c9e83-e4b3-4257-8a08-262720b69ecf",
 			"type": "equipment",
 			"description": "Three-piece Sharpening Stone Set",
+			"notes": "Super-practical 3 piece grindstone set for sharpening of blades and knives, packed in a nice polyester bag.\n\nCOMPATIBILITY:\n- suited for knives and blades\n\nPROPERTIES:\n- toolkit\n- usable for repairing equipment\n- base condition gain: +21%\n- not usable below condition level: 10%\n- repair bonus: +11%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 34.25,
+			"weight": "0.56 lb",
+			"max_uses": 4,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 34.25,
+				"extended_weight": "0.56 lb"
 			}
 		},
 		{
 			"id": "305e254e-29b8-44ef-8609-aa9b943c0e83",
 			"type": "equipment",
 			"description": "Hoppe's \"No. 9\" Cleaning Solvent",
+			"notes": "Western-made, high-quality firearm cleaning solvent, especially adapted for use in harsh environmental conditions, the Hoppe's No. 9 Bore Cleaning remains perhaps the most commonly used solution. Bear in mind, however, that the oil requires adequate tools to be spread properly and so that it can reach deep into weapon's inner mechanisms. \"No. 9\" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n\nCOMPATIBILITY:\n- suited for all weapons\n\nPROPERTIES:\n- liquid gun cleaning solvent\n- usable for repairing equipment\n- base condition gain: +15%\n- not usable below condition level: 30%\n- repair bonus: +15%",
 			"legality_class": "4",
 			"tags": [
 				"Repair"
 			],
 			"quantity": 1,
+			"value": 61.77,
+			"weight": "0.4 lb",
+			"max_uses": 5,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 61.77,
+				"extended_weight": "0.4 lb"
 			}
 		}
 	]
