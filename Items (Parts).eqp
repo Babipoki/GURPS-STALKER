@@ -566,6 +566,1266 @@
 				"extended_value": 2.4309,
 				"extended_weight": "0.26 lb"
 			}
+		},
+		{
+			"id": "5c8bb876-744d-4522-a40a-f9333c806b61",
+			"type": "equipment",
+			"description": "Kevlar K129 Plates w/ Reinforced Ceramic Inserts [CER]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "93602aa2-2d5a-45a3-b7ea-8b3892790c9a",
+			"type": "equipment",
+			"description": "Grade-A Polyethylene Plates w/ Expanded Carrier [A]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "3d7bdb94-8824-4c1b-aac0-b0042a039ba7",
+			"type": "equipment",
+			"description": "Kevlar K119 Plates [K]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "3b68abae-92ff-4b64-a762-e03444844e83",
+			"type": "equipment",
+			"description": "Reinforced Kevlar K119 Plates [RK]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "5f0fb245-529a-40f6-a4a8-f4e5e87ef237",
+			"type": "equipment",
+			"description": "Polyethylene Lightweight Armor Plates [LIGHT]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "0d8241f2-a117-4b28-b2ac-9dc379cedf2f",
+			"type": "equipment",
+			"description": "Polyethylene Armor Plates (Improvised) [PLATE]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "25ad919c-8382-484e-916a-e11eb70c3768",
+			"type": "equipment",
+			"description": "Carbon Nanotube Layers w/ Kevlar-49 Fabrics [N49]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "3fc95fcc-5630-4f30-8f4b-27e6a6ba9645",
+			"type": "equipment",
+			"description": "Carbon Nanotube Layers w/ Kevlar-29 Fabrics (Reinforced) [N29]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "98bb126f-a9d7-4775-ba0e-02dc30866d5f",
+			"type": "equipment",
+			"description": "Polyethylene Fibre Layers w/ Polycarbonate Inserts [PC]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "352a9813-3e28-4943-8412-b0e4f6e8e8f4",
+			"type": "equipment",
+			"description": "Reinforced Polyethylene Fibre Layers [POLY]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "540216f2-01b8-40ca-94cf-7a1dc5b4705e",
+			"type": "equipment",
+			"description": "Carbon-fibre Layers [CF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "09ebfdb2-1a75-4e64-a8f7-bb60e50fef47",
+			"type": "equipment",
+			"description": "Kevlar Protera Plates w/ Reinforced Ceramic Inserts [PRO]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "4d15ecee-c07f-4220-88f7-4507798d0e96",
+			"type": "equipment",
+			"description": "Reinforced Carbon-fibre Layers [RCF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "eb4d2f8b-6ef8-405b-af03-6c7390219be9",
+			"type": "equipment",
+			"description": "Kevlar 129 Plates w/ Polycarbonate Composite [KP]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "ef835318-f595-46e5-acac-333b05aa9f88",
+			"type": "equipment",
+			"description": "Kevlar K129 Plates w/ Carbon-fibre Composite [KCF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d4cdeabd-fcfd-45bd-b3d0-230d367d047c",
+			"type": "equipment",
+			"description": "Kevlar AP Steel Plates [STEEL]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "a865e3b9-bc1d-47ab-a2fe-3f5633546b73",
+			"type": "equipment",
+			"description": "Kevlar AP Plates w/ Reinforced Titanium Composite [TITAN]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "43fa23a4-74ec-4890-9776-a47859a897e0",
+			"type": "equipment",
+			"description": "Kevlar K119 Plates w/ Polycarbonate Inserts [KP]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "4d92f4e6-ca66-4669-8a64-24ab8f518960",
+			"type": "equipment",
+			"description": "Kevlar K119 Plates with Carbon-fibre Inserts [KCF-B]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "55932db4-b9e3-4af0-bd23-58f3531e8452",
+			"type": "equipment",
+			"description": "Grade-B Polyethylene Plates w/ Expanded Carrier [B]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6884148b-145d-445e-8f91-3a79b220ed61",
+			"type": "equipment",
+			"description": "Cloth Sheets [CLOTH]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8d2a7dca-a51e-4246-86c5-a5317f152d9a",
+			"type": "equipment",
+			"description": "Cloth Sheets (Synthetic) [SYTH]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "181d15da-cd62-437c-b6ee-f8a3c0da4a89",
+			"type": "equipment",
+			"description": "Durable Textiles [DURA]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "443c3cb0-fa5e-49e5-bdce-a2b89b9f0c86",
+			"type": "equipment",
+			"description": "Mil-Spec Textiles [MIL]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e016fb02-d090-428c-9004-c05536b6f8f0",
+			"type": "equipment",
+			"description": "Layered Fire Retardant Fabrics [LFRF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "bf1fcb89-1a80-4463-a44d-a4cbd3e701b5",
+			"type": "equipment",
+			"description": "Polymer Sheets (Barium-Sulfate Coating) [BA]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "3ed45a26-b1c6-4c55-9418-93a7cd107ffc",
+			"type": "equipment",
+			"description": "Aluminized Layers of Retardant Fabrics [ALUM]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "70a380cb-80e2-45bb-9449-d33454875cf6",
+			"type": "equipment",
+			"description": "Aluminized Fiberglass Fabrics [ALUMF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "2b2d8243-1a20-4da9-8acf-73633c6ad0be",
+			"type": "equipment",
+			"description": "PBI-blended Fabrics [PBI]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "5122e870-db2f-4b4c-8e21-e3da6b20d6fe",
+			"type": "equipment",
+			"description": "PBI-blended Fabrics w/ Polyester Treatment [PBI-P]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "95d06d76-ffb9-4b9d-82ef-beea998ff232",
+			"type": "equipment",
+			"description": "Activated Carbon Cloth (ACC) Fabrics [ACC]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "63066618-48bf-491e-84ab-2f4149c75e34",
+			"type": "equipment",
+			"description": "Active Charcoal-treated Non-woven Fabrics [CHAR]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6df5ce37-5368-4b45-bf95-111db61597c2",
+			"type": "equipment",
+			"description": "Insulating Constantan Inserts [CONST]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "05ce4d32-f69f-4f1a-84d5-3e46776a3cd2",
+			"type": "equipment",
+			"description": "Insulating Constantan Inserts w/ Fiberglass Coating [FIBER]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "68d668cc-577e-4f8a-92fd-bea4f8c0a5ea",
+			"type": "equipment",
+			"description": "Insulating Fibreglass \"Polyester\" Fabrics [POLY-B]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "33c21222-4f84-4d4f-b919-2a40d82b3f95",
+			"type": "equipment",
+			"description": "Layered Chemical/Shock Retardant Fabrics [LSF]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "f7def35a-436d-4b80-9d95-f61257ba5761",
+			"type": "equipment",
+			"description": "Insulating Fibrelgass \"Satin Weave\" Fabrics [SATIN]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d61f28af-69fd-4e37-92be-9db95c6b8c6a",
+			"type": "equipment",
+			"description": "Grade-B RPVC Treated Fabrics [RPVC]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8a5633ad-d705-4b53-b0ed-0c74168ba89b",
+			"type": "equipment",
+			"description": "Grade-A RPVC Vinyl Fabrics [A-RPVC]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "df65611c-6670-4fbf-bf63-2a568faf472d",
+			"type": "equipment",
+			"description": "PVC/Rubber Coated Fabrics [PVC]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "a4990edb-b444-41d7-b055-1db791137540",
+			"type": "equipment",
+			"description": "PVC/Carbon-fibre Fabrics [CF-B]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "14420f8a-ea95-4496-8c17-5feea20fcfa7",
+			"type": "equipment",
+			"description": "Insulating Magnesium Grid Inserts [MG]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "56c5ed70-e07f-4202-bc9d-f3c5a9305a73",
+			"type": "equipment",
+			"description": "Insulating Reinforced Magnesium-oxide Grid [MGO]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "7840c62d-4a50-4209-b86e-7dd7e5d1786e",
+			"type": "equipment",
+			"description": "Polymer Sheets (Mismuth-sulfate Coating) [BI]",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "cc045533-a529-4eff-8701-5582d9ffc4dd",
+			"type": "equipment",
+			"description": "Dropping-block Breech [R] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "591fe4c4-1a6a-4136-9319-207b54249735",
+			"type": "equipment",
+			"description": "Rotating Locking Head [8 Locks] [A] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "afb18f7d-8a33-45c6-b5a7-190fe8ad2f71",
+			"type": "equipment",
+			"description": "Supercharger with Hammer from a Double-barrel Shotgun [R] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6693a772-ef53-4f53-aee2-c7acf37107a0",
+			"type": "equipment",
+			"description": "Hammers from a Hammer-type Double-barrel Shotgun [R] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "034d4c6d-9909-4ad3-8c93-f97200c300a9",
+			"type": "equipment",
+			"description": "Rotating Locking Head [2 Locks] [A] [NATO] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "4093efad-90a9-4bd9-84d5-5106f6e5dd4a",
+			"type": "equipment",
+			"description": "Rotating Locking Head [A/PP] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "1bbd34d5-79b9-49b5-a904-8453e61a2278",
+			"type": "equipment",
+			"description": "Drummer with Mainspring [PP] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "3de70c33-a4d7-4e83-b51c-d19c917fe0c3",
+			"type": "equipment",
+			"description": "Drummer with Mainspring [PP] [NATO] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "37cb441c-6c04-4cb6-adf5-6542ddd37d6c",
+			"type": "equipment",
+			"description": "Drummer with Mainspring [PP] [PPSh] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "1056f8d5-c2c5-4de3-9c18-2314993af280",
+			"type": "equipment",
+			"description": "Rotating Locking Head [2 Locks] [P] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e7bf65f8-df02-4b8e-ad65-c9c2ca4ac426",
+			"type": "equipment",
+			"description": "Rotating Locking Head [2 Locks] [K] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6ea20d5b-3732-4843-9cfd-4460da4eb8e3",
+			"type": "equipment",
+			"description": "Rotating Locking Head [2 Locks] [V] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "bb7a7373-b44b-4727-9305-67ab4469cf6d",
+			"type": "equipment",
+			"description": "Rotating Locking Head [3 Locks] [V] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "5de657e7-4f5a-4b6f-900d-527c906254ed",
+			"type": "equipment",
+			"description": "Rotating Locking Head [2 Locks] [A] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "669c99f6-07e4-4cdf-805c-ff997d5e89c5",
+			"type": "equipment",
+			"description": "Rotating Locking Head [4 Locks] [AS] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "670addf1-bc14-49cb-9630-2deb7da0bf98",
+			"type": "equipment",
+			"description": "Rotating Locking Head [6 Locks] [A] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "4289a170-13b6-4d91-9e13-df6ac238f7ae",
+			"type": "equipment",
+			"description": "Rotating Locking Head [7 Locks] [A] (Bolt)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8411ab97-bef9-4141-9524-245d11f176df",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with Turning Bolt Lock [R] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "942249fe-fc7e-4223-9841-3f936de53d61",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with Turning Bolt Lock [NATO] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "52de10f5-5387-48fc-a29a-0300cbb6b629",
+			"type": "equipment",
+			"description": "Longitudinal-a Sliding Free Bolt Carrier [PP] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "0ea471b3-aca5-4d98-a971-2ce65bcb6719",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with Turning Bolt Lock [R] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "76b5747c-cb52-4536-a14b-96c85f1a88be",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with Turning Bolt Lock [NATO] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "9166ea12-08ec-45bf-aa5c-f07ff71330b6",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with a Locking Bias [BIAS] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "fc707c55-2af3-461d-b859-8ef38a4726e8",
+			"type": "equipment",
+			"description": "Half-Free Sliding Bolt Carrier [HALF] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "996a681c-efc3-4940-98db-d5f0d32312c7",
+			"type": "equipment",
+			"description": "Sliding Bolt Carrier with Locking Bolt [LOCK] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d2cb620c-08e6-4a62-8689-e0323e6c2c5d",
+			"type": "equipment",
+			"description": "Lever-type Bolt Carrier with Locking Wedge [LEVER] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "973c8473-c23a-4f63-a93c-7d31706cef8f",
+			"type": "equipment",
+			"description": "Choke from Double-barrel Shotgun [R] (Carrier)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "f9ba13ce-b9f0-450f-aa22-9147a8ba8ce7",
+			"type": "equipment",
+			"description": "Gas Tube [K] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d8a459d1-6136-458a-92ac-d7da4bfca340",
+			"type": "equipment",
+			"description": "Ejector from Over-under Double-barrel Shotgun [R] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "ebbbcd3b-6164-4e0d-a3ef-9f4b5878868d",
+			"type": "equipment",
+			"description": "Gas Tube [PP] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "1e4e8dab-01f7-426a-ba9a-f4b5f93e7ffd",
+			"type": "equipment",
+			"description": "Handguard [R] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d02f2628-0e38-4943-9662-6e438c46b833",
+			"type": "equipment",
+			"description": "Gas Tube [V] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8dbc2e09-7d2b-4ee3-9d54-98c50537e272",
+			"type": "equipment",
+			"description": "Gas Tube [AS/PP] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d1874b34-9ffe-4686-9299-1fcce2a7c968",
+			"type": "equipment",
+			"description": "Gas Tube [A|V] [R] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "01904f68-365c-49c9-9231-4f6f097263ef",
+			"type": "equipment",
+			"description": "Gas Tube [A|V] [NATO] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e4c9daa9-dbe9-4b9d-82b3-ac91121a87e5",
+			"type": "equipment",
+			"description": "Gas Tube [P] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "6ad739f7-1b9f-4bc0-845a-e091f206cf38",
+			"type": "equipment",
+			"description": "Ejector [V] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "2a5d8c73-d691-4d5f-be49-1f1bd4460a50",
+			"type": "equipment",
+			"description": "Ejector from Over-under Double-barrel Shotgun [R] (Gas Tube)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "eb67a15a-8390-4edc-a11c-f586879681f7",
+			"type": "equipment",
+			"description": "9x18mm Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "65b59fbd-4a9b-44b7-9f25-568225a96d8f",
+			"type": "equipment",
+			"description": "9x19mm Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "62aaa76c-9bb8-4322-b187-9afdcf1a4462",
+			"type": "equipment",
+			"description": ".45 Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "b4df419c-41b4-401e-b121-37df82befaf3",
+			"type": "equipment",
+			"description": "5.7mm Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "acdc5e76-7784-41de-8e86-146c83e7ba72",
+			"type": "equipment",
+			"description": "7.62mm Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "9cb77a83-509e-41d1-a683-cdc24f5daaf7",
+			"type": "equipment",
+			"description": "9x18mm Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "32cc24c0-7173-49fc-aaa9-1567738107e7",
+			"type": "equipment",
+			"description": ".357 Barrel",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "590ec8a2-456f-4a5e-85b8-38b4e0c575cb",
+			"type": "equipment",
+			"description": "9mm Recoil Spring Assembly [Soviet] (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8a569fef-d016-4e56-a545-33a066f66884",
+			"type": "equipment",
+			"description": "9mm Recoil Spring Assembly [Russian] (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "0f7ea041-cfe7-4ad7-a9ab-4dc36b24a0b9",
+			"type": "equipment",
+			"description": ".45 Recoil Spring Assembly (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e1aaa700-c621-46ae-85bd-ce6de7fbe83d",
+			"type": "equipment",
+			"description": "9mm Recoil Spring Assembly [Western] (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "2b19bff5-373a-45d8-92b0-03668453954a",
+			"type": "equipment",
+			"description": "7.62mm Recoil Spring Assembly (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e866668d-1e35-442e-9cf7-8a7ebbc97b31",
+			"type": "equipment",
+			"description": "Recoil Spring Assembly (R1 DE 6\") (Spring)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "c2ea3fc9-b0ce-49c0-99e4-29547553b0eb",
+			"type": "equipment",
+			"description": "Single-action Trigger Mechanism [SA] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "46cf1bd2-20ef-4a54-950a-571298b9891b",
+			"type": "equipment",
+			"description": "Double-action Trigger Mechanism [DA] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "9c92f9e7-3b1f-4672-b887-fbc0a72ed59f",
+			"type": "equipment",
+			"description": "Double-action (DA/SA) Trigger Mechanism [DA/SA] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "c9851e93-3db9-4c8d-aa87-6008e5cfb1fb",
+			"type": "equipment",
+			"description": "\"MP412\" Double-action Trigger Mechanism (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "0b206477-b614-4281-b06c-d56cf1b42f17",
+			"type": "equipment",
+			"description": "Single-mode Hammer Type Trigger [1 MOD](Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "b2ef2ebc-7ed7-42df-8b23-7f65cd29e38c",
+			"type": "equipment",
+			"description": "Double-mode Hammer Type Trigger [2 MOD] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "f10226e8-7d4d-4812-8d50-ea5463d97c02",
+			"type": "equipment",
+			"description": "Triple-fire Hammer Type Trigger [3 MOD] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "db0db99d-2a4f-4a24-a823-5dab59eeee3e",
+			"type": "equipment",
+			"description": "Single-fire Mode Trigger Mechanism with Firing Ping [1+PIN] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "082a2daa-7b79-48c7-8727-7ea215758f63",
+			"type": "equipment",
+			"description": "Double-fire Mode Trigger Mechanism with Firing Pin [2+PIN] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "5fa2ada9-57e0-4123-a988-b0ae8d979aca",
+			"type": "equipment",
+			"description": "Trigger Mechanism with Hammer [R] (Trigger)",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
 		}
 	]
 }
