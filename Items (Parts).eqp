@@ -1,0 +1,571 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "199424f4-f898-44e9-b8db-a20f7b05de8c",
+			"type": "equipment",
+			"description": "18.5mm Barrel [R]",
+			"notes": "Barrel from an 18.5mm double-barrel shotgun.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1.5 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "bf48f0ec-510b-4fb4-8c72-ec4d034c318f",
+			"type": "equipment",
+			"description": "7.62mm Barrel [P]",
+			"notes": "Barrel from a 7.62mm rifle with a gas regulator.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1.5 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "02669fe9-1048-42ef-add3-20ce8246382c",
+			"type": "equipment",
+			"description": "9mm Barrel [AS/PP]",
+			"notes": "Barrel from an automatic special purpose 9mm or PP rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.3 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.3 lb"
+			}
+		},
+		{
+			"id": "c8bf1b34-76a4-439f-8697-2db2a661901c",
+			"type": "equipment",
+			"description": "7.62mm Barrel [PP]",
+			"notes": "Barrel from the infamous or even legendary PPSh submachine gun system.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.3 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.3 lb"
+			}
+		},
+		{
+			"id": "2674262f-fca0-451e-bf84-4aff87290595",
+			"type": "equipment",
+			"description": "12.7x55mm Barrel",
+			"notes": "Barrel from an automatic 12.7x55mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1.5 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "8594b42d-a6ab-44a1-ab57-1628440c3fdf",
+			"type": "equipment",
+			"description": "18.5mm Barrel [R]",
+			"notes": "Barrel from an 18.5 cock double-barrel shotgun.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1.5 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "ca0d3451-f518-4629-891c-b5f73d9ada72",
+			"type": "equipment",
+			"description": "18.5mm Barrel [K]",
+			"notes": "Barrel from an 18.5mm smooth-bore rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.8 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "a2c9eae0-f6c7-49c9-b96d-2f3d8a51984a",
+			"type": "equipment",
+			"description": "7.62mm Barrel [V]",
+			"notes": "Barrel from a 7.62mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "e3272321-6922-4b33-afb2-d0729ff6a448",
+			"type": "equipment",
+			"description": "7.92mm Barrel [V]",
+			"notes": "Barrel from a German 7.92mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "1 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "62947add-3ccf-4f6b-b333-631040493564",
+			"type": "equipment",
+			"description": "9mm Barrel-suppressor [AS/PP]",
+			"notes": "Barrel with an integrated silencer from an automatic special purpose 9mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.74 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.74 lb"
+			}
+		},
+		{
+			"id": "7a46ce4d-ec27-4710-935b-bbb656292e2e",
+			"type": "equipment",
+			"description": "7.62mm Barrel [A|V]",
+			"notes": "Barrel from a semi-automatic or automatic 7.62mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.66 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.66 lb"
+			}
+		},
+		{
+			"id": "b549aa1c-1d02-477c-8326-478b80a74595",
+			"type": "equipment",
+			"description": "5.45mm Barrel [A]",
+			"notes": "Barrel from an automatic 5.45mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.6 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.6 lb"
+			}
+		},
+		{
+			"id": "9fa53765-24fa-4f57-a310-fd022941346f",
+			"type": "equipment",
+			"description": "5.56mm Barrel [A]",
+			"notes": "Barrel from an automatic 5.56mm rifle.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Barrel"
+			],
+			"quantity": 1,
+			"value": 14.73,
+			"weight": "0.6 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 14.73,
+				"extended_weight": "0.6 lb"
+			}
+		},
+		{
+			"id": "28fd27d8-5527-4613-beec-cda6b72f9343",
+			"type": "equipment",
+			"description": "Exoskeleton Frame",
+			"notes": "Mechanical frame powered by a system of electronic motors, pnematics, levers and hydraulics that give the weared both superior protection as well as greatly increased physical strength.\n\nProperties:\n- repair bonus: +25%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Frame"
+			],
+			"quantity": 1,
+			"value": 92.08,
+			"weight": "13.4 lb",
+			"max_uses": 100,
+			"equipped": true,
+			"calc": {
+				"extended_value": 92.08,
+				"extended_weight": "13.4 lb"
+			}
+		},
+		{
+			"id": "4e9131b7-27a5-4fb7-8abe-400ec893e616",
+			"type": "equipment",
+			"description": "Ammo Parts",
+			"notes": "These ammo parts can be reused for the creation of better variants. This is why some stalkers prefer to keep them around.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.958,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.958,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "184f76f1-4e35-4719-aded-3cca1f7c45d3",
+			"type": "equipment",
+			"description": "Pack of Capacitors",
+			"notes": "Electric capacitors can store electricity. The simplest capacitor consists of two metal plates and a dielectric between them. It is a main component in most electrical devices due to its job in rectifying alternative current, storing electrical energy and bypassing noise. They are quite rare in the Zone, but are very useful.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 3.554,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.554,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "e1f3d647-c6de-4de0-ada3-4af218d1338d",
+			"type": "equipment",
+			"description": "Ceramic Base",
+			"notes": "Hard, brittle, heat-resistant and corrosion-resistant materials.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.847,
+			"weight": "0.42 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.847,
+				"extended_weight": "0.42 lb"
+			}
+		},
+		{
+			"id": "ded03d5c-81a1-412a-a24b-78c6075686a2",
+			"type": "equipment",
+			"description": "Copper Wire",
+			"notes": "Electrotechnical copper wire is used in many devices to control the transmission or use of electric energy. In its pure form it is rare, but if necessary it can be easily extracted from common old radios, walkie-talkies and other electronics.\n\nProperties: repair bonus of +4%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 2.468,
+			"weight": "0.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.468,
+				"extended_weight": "0.14 lb"
+			}
+		},
+		{
+			"id": "ee56bf55-721e-4320-96ea-6364293c8ea1",
+			"type": "equipment",
+			"description": "Fasteners",
+			"notes": "Handful of screws, washers, nuts, nails and small pieces of metallic plates. A variety of many different types and sizes. Could be used to aid in repairing gear in the field, or perhaps even crafting.\n\nProperties: repair bonus of +2%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 1.344,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.344,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "508bda67-a821-4c2b-9b75-940c1ca3868e",
+			"type": "equipment",
+			"description": "Glass Pieces",
+			"notes": "Pieces of shattered glass - handle with care.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.442,
+			"weight": "0.36 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.442,
+				"extended_weight": "0.36 lb"
+			}
+		},
+		{
+			"id": "0d4d1293-8bff-4c21-b6db-4f17f2e765d1",
+			"type": "equipment",
+			"description": "Leather Roll",
+			"notes": "A roll of leather.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.994,
+			"weight": "0.24 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.994,
+				"extended_weight": "0.24 lb"
+			}
+		},
+		{
+			"id": "b53b622e-6297-4cd5-add3-1a9ef561875f",
+			"type": "equipment",
+			"description": "Paper Sheets",
+			"notes": "Torn sheets of silk coated paper. Even in a place like the Zone, it can be used for all kind of things. The cheapest way for packaging food or cleaning dirt.\n\nProperties: repair bonus of +1%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 1.123,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.123,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "c6669b61-489b-448c-b18c-f4639de78020",
+			"type": "equipment",
+			"description": "Plastic Film",
+			"notes": "A small pack made of low density polyethylene film. These thing plastic membranes are used to seperate areas or volumes, hold items and act as barriers. Plastic films are used in a wide variety of applications. Despite being partly torn, polyethylene's characteristics makes it a great solution for packaging and isolating, especially for food and medicine.\n\nProperties: repair bonus of +1%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 2.652,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.652,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "fa78bc70-a52a-4370-be0e-469ae02fdbb2",
+			"type": "equipment",
+			"description": "Box of Resistors",
+			"notes": "Resistors are the most common electronic components found in electronics. They limit and direct the passage of electrical current through circuit branches to ensure other components are getting voltage feeding. This box contains a good set of resistors with different resistance values and tolerance, ranging from 12 up to 82M ohms.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 2.578,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.578,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "d5c4bdd1-f7ac-4e1b-b1f7-ba3efc517edd",
+			"type": "equipment",
+			"description": "Rubber",
+			"notes": "Standard, industrial quality rubber.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.405,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.405,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "14ae681f-d5ff-4b50-984d-5283f7f026ef",
+			"type": "equipment",
+			"description": "Metallic Scrap",
+			"notes": "Handful of metal bits and pieces of equipment. A variety of many different types and grades of steel and aluminum alloys. Could be used to aid in repairing gear in the field, or perhaps even in crafting.\n\nProperties: repair bonus of +1%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 0.9208,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.9208,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "3cf35506-4c94-4f09-85e5-c5f7eaa0b454",
+			"type": "equipment",
+			"description": "Textolite Base",
+			"notes": "Layered plastic based on fabric of fibers and polymetric binder (bakelite, polyester resin, epoxy resin). With proper skill it can be great help in repairing.\n\nProperties: repair bonus of +2%",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 3.278,
+			"weight": "0.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.278,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "3bdb1084-5b94-438a-a799-ee729d19f3b2",
+			"type": "equipment",
+			"description": "Box of Transistors",
+			"notes": "A box of high-quality BJT transistors. A transistor consists of three semiconductor parts (base, emitter, collector) that serve together to generate, convert and amplify electrical oscillations.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 4.419,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4.419,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "23ce4411-5ec4-4e77-a283-b8e0add99048",
+			"type": "equipment",
+			"description": "Wooden Parts",
+			"notes": "Pieces of wide-grained, light cedar wood. Mostly used for outdoor projects such as furniture, decks and tools. While it's not that useful in a place like the Zone, it could be used in crafting.",
+			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Base Component"
+			],
+			"quantity": 1,
+			"value": 2.4309,
+			"weight": "0.26 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.4309,
+				"extended_weight": "0.26 lb"
+			}
+		}
+	]
+}
