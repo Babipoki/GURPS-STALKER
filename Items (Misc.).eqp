@@ -1,0 +1,1254 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "9d4dc063-5fb0-4eb2-8aaf-a3952d53438d",
+			"type": "equipment",
+			"description": "Burer Brain",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.24 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.24 lb"
+			}
+		},
+		{
+			"id": "5ad9be41-ff5f-453b-acad-8640dc11eb3e",
+			"type": "equipment",
+			"description": "Controller Brain Tissue",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.52 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.52 lb"
+			}
+		},
+		{
+			"id": "2c6ca2c5-8a3f-44c5-b8a6-81fb1eb92cec",
+			"type": "equipment",
+			"description": "Fracture Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "c7ad22b6-7a3f-41d9-9100-b692315ff7e0",
+			"type": "equipment",
+			"description": "Chimera Heart",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "f88856f3-192a-427d-82b1-b59acd564400",
+			"type": "equipment",
+			"description": "Pseudogiant Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.18 lb"
+			}
+		},
+		{
+			"id": "1f9ed538-0c59-4c1c-88f6-922821857076",
+			"type": "equipment",
+			"description": "Snork Mask",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "f917a184-9750-496d-addd-0282e31e2aa6",
+			"type": "equipment",
+			"description": "Cat Thyroid",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "a5acccee-ff27-4a2b-9c86-a85cd0328970",
+			"type": "equipment",
+			"description": "Cat Tail",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "c228f2c9-67b3-49c4-9169-9d61c8ec7bc6",
+			"type": "equipment",
+			"description": "Dog Tail",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "70a80fca-8282-4049-b393-e1e87ce97801",
+			"type": "equipment",
+			"description": "Pseudodog Tail",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "ad5dc87d-578b-4112-80d7-161d2eed296b",
+			"type": "equipment",
+			"description": "Zombie Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "e3584075-ccf7-4a94-a79a-25dd146e3854",
+			"type": "equipment",
+			"description": "Bed Spread",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.74 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.74 lb"
+			}
+		},
+		{
+			"id": "fe49f736-2f3a-4d92-8c3d-3515725a278b",
+			"type": "equipment",
+			"description": "Synthetic Ropes",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.96 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.96 lb"
+			}
+		},
+		{
+			"id": "9e91c8ff-6af1-4e55-ad7b-5232cc052b5f",
+			"type": "equipment",
+			"description": "Dog Heart",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.14 lb"
+			}
+		},
+		{
+			"id": "50871816-7815-4790-a09e-95e3fa9b8dd1",
+			"type": "equipment",
+			"description": "Gas Balloon (Empty)",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "20.36 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "20.36 lb"
+			}
+		},
+		{
+			"id": "463cbbc0-2c65-42fe-a09f-0473fd8f89c6",
+			"type": "equipment",
+			"description": "Jerrycan (Empty)",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "4.76 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "4.76 lb"
+			}
+		},
+		{
+			"id": "870b685d-d69e-447f-9859-862ad6c936c2",
+			"type": "equipment",
+			"description": "Camouflaged Tarpaulin",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.2 lb"
+			}
+		},
+		{
+			"id": "03d7c60d-223c-45ae-b69e-c12ee3419d46",
+			"type": "equipment",
+			"description": "Underwear",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "2127c857-8b03-4318-a7a2-5c84ae876f45",
+			"type": "equipment",
+			"description": "Dog Liver",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.26 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.26 lb"
+			}
+		},
+		{
+			"id": "87750570-e94b-45d2-92bb-577a8ec56fb5",
+			"type": "equipment",
+			"description": "Bloodsucker Heart",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "5d54a3a3-ea1a-46be-b4aa-2097bd5c295c",
+			"type": "equipment",
+			"description": "Bloodsucker Jaw",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "f455263c-8a69-4b9d-9673-646d83346d31",
+			"type": "equipment",
+			"description": "Snork Leg",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "ec7828aa-3f43-48ab-b8a1-f66398f8d755",
+			"type": "equipment",
+			"description": "Kerosene",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "8.94 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "8.94 lb"
+			}
+		},
+		{
+			"id": "0ed836d5-31ba-4a57-97ad-c276d3977a7d",
+			"type": "equipment",
+			"description": "Russian PLAYBOY",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "9f9a1acf-556b-4992-82b3-73815e586b91",
+			"type": "equipment",
+			"description": "Ukrainian MAXIM",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "a6be1372-7761-43ff-8080-6cb04578acbb",
+			"type": "equipment",
+			"description": "Military Field Shovel",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.36 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.36 lb"
+			}
+		},
+		{
+			"id": "45c02764-2f85-4aaa-964a-bca815dbed2f",
+			"type": "equipment",
+			"description": "Controller Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "7ad6b8a8-620c-46a8-914a-d692be3a1b48",
+			"type": "equipment",
+			"description": "Metal Shovel",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1.54 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1.54 lb"
+			}
+		},
+		{
+			"id": "cb329956-14a6-4064-87ba-702725c65300",
+			"type": "equipment",
+			"description": "Boar Leg",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "98f0dcb1-d72a-437b-8fee-dfad2fbc0702",
+			"type": "equipment",
+			"description": "Burer Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "97059d52-0bb9-4628-8561-60c4660fdc97",
+			"type": "equipment",
+			"description": "Cat Claw",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "2ae8f37c-16d5-4924-ba17-4e6e1940d966",
+			"type": "equipment",
+			"description": "Chimera Claw",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "e29d5d57-3fcd-45d2-aee3-534683aa7ce8",
+			"type": "equipment",
+			"description": "Chimera Horn",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "a4005877-e807-4f03-80c9-c21cf4f9031e",
+			"type": "equipment",
+			"description": "Mutated Crow Beak",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "515fe698-907e-431e-a9c6-d8629bc9b251",
+			"type": "equipment",
+			"description": "Pseudodog Fang",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "8e4acfcf-bbc1-4206-ae32-afcbe1de68e1",
+			"type": "equipment",
+			"description": "Flesh Eye",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "33e781f9-8103-4dba-9390-66b4739c86ca",
+			"type": "equipment",
+			"description": "Lurker Eye",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "8bca5173-11d0-4cd3-8e8b-43c29cb17d1d",
+			"type": "equipment",
+			"description": "Lurker Tail",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "a4c86c87-3e0f-47ea-8537-2e36fbc6fceb",
+			"type": "equipment",
+			"description": "Pseudogiant Eye",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "8af0a168-fdb9-4647-bb25-b58575581133",
+			"type": "equipment",
+			"description": "Psysucker Hand",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "768fa4b9-b16e-4ac8-b7e3-0a04d70c4d71",
+			"type": "equipment",
+			"description": "Tushkano Head",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.06 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.06 lb"
+			}
+		},
+		{
+			"id": "ed6ad18a-fa61-400a-a8c6-d090df0a0df3",
+			"type": "equipment",
+			"description": "Boar Fang",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "290ed002-41a9-45d6-ad21-d55b5cf4a1e5",
+			"type": "equipment",
+			"description": "Military Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "7d5b26f4-5cbb-4681-9857-8b8a13e9b861",
+			"type": "equipment",
+			"description": "Ball-peen Hammer",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "94e878fd-0ec8-4f9a-96eb-7dd435069d08",
+			"type": "equipment",
+			"description": "Bandit Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "4112ed7e-c335-466f-92a3-6315a9861dbb",
+			"type": "equipment",
+			"description": "Leather Boots",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "c7cd8903-1d0c-4fc6-89db-dd8722b41380",
+			"type": "equipment",
+			"description": "Broken Detector",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.42 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.42 lb"
+			}
+		},
+		{
+			"id": "9a0e78ea-92b8-4ad8-9e76-2876bb63bf25",
+			"type": "equipment",
+			"description": "Deck of Cards",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "52a62f67-02c1-4e80-9b3b-fe29e6f24430",
+			"type": "equipment",
+			"description": "Clear Sky Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "169fe6d0-1a97-495d-b0f4-774506145aff",
+			"type": "equipment",
+			"description": "Field Cutlery",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "25a28dc9-50fa-4a18-a656-f7743539140d",
+			"type": "equipment",
+			"description": "Duty Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "e4e210c6-47f8-47f3-9a96-96eab10895fe",
+			"type": "equipment",
+			"description": "Duct Tape",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "ef86c597-0811-4f2b-8238-6d60bd1cbeac",
+			"type": "equipment",
+			"description": "Empty Syringe",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.01 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.01 lb"
+			}
+		},
+		{
+			"id": "2500de5b-4ce3-46c6-9cbc-1e87257ad9c7",
+			"type": "equipment",
+			"description": "Ecologist Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "c93df75f-61a1-4aee-967c-a2bfe83d3850",
+			"type": "equipment",
+			"description": "Powder Can",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "4.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "4.16 lb"
+			}
+		},
+		{
+			"id": "2d0c6252-ca42-4489-ae1a-aacaef8cfc93",
+			"type": "equipment",
+			"description": "Broken Flashlight",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.42 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.42 lb"
+			}
+		},
+		{
+			"id": "556f3ae1-e63a-4097-b798-2343d55ed180",
+			"type": "equipment",
+			"description": "Freedom Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "d03a33d4-3c31-4899-a14d-625053e9f9d1",
+			"type": "equipment",
+			"description": "Leather Gloves",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "a34c015d-5697-4fdd-8112-4babf3eb2518",
+			"type": "equipment",
+			"description": "Industrial Grease",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.34 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.34 lb"
+			}
+		},
+		{
+			"id": "06bda6e8-1845-4c2e-8d82-7e7afd59d8ad",
+			"type": "equipment",
+			"description": "Sin Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "7c8c077c-dd43-460a-9d96-7d09095195da",
+			"type": "equipment",
+			"description": "Hand Watch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.3 lb"
+			}
+		},
+		{
+			"id": "cfb88749-0497-48c1-8186-90a770143a0b",
+			"type": "equipment",
+			"description": "Old Head Lamp",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.2 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.2 lb"
+			}
+		},
+		{
+			"id": "d715de68-58f3-43ff-aa1e-1062851caf4b",
+			"type": "equipment",
+			"description": "UNISG Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "5088bb16-cf99-4e3e-95ca-974c51735a0a",
+			"type": "equipment",
+			"description": "Plastic Jar",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "701d91e7-b977-421b-a7e8-b474dafcd342",
+			"type": "equipment",
+			"description": "Decorated Jewellery Box",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.76 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.76 lb"
+			}
+		},
+		{
+			"id": "c342374c-d853-49a2-a142-1f0d28f7ce1e",
+			"type": "equipment",
+			"description": "Mercenary Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "0c3e4300-1b70-4765-a6d5-f536b54bcac3",
+			"type": "equipment",
+			"description": "Main Kampf",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "507506c7-54eb-4fd8-a3bf-ec8ea2941350",
+			"type": "equipment",
+			"description": "Telescopic Mirror",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "4c2e5115-6193-43af-9f47-86f7ed7f3d2e",
+			"type": "equipment",
+			"description": "Monolith Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "b4c41661-fab0-48d8-8e7a-f22f28c99f7a",
+			"type": "equipment",
+			"description": "Photo of a Loved One",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "e14cd40a-d17d-462f-a885-80be405f0d50",
+			"type": "equipment",
+			"description": "Broken Radio",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "a4011336-4c6c-4876-80f1-5d97f828124b",
+			"type": "equipment",
+			"description": "Small Radio",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.32 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.32 lb"
+			}
+		},
+		{
+			"id": "42c921e3-4371-47f4-b5cd-195f4ad179d6",
+			"type": "equipment",
+			"description": "Renegades Faction Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "d3982f53-7267-43d7-b2bc-90ab93acbafd",
+			"type": "equipment",
+			"description": "Rope",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.7 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.7 lb"
+			}
+		},
+		{
+			"id": "f0e16467-57ac-42af-bdc8-ea1fb5f479c0",
+			"type": "equipment",
+			"description": "Radiation Patch",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "b4d5cce3-5441-436b-a14e-0e8796c62c42",
+			"type": "equipment",
+			"description": "Steel Wool",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.22 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.22 lb"
+			}
+		},
+		{
+			"id": "eae57d06-8b2b-4c26-a192-8d65540ef8bc",
+			"type": "equipment",
+			"description": "Walkie Talkie",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.42 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.42 lb"
+			}
+		},
+		{
+			"id": "2e57de1c-881c-4212-b0b6-4c8c98b1d941",
+			"type": "equipment",
+			"description": "Welding Goggles",
+			"legality_class": "4",
+			"tags": [
+				"Misc"
+			],
+			"quantity": 1,
+			"weight": "0.38 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0.38 lb"
+			}
+		}
+	]
+}
