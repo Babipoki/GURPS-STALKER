@@ -9,8 +9,8 @@
 			"notes": "Barrel from an 18.5mm double-barrel shotgun.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -29,8 +29,8 @@
 			"notes": "Barrel from a 7.62mm rifle with a gas regulator.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -49,8 +49,8 @@
 			"notes": "Barrel from an automatic special purpose 9mm or PP rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -69,8 +69,8 @@
 			"notes": "Barrel from the infamous or even legendary PPSh submachine gun system.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -89,8 +89,8 @@
 			"notes": "Barrel from an automatic 12.7x55mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -109,8 +109,8 @@
 			"notes": "Barrel from an 18.5 cock double-barrel shotgun.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -129,8 +129,8 @@
 			"notes": "Barrel from an 18.5mm smooth-bore rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -149,8 +149,8 @@
 			"notes": "Barrel from a 7.62mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -169,8 +169,8 @@
 			"notes": "Barrel from a German 7.92mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -189,8 +189,8 @@
 			"notes": "Barrel with an integrated silencer from an automatic special purpose 9mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -209,8 +209,8 @@
 			"notes": "Barrel from a semi-automatic or automatic 7.62mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -229,8 +229,8 @@
 			"notes": "Barrel from an automatic 5.45mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -249,8 +249,8 @@
 			"notes": "Barrel from an automatic 5.56mm rifle.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Barrel"
+				"Barrel",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 14.73,
@@ -269,8 +269,8 @@
 			"notes": "Mechanical frame powered by a system of electronic motors, pnematics, levers and hydraulics that give the weared both superior protection as well as greatly increased physical strength.\n\nProperties:\n- repair bonus: +25%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Frame"
+				"Frame",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 92.08,
@@ -289,8 +289,8 @@
 			"notes": "These ammo parts can be reused for the creation of better variants. This is why some stalkers prefer to keep them around.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.958,
@@ -308,8 +308,8 @@
 			"notes": "Electric capacitors can store electricity. The simplest capacitor consists of two metal plates and a dielectric between them. It is a main component in most electrical devices due to its job in rectifying alternative current, storing electrical energy and bypassing noise. They are quite rare in the Zone, but are very useful.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 3.554,
@@ -327,8 +327,8 @@
 			"notes": "Hard, brittle, heat-resistant and corrosion-resistant materials.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.847,
@@ -346,8 +346,8 @@
 			"notes": "Electrotechnical copper wire is used in many devices to control the transmission or use of electric energy. In its pure form it is rare, but if necessary it can be easily extracted from common old radios, walkie-talkies and other electronics.\n\nProperties: repair bonus of +4%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 2.468,
@@ -365,8 +365,8 @@
 			"notes": "Handful of screws, washers, nuts, nails and small pieces of metallic plates. A variety of many different types and sizes. Could be used to aid in repairing gear in the field, or perhaps even crafting.\n\nProperties: repair bonus of +2%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 1.344,
@@ -384,8 +384,8 @@
 			"notes": "Pieces of shattered glass - handle with care.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.442,
@@ -403,8 +403,8 @@
 			"notes": "A roll of leather.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.994,
@@ -422,8 +422,8 @@
 			"notes": "Torn sheets of silk coated paper. Even in a place like the Zone, it can be used for all kind of things. The cheapest way for packaging food or cleaning dirt.\n\nProperties: repair bonus of +1%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 1.123,
@@ -441,8 +441,8 @@
 			"notes": "A small pack made of low density polyethylene film. These thing plastic membranes are used to seperate areas or volumes, hold items and act as barriers. Plastic films are used in a wide variety of applications. Despite being partly torn, polyethylene's characteristics makes it a great solution for packaging and isolating, especially for food and medicine.\n\nProperties: repair bonus of +1%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 2.652,
@@ -460,8 +460,8 @@
 			"notes": "Resistors are the most common electronic components found in electronics. They limit and direct the passage of electrical current through circuit branches to ensure other components are getting voltage feeding. This box contains a good set of resistors with different resistance values and tolerance, ranging from 12 up to 82M ohms.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 2.578,
@@ -479,8 +479,8 @@
 			"notes": "Standard, industrial quality rubber.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.405,
@@ -498,8 +498,8 @@
 			"notes": "Handful of metal bits and pieces of equipment. A variety of many different types and grades of steel and aluminum alloys. Could be used to aid in repairing gear in the field, or perhaps even in crafting.\n\nProperties: repair bonus of +1%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 0.9208,
@@ -517,8 +517,8 @@
 			"notes": "Layered plastic based on fabric of fibers and polymetric binder (bakelite, polyester resin, epoxy resin). With proper skill it can be great help in repairing.\n\nProperties: repair bonus of +2%",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 3.278,
@@ -536,8 +536,8 @@
 			"notes": "A box of high-quality BJT transistors. A transistor consists of three semiconductor parts (base, emitter, collector) that serve together to generate, convert and amplify electrical oscillations.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 4.419,
@@ -555,8 +555,8 @@
 			"notes": "Pieces of wide-grained, light cedar wood. Mostly used for outdoor projects such as furniture, decks and tools. While it's not that useful in a place like the Zone, it could be used in crafting.",
 			"legality_class": "4",
 			"tags": [
-				"Parts",
-				"Base Component"
+				"Base Component",
+				"Parts"
 			],
 			"quantity": 1,
 			"value": 2.4309,
@@ -571,59 +571,98 @@
 			"id": "5c8bb876-744d-4522-a40a-f9333c806b61",
 			"type": "equipment",
 			"description": "Kevlar K129 Plates w/ Reinforced Ceramic Inserts [CER]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "93602aa2-2d5a-45a3-b7ea-8b3892790c9a",
 			"type": "equipment",
 			"description": "Grade-A Polyethylene Plates w/ Expanded Carrier [A]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "3d7bdb94-8824-4c1b-aac0-b0042a039ba7",
 			"type": "equipment",
 			"description": "Kevlar K119 Plates [K]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "3b68abae-92ff-4b64-a762-e03444844e83",
 			"type": "equipment",
 			"description": "Reinforced Kevlar K119 Plates [RK]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "5f0fb245-529a-40f6-a4a8-f4e5e87ef237",
 			"type": "equipment",
 			"description": "Polyethylene Lightweight Armor Plates [LIGHT]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
+				"extended_value": 13.81,
 				"extended_weight": "0 lb"
 			}
 		},
@@ -631,240 +670,400 @@
 			"id": "0d8241f2-a117-4b28-b2ac-9dc379cedf2f",
 			"type": "equipment",
 			"description": "Polyethylene Armor Plates (Improvised) [PLATE]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "25ad919c-8382-484e-916a-e11eb70c3768",
 			"type": "equipment",
 			"description": "Carbon Nanotube Layers w/ Kevlar-49 Fabrics [N49]",
+			"notes": "Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials and is often used in applications such as bullet-proof vests.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "3fc95fcc-5630-4f30-8f4b-27e6a6ba9645",
 			"type": "equipment",
 			"description": "Carbon Nanotube Layers w/ Kevlar-29 Fabrics (Reinforced) [N29]",
+			"notes": "Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials and is often used in applications such as bullet-proof vests.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "98bb126f-a9d7-4775-ba0e-02dc30866d5f",
 			"type": "equipment",
 			"description": "Polyethylene Fibre Layers w/ Polycarbonate Inserts [PC]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "352a9813-3e28-4943-8412-b0e4f6e8e8f4",
 			"type": "equipment",
 			"description": "Reinforced Polyethylene Fibre Layers [POLY]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "540216f2-01b8-40ca-94cf-7a1dc5b4705e",
 			"type": "equipment",
 			"description": "Carbon-fibre Layers [CF]",
+			"notes": "As compared to Kevlar material, carbon-fibre is little different and is not very effective against sharp material. But the advantage of carbon-fibre is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon-fibre tend to be light, therefore it offers more flexibility.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "09ebfdb2-1a75-4e64-a8f7-bb60e50fef47",
 			"type": "equipment",
 			"description": "Kevlar Protera Plates w/ Reinforced Ceramic Inserts [PRO]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "4d15ecee-c07f-4220-88f7-4507798d0e96",
 			"type": "equipment",
 			"description": "Reinforced Carbon-fibre Layers [RCF]",
+			"notes": "As compared to Kevlar material, carbon-fibre is little different and is not very effective against sharp material. But the advantage of carbon-fibre is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon-fibre tend to be light, therefore it offers more flexibility.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "eb4d2f8b-6ef8-405b-af03-6c7390219be9",
 			"type": "equipment",
 			"description": "Kevlar 129 Plates w/ Polycarbonate Composite [KP]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "ef835318-f595-46e5-acac-333b05aa9f88",
 			"type": "equipment",
 			"description": "Kevlar K129 Plates w/ Carbon-fibre Composite [KCF]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "d4cdeabd-fcfd-45bd-b3d0-230d367d047c",
 			"type": "equipment",
 			"description": "Kevlar AP Steel Plates [STEEL]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "a865e3b9-bc1d-47ab-a2fe-3f5633546b73",
 			"type": "equipment",
 			"description": "Kevlar AP Plates w/ Reinforced Titanium Composite [TITAN]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "43fa23a4-74ec-4890-9776-a47859a897e0",
 			"type": "equipment",
 			"description": "Kevlar K119 Plates w/ Polycarbonate Inserts [KP]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "4d92f4e6-ca66-4669-8a64-24ab8f518960",
 			"type": "equipment",
 			"description": "Kevlar K119 Plates with Carbon-fibre Inserts [KCF-B]",
+			"notes": "Kevlar plates are widely known for their protective capabilities and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maitnain suit's condition, preventing degradation through wear and tear. Used by military units around the world.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "55932db4-b9e3-4af0-bd23-58f3531e8452",
 			"type": "equipment",
 			"description": "Grade-B Polyethylene Plates w/ Expanded Carrier [B]",
+			"notes": "Polythylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests that have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 13.81,
+			"weight": "0.6 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 13.81,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "6884148b-145d-445e-8f91-3a79b220ed61",
 			"type": "equipment",
 			"description": "Cloth Sheets [CLOTH]",
+			"notes": "The very base of an outfit. These sheets are made of different materials such as cotton, polycotton, wool and leather to provide comfort and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.\n\n\nPROPERTIES:\n- repair bonus of +1%",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.14 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 3.683,
+				"extended_weight": "0.14 lb"
 			}
 		},
 		{
 			"id": "8d2a7dca-a51e-4246-86c5-a5317f152d9a",
 			"type": "equipment",
 			"description": "Cloth Sheets (Synthetic) [SYTH]",
+			"notes": "The very base of an outfit. These sheets are made of different materials such as cotton, polycotton, wool and leather to provide comfort and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.\n\n\nPROPERTIES:\n- repair bonus of +2%",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.12 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 3.683,
+				"extended_weight": "0.12 lb"
 			}
 		},
 		{
 			"id": "181d15da-cd62-437c-b6ee-f8a3c0da4a89",
 			"type": "equipment",
 			"description": "Durable Textiles [DURA]",
+			"notes": "These sheets are made of different materials such as polyester, leather and canvas, including a set of hardware and zippers. Good durability in harsh environmental conditions, which is why such materials are suitable for traveling even inside the zone.\n\n\nPROPERTIES:\n- repair bonus of +1%",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.1 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 3.683,
+				"extended_weight": "0.1 lb"
 			}
 		},
 		{
 			"id": "443c3cb0-fa5e-49e5-bdce-a2b89b9f0c86",
 			"type": "equipment",
 			"description": "Mil-Spec Textiles [MIL]",
+			"notes": "Sheets of military-grade textiles are often used for field clothing and light armor. Valued for its relatively low price and high versatility, this materials is commonsly used by Zoners. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and set of hardware and zippers.\n\nPROPERTIES:\n- repair bonus of +2%",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.16 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 3.683,
+				"extended_weight": "0.16 lb"
 			}
 		},
 		{
 			"id": "e016fb02-d090-428c-9004-c05536b6f8f0",
 			"type": "equipment",
 			"description": "Layered Fire Retardant Fabrics [LFRF]",
+			"notes": "These textiles are more resistant through chemical treatment or manufactured fireproof fibers. In the Zone, such fabrics are commonly used in outfits to provide protection against hazardous environments and flame-based anomalies such as the Burner and Comet.",
 			"legality_class": "4",
+			"tags": [
+				"Parts",
+				"Outfit Part"
+			],
 			"quantity": 1,
+			"value": 10.13,
+			"weight": "0.2 lb",
+			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 10.13,
+				"extended_weight": "0.2 lb"
 			}
 		},
 		{
