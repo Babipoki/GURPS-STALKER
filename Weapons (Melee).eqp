@@ -1,0 +1,1017 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "67a03666-ac56-4ee2-a35d-0d1752df2971",
+			"type": "equipment",
+			"description": "Axe",
+			"reference": "B271",
+			"notes": "Most commonly employed by firefighters, this heavy axe is often used by stalkers for felling trees or, like all great things, repurposed for hacking apart enemies. Thus it can serve as formidable weapon in the hands of skilled stalker.",
+			"tech_level": "0",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 50,
+			"weight": "9.6 lb",
+			"max_uses": 1200,
+			"weapons": [
+				{
+					"id": "50000db7-86e6-4251-aa90-cd0424209d96",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "2"
+					},
+					"strength": "12",
+					"usage": "Swung",
+					"reach": "1",
+					"parry": "0U",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Axe/Mace"
+						},
+						{
+							"type": "skill",
+							"name": "Flail",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Two-Handed Axe/Mace",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 5,
+						"parry": "5U",
+						"block": "No",
+						"damage": "1d+2 cut"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 50,
+				"extended_weight": "9.6 lb"
+			}
+		},
+		{
+			"id": "07326869-8ae0-4d71-8e69-e1ca9d1ec5e3",
+			"type": "equipment",
+			"description": "Sledgehammer",
+			"reference": "HT25",
+			"notes": "A sledgehammer is a tool with a large, flat, often metal head, attached to a long handle. The long handle combined with a heavy head shows the sledgehammer to gather momentum during a swing and apply a large amount of force.",
+			"tech_level": "5",
+			"tags": [
+				"General Equipment"
+			],
+			"quantity": 1,
+			"value": 75,
+			"weight": "15 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "ce4657e2-42f7-42fc-8024-81731629efca",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cr",
+						"st": "sw",
+						"base": "4"
+					},
+					"strength": "13‡",
+					"usage": "Swing",
+					"reach": "1,2*",
+					"parry": "0U",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Two-Handed Axe/Mace",
+							"modifier": -2
+						}
+					],
+					"calc": {
+						"parry": "0U",
+						"block": "No",
+						"damage": "2d cr"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 75,
+				"extended_weight": "15 lb"
+			}
+		},
+		{
+			"id": "5c4c6bf0-5aa7-4425-a876-a33cac3ade60",
+			"type": "equipment",
+			"description": "6h4 Bayonet",
+			"reference": "HT200",
+			"notes": "Soviet-Polish bayonet, first adopted in 1972 for use with AK rifles. Although highly durable, it is much better at thrusting than it is at chopping or slashing. Cannot cut thick skin.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "efce541a-7856-446b-b63e-52057704ba50",
+			"type": "equipment",
+			"description": "NR-40 Scout's Knife",
+			"reference": "HT200",
+			"notes": "A combat knife, based on designs first adopted by the Soviet Army in WWII. Although a good combat knife for its time, in the Zone its cutting power is suitable only for utility purposes or for finishing off already helpless opponents. Its piercing power, however, is something to be feared: it is easy to angle this blade's deadly point between the gaps of even modern combat armors. Cannot cut thick skin.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "a803bc80-7e9e-400c-87f6-ef0e164b055a",
+			"type": "equipment",
+			"description": "Hunting Knife",
+			"reference": "HT200",
+			"notes": "A modern, highly durable hunting knife with a large stainless steel blade. Ideal for field dressing the meat off larger animals with thick hides. It is also able to cause massive bleeding wounds to exposed flesh. As it wasn't intended for us in battle, it struggles against combat armors. Can cut thick skin? YES",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "0f61855b-002f-4434-b91d-ba2f55f229f1",
+			"type": "equipment",
+			"description": "Spetsnaz Switchblade",
+			"reference": "HT200",
+			"notes": "A well-kept blade, ideal for special forces operators participating in surgical strikes. It is good at piercing armors and dealing massive tissue damage. The ultimate combat cutlery. Can cut thick skin.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "d63e1ab4-29d6-425f-97d6-95de4974fa19",
+			"type": "equipment",
+			"description": "M9 Bayonet",
+			"reference": "HT200",
+			"notes": "A large multi-purpose knife with a rugged rubber handle, commonly used by US soldiers since 1986. Sharp and well maintained. Although it's inconvenienced when facing heavily protected opponents, its toothed blade is ideal for causing massive bleeding wounds to softer targets. This makes it a perfect choice for finishing off wounded animals, or silently getting the drop on light infantry. Can cut thick skin.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "93a78c59-2f07-41f7-a5c9-245062a05a6e",
+			"type": "equipment",
+			"description": "Monolith Blade",
+			"reference": "HT200",
+			"notes": "These blades are produced in very few numbers by masters of the Monolith faction. Their composition is from an unknown alloy, rumored to be extracted directly from the heart of the Sarcophagus. Can cut thick skin.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.4 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "1"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d+1 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr",
+						"base": "1"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-1 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.4 lb"
+			}
+		},
+		{
+			"id": "a9adc6f2-0490-4212-a303-0bb3beaccc69",
+			"type": "equipment",
+			"description": "Kukri",
+			"reference": "LT58",
+			"notes": "The kukri is a type of machete originating from the Indian subcontinent. The knife has a distinct recurve in its blade. It serves multiple purposes as a melee weapon and also a regular cutting tool and is the national weapon of Nepal.",
+			"tech_level": "2",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 50,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "941ec883-9aec-4f0c-a59f-4030637a84b6",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-1"
+					},
+					"strength": "7",
+					"usage": "Swung",
+					"reach": "C,1",
+					"parry": "0",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "7",
+						"block": "No",
+						"damage": "1d-1 cut"
+					}
+				},
+				{
+					"id": "1a14e9c6-b258-4a4d-b4c6-9d144e4b0214",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr",
+						"base": "-1"
+					},
+					"strength": "7",
+					"usage": "Thrust",
+					"reach": "C",
+					"parry": "0",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "7",
+						"block": "No",
+						"damage": "1d-3 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 50,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "1029855a-e3a4-46fc-bca7-cdd46cc8d8d7",
+			"type": "equipment",
+			"description": "OTs-04 Combat Knife",
+			"reference": "HT200",
+			"notes": "The OTs-04 knife was developed at the Tula Central Design Research Bureau (TsKIB) in the late 80s and early 90s. It was intended for the special forces of the Interior Ministry troops.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "1.5 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 cut"
+					}
+				},
+				{
+					"id": "732edac6-9b23-41cd-8d1b-648be622f5e7",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "1.5 lb"
+			}
+		},
+		{
+			"id": "24d994c1-a382-4db0-a331-636045b3898a",
+			"type": "equipment",
+			"description": "Gerber Downrange Tomahawk",
+			"reference": "HT200",
+			"notes": "Tactical tomahawk, multitool and breaching tool, all-in-one solution.",
+			"tech_level": "6",
+			"tags": [
+				"Melee Weapon"
+			],
+			"quantity": 1,
+			"value": 35,
+			"weight": "3.72 lb",
+			"max_uses": 1000,
+			"weapons": [
+				{
+					"id": "cae97682-7884-4195-9985-31361086e79f",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-1"
+					},
+					"strength": "6",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "6",
+						"damage": "1d-1 cut"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 35,
+				"extended_weight": "3.72 lb"
+			}
+		}
+	]
+}
