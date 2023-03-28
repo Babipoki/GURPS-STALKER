@@ -1,0 +1,1092 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "3f64af79-9925-4420-aba4-d90102a6eb1e",
+			"type": "equipment",
+			"description": "OG-7V Warhead",
+			"notes": "Fragmentation warhead for anti-personnel warfare used with the RPG-7 grenade launcher. The main purpose of the warhead is to kill enemies in cover outside the range of hand grenades.\n\nBlast power: high\nBlast radius: 5.6 m\nFragments' radius: 41 m\nAv. number of fragments: 153 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 45.86,
+			"weight": "3.92 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 45.86,
+				"extended_weight": "3.92 lb"
+			}
+		},
+		{
+			"id": "6765dbcb-ad87-4fc6-8cd4-1a3ac0e1c7bf",
+			"type": "equipment",
+			"description": ".45 ACP FMJ Round",
+			"notes": "The .45 calibre full metal jacket round has enjoyed popularity for a hundred years thanks to its ballistic performance and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping powder.\n\nAP: BR2 (19)\nDMG: 25",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.25,
+			"weight": "0.0414 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.25,
+				"extended_weight": "0.0414 lb"
+			}
+		},
+		{
+			"id": "d5e2df40-02fa-4f5b-a83e-6924c70e2b08",
+			"type": "equipment",
+			"description": ".45 ACP Hydra-shock HP Round",
+			"notes": "This unusual .45 ACP calibre round consists of a jacketed soft point bullet with a hollow steel core, possessing both their advantages and disadvantages.\n\nAP: BR1 (10)\nDMG: 82",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.32,
+			"weight": "0.0328 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.32,
+				"extended_weight": "0.0328 lb"
+			}
+		},
+		{
+			"id": "e621fe65-ae22-414d-8898-97cc35c8f11b",
+			"type": "equipment",
+			"description": "12.7x55mm STs-130 VPS Round",
+			"notes": "The armor-piercing 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR6 (75)\nDMG: 80",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 13.812,
+			"weight": "0.07 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.812,
+				"extended_weight": "0.07 lb"
+			}
+		},
+		{
+			"id": "85a3cf6d-3211-42cd-82fa-727d467a2004",
+			"type": "equipment",
+			"description": "12.7x55mm STs-130 Round [FMJ]",
+			"notes": "The full metal jacket 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR3 (38)\nDMG: 80",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 5.893,
+			"weight": "0.15 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 5.893,
+				"extended_weight": "0.15 lb"
+			}
+		},
+		{
+			"id": "3c833a14-8682-4d35-8bef-b659eb08544b",
+			"type": "equipment",
+			"description": "12x70 buckshot shell [BUCK]",
+			"notes": "Standard 12 gauge shell filled with 8mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 190 (21 x 9)\n\nExpanding cloud of pellets, short eff. range.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 0.6906,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.6906,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "3cf0fe99-6ff9-4d44-9a0e-d82298a74a1f",
+			"type": "equipment",
+			"description": "12x76 Bull shell [AP SLUG]",
+			"notes": "12 gauge custom-made slugs for putting down dinosaurs and mutants. Slug inside is made of lead covered in copper that has steel, dart-like insert inside. Slug is very long and has got big powder load. It really can break your hands with recoil.\n\nAP: BR2\nDMG: very high",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 9.208,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.208,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "885903e1-1647-4c67-befd-bcd47d52aa86",
+			"type": "equipment",
+			"description": "12x76 AP Slug Dart",
+			"notes": "12 gauge dart round, normally used for hunting big game but also suitable for other purposes, including puncturing armor.\n\nAP: BR4 (42)\nDMG: 74",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 9.208,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.208,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "3ecfb94b-256c-4c50-8ff9-7a47095f359f",
+			"type": "equipment",
+			"description": "12x76 Slug Shell",
+			"notes": "This heavy 12 gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.\n\nAP: BR2 (23)\nDMG: 132",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.67,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.67,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "f4864efb-e6c0-4bd0-a354-754b51aeb94b",
+			"type": "equipment",
+			"description": "20x70 Buckshot Round",
+			"notes": "Standard 20-calibre round filled with 6mm buckshot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 143 (16 x 9)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.104,
+			"weight": "0.07 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.104,
+				"extended_weight": "0.07 lb"
+			}
+		},
+		{
+			"id": "d4aa2838-4ead-446c-9ff3-77dbae2e8fb8",
+			"type": "equipment",
+			"description": "Ecolog-23 Cartridge",
+			"notes": "A special cartridge designed for the needs of the scientific staff located in the Zone. Depending on the task, it is filled with different types of solutions. Requires very careful handling. How to use: very slowly put into the weapon.\n\nAP: None\nDMG None\nUNIQUE: Using a thin wolfram needle, it pierces the skin to inject the solution.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 64.46,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 64.46,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "651ac50b-fa0e-4d65-b411-d0ef6137f121",
+			"type": "equipment",
+			"description": "\"Barrikada\" 23x75mm",
+			"notes": "A cartridge with a stell pointed bullet. It is used to forcibly stop vehicles by damaging them. Application range up to 100 meters. It is used for firing from the KS-23 carbine.\n\nAP: BR5 (51)\nDMG: 133",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 17.5,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 17.5,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "70f2b20c-0fe1-44bc-a094-1ee7254b1b3e",
+			"type": "equipment",
+			"description": "\"Shrapnel-25\" 23x75mm",
+			"notes": "Cartridge with buckshot charge. Application range up to 25 meters. It is used for firing from the KS-23 carbine. Due to the fact that the barrel has a rifling in the KS-23 carbine, the buckshot flies over a large area, which allows you to shoot offhand, practically without aiming.\n\nAP: BR3 (6 x 6)\nDMG: 285 (47.5 x 6)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 4.641,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4.641,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "7e5930d6-6198-41e1-bdb9-1fd932e8f0a4",
+			"type": "equipment",
+			"description": ".338 Federal",
+			"notes": "The .338 Federal is a rifle cartridge based on the .308 Winchester case necked up to .33 caliber. It was created by Federal Cartridge and Sako in 2006 and intended as a big game cartridge with reasonable recoil for lightweight rifles.\n\nAP: BR6 (75)\nDMG: 56",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 11.97,
+			"weight": "0.084 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.97,
+				"extended_weight": "0.084 lb"
+			}
+		},
+		{
+			"id": "11d7ab5e-477b-4ad3-9730-de941ed4d2d2",
+			"type": "equipment",
+			"description": ".357 HP Round",
+			"notes": "The .357 HP round is a hollow-point bullet. The purpose of the round is to slow down upon impact, which decreases its penetration, but at the same time causes larger internal tissue damage.\n\nAP: BR1 (15)\nDMG: 103",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.0324 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.683,
+				"extended_weight": "0.0324 lb"
+			}
+		},
+		{
+			"id": "e1529f01-0d26-414c-abcb-142045bbfa61",
+			"type": "equipment",
+			"description": "4.6x30mm FMJ Round",
+			"notes": "The HK 4.6x30mm cartridge is a type of ammunition primarily used in the Heckler \u0026 Koth MP7 personal defense weapon (PDW). It is designed to minimize weight and recoil while increasing penetration of body armor. It features a bottlenecked case and pointed, steel-core, brass-jacketed bullet.\n\nAP: BR3\nDMG: low \u0026 medium",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.683,
+			"weight": "0.012 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.683,
+				"extended_weight": "0.012 lb"
+			}
+		},
+		{
+			"id": "6c173151-d0cd-401a-b433-361c66504ce2",
+			"type": "equipment",
+			"description": "5.45x39mm AP Round",
+			"notes": "Military 5.45x39 calibre 7N22 armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor-piercing penetrator. Effective against body armor.\n\nAP: BR5 (47)\nDMG: 36",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 6.262,
+			"weight": "0.0214 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 6.262,
+				"extended_weight": "0.0214 lb"
+			}
+		},
+		{
+			"id": "3c68fa1f-1d38-4d57-8156-43f8a9733be9",
+			"type": "equipment",
+			"description": "5.45x39mm HP Round",
+			"notes": "Military 5.45x39 calibre HP is a hollow point round for automatic rifles of Warsaw Pact countries.\n\nAP: BR1 (15)\nDMG: 53",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.455,
+			"weight": "0.0214 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.455,
+				"extended_weight": "0.0214 lb"
+			}
+		},
+		{
+			"id": "0fb331bd-6426-4242-8e1b-cf2e80b03cfb",
+			"type": "equipment",
+			"description": "5.45x39mm FMJ Round",
+			"notes": "Military 5.45x39 calibre 7N6 was the first standard issue round for automatic rifles of Warsaw Pact countries using the new intermediate cartridge. Provides better accuracy than the 7.62 calibre round thanks to reduced recoil and a 100-metre increase in range.\n\nAP: BR2 (25)\nDMG: 36",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.6575,
+			"weight": "0.0214 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.6575,
+				"extended_weight": "0.0214 lb"
+			}
+		},
+		{
+			"id": "18210a62-7c27-47c7-b183-1d5438cc4df9",
+			"type": "equipment",
+			"description": "5.56x45mm AP Round",
+			"notes": "The latest NATO military 5.56x45 calibre enhanced penetration round, known as M855A1, used by the US armed forces. Increased effectiveness against both body armor and soft tissue.\n\nAP: BR5 (52)\nDMG: 35",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 0.6753,
+			"weight": "0.024 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.6753,
+				"extended_weight": "0.024 lb"
+			}
+		},
+		{
+			"id": "f5191f64-0f34-49e8-a62d-86808d662f22",
+			"type": "equipment",
+			"description": "5.56x45mm FMJ Round",
+			"notes": "A standard-issue NATO 5.56x45 calibre M193 round specially designed for accurate automatic fire. Provides good ballistic characteristics, having been designed on the basis of a hunting round. Well known for being used in the Vietnam war and having great performance against tissue, but limited penetration.\n\nAP: BR2 (27)\nDMG: 35",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.8416,
+			"weight": "0.0226 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.8416,
+				"extended_weight": "0.0226 lb"
+			}
+		},
+		{
+			"id": "e98ac1ca-3c56-4532-8abd-666f465c285b",
+			"type": "equipment",
+			"description": "5.56x45mm HP Round",
+			"notes": "A standard-issue NATO 5.56x45 calibre round with a hollow point tip.\n\nAP: BR1 (15)\nDMG: 46",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.2713,
+			"weight": "0.024 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.2713,
+				"extended_weight": "0.024 lb"
+			}
+		},
+		{
+			"id": "97ae2942-56a7-45db-a38f-24594089d169",
+			"type": "equipment",
+			"description": "5.7x28 SS190 Round",
+			"notes": "The FN 5.7x28mm is a high velocity cartridge designed and manufactured by FN Herstal. It is a bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet. The 5.7x28mm was developed in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol, in response to NATO requests for a replacement for the 9x19mm Parabellum cartridge.\n\nAP: BR4 (42)\nDMG: 23",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.1921,
+			"weight": "0.012 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.1921,
+				"extended_weight": "0.012 lb"
+			}
+		},
+		{
+			"id": "ef3d1d5a-f0b2-490f-8c82-82a76709e374",
+			"type": "equipment",
+			"description": "5.7x28mm SS195 Round",
+			"notes": "The SS195 FN 5.7x28mm is an expensive cartridge designed and manufactured by FN Herstal. It is bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet.\n\nAP: BR2 (21)\nDMG: 23",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.5654,
+			"weight": "0.0134 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.5654,
+				"extended_weight": "0.0134 lb"
+			}
+		},
+		{
+			"id": "ac9a638e-bf45-45cb-96bc-c01b7a0a73f3",
+			"type": "equipment",
+			"description": ".50 BMG Round",
+			"notes": "The .50 Browning Machine Gun (12.7x99mm NATO and designed as the 50 Browning by the C.I.P.) is a cartridge for the Browning .50 caliber machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is standard cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber rounds. The rounds intended for machine guns are made into continuous belt using metallic links.\n\nThe .50 BMG cartridge is also used in long-range target and anti-materiel rifles, as well as other .50 caliber machine guns.\n\nAP: BR6\nDMG: very high",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 33.395,
+			"weight": "0.044 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 33.395,
+				"extended_weight": "0.044 lb"
+			}
+		},
+		{
+			"id": "28fb0aa2-25ff-45a6-a592-b4c72a9ea8c9",
+			"type": "equipment",
+			"description": "7.62x25mm LRNPC Round",
+			"notes": "The 7.62x25mm cartridge is a Russian bottle-necked pistol cartridge widely used in former Soviet satellite states, China and Pakistan among other countries. A lot of these rounds are still available in the Zone. This 7.62x25mm Tokarev cartridge comprises a bullet with lead round nose, polymer coated (LRNPC) bullet intended for sport shooting and hunting. By design, this cartridge provides a considerable stopping power effect as well as causing substantial adverse effects on the target after impact, this is the cost of penetration capabilities, even against basic ballistic protection.\n\nAP: None (8)\nDMG: 30",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.0071,
+			"weight": "0.0212 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.0071,
+				"extended_weight": "0.0212 lb"
+			}
+		},
+		{
+			"id": "5c1774b2-5af3-45fe-a382-ba99b6266dbd",
+			"type": "equipment",
+			"description": "7.62x25mm Pst Round",
+			"notes": "The steel core 7.62x25mm cartridge is a Russian bottle-necked pistol cartridge widely used in former Soviet satellite states, China and Pakistan among other countries. This 7.62x25mm Tokarev cartridge displays a bullet with steel core (Pst) and a steel sleeve. It's very effective against medium armored targets and is thus appreciated in the Zone.\n\nAP: BR2 (24)\nDMG: 21",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.1222,
+			"weight": "0.0212 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.1222,
+				"extended_weight": "0.0212 lb"
+			}
+		},
+		{
+			"id": "bbfe02d1-df6f-4a39-a5d8-e9e15a83b944",
+			"type": "equipment",
+			"description": "7.62x39mm M43 Round",
+			"notes": "7.62x39 M43 is an armor piercing round produced in China, which is why it's often referred to as \"7.62x39 CN\". This round features a mild steel core which enhances its penetration capabilities. This Chinese round (as well as all other M43 ammunition) is currently banned for import in the US because US federal law classifies the round as an armor-piercing handgun round. This classification is based on materials and bullet design rather than on empirical ability to penetrate armor.\n\nAP: BR6 (55)\nDMG: 40",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 7.244,
+			"weight": "0.032 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.244,
+				"extended_weight": "0.032 lb"
+			}
+		},
+		{
+			"id": "90d91df1-a5bc-4bf2-8798-47d3bf03c055",
+			"type": "equipment",
+			"description": "7.62x39mm FMJ Round",
+			"notes": "7.62x39 Full Metal Jacket is one of the most commonly used types of ammunition, especially in Africa and in the Middle East. Some nicknamed it the \"Round of the Revolution\" due to its favored use by both terrorist and criminal organizations. Due to the sheer power of the round most military organizations have turned to using additional steel plates to counter 7.62x39 as there is a high probability of encountering it in combat situations.\n\nAP: BR3 (30)\nDMG: 40",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.394,
+			"weight": "0.032 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.394,
+				"extended_weight": "0.032 lb"
+			}
+		},
+		{
+			"id": "c6065f65-b4f0-43de-9cdd-2479f3fbbcb8",
+			"type": "equipment",
+			"description": "7.62x51mm NATO AP Round",
+			"notes": "Military 7.62x51 calibre M61 armor-piercing round with a hardened steel core. It retains high damage while greatly improving performance against body armor.\n\nAP: BR6 (62)\nDMG: 70",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 9.2081,
+			"weight": "0.0506 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.2081,
+				"extended_weight": "0.0506 lb"
+			}
+		},
+		{
+			"id": "d54b41a4-b4f7-4c7a-b09b-9393b8cdd4a8",
+			"type": "equipment",
+			"description": "7.62x51mm NATO Ball Round",
+			"notes": "The 7.62x51mm NATO round is a military variant of the .308 round which was used as a standard-issue by the NATO forces until 5.56 ammunition was introduced in the '70s in the Vietnam War. At present, it is most commonly employed by private military contractors all over the world. The 7.62x51 round is a very common machine gun calibre, and can also be used in battle or sniper rifles.\n\nAP: BR3 (34)\nDMG: 70",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.7624,
+			"weight": "0.0506 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.7624,
+				"extended_weight": "0.0506 lb"
+			}
+		},
+		{
+			"id": "7af6e0a0-a5c2-4306-be15-d2d4a17b4176",
+			"type": "equipment",
+			"description": "7.62x54mm 7N1 Round",
+			"notes": "A 7.62x54 calibre sniper round with a steel penetrator specially designed for the SVD. Its steel core is made to pierce light armors. Very common in the zone, these bullets are quite cheap.\n\nAP: BR3 (31)\nDMG: 74",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 5.1565,
+			"weight": "0.044 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 5.1565,
+				"extended_weight": "0.044 lb"
+			}
+		},
+		{
+			"id": "a8820084-7c4c-431a-9413-28395af3663c",
+			"type": "equipment",
+			"description": "7.62x54mm AP Round",
+			"notes": "The 7.62x54mm calibre 7N13 armor-piercing machine gun round. It is a high-powered round and thanks to a hard steel core it possesses quite good penetrative capabilities.\n\nAP: BR6 (80)\nDMG: 74",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 18.692,
+			"weight": "0.066 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 18.692,
+				"extended_weight": "0.066 lb"
+			}
+		},
+		{
+			"id": "5036f74d-05fa-4cca-801b-a892c26b7bd6",
+			"type": "equipment",
+			"description": "7.92x57mm AP Round",
+			"notes": "7.92x57 AP is a round that was used by the British military against armored targets. It features a hardened steel core which gives it higher piercing capabilities. Used primarily for long range shots, the grain quality of this round is higher than the standard. This cartridge is supported by several sniper rifles.\n\nAP: BR4 (39)\nDMG: 78",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 8.5942,
+			"weight": "0.0494 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 8.5942,
+				"extended_weight": "0.0494 lb"
+			}
+		},
+		{
+			"id": "631f8805-e1a1-4ed3-8240-034c9bd7e8c8",
+			"type": "equipment",
+			"description": "7.92x57mm FMJ Round",
+			"notes": "The 7.92x57 Mauser round was adopted by the German Empire and then the Third Reich. It was one of the most popular cartridges in the period of two world wars. However, nowadays, the round is primarily used for hunting and sports.\n\nAP: BR2 (25)\nDMG: 78",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.498,
+			"weight": "0.0494 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.498,
+				"extended_weight": "0.0494 lb"
+			}
+		},
+		{
+			"id": "9e513066-d5c7-415c-913c-ca3203b5a160",
+			"type": "equipment",
+			"description": "9x18mm AP Round",
+			"notes": "RG028 is a cartridge used for its armor penetration capabilities. The goal of the RG028 was to become a counter to body armor; for this reason, it's loaded with a hardened steel core. Unfortunately, the round itself isn't much of an improvement over the standard, it just has a stronger impact than typical 9x18 round.\n\nAP: BR3 (30)\nDMG: 18",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.4732,
+			"weight": "0.0226 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.4732,
+				"extended_weight": "0.0226 lb"
+			}
+		},
+		{
+			"id": "30b4e8d8-6b53-4096-824c-b622c4d3deba",
+			"type": "equipment",
+			"description": "9x18mm FMJ Round",
+			"notes": "A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armor.\n\nAP: BR1 (15)\nDMG: 18",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 0.688,
+			"weight": "0.0214 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.688,
+				"extended_weight": "0.0214 lb"
+			}
+		},
+		{
+			"id": "ed1ca6e0-7412-4936-8c77-41f9e8d83a99",
+			"type": "equipment",
+			"description": "9x18mm HP Round",
+			"notes": "This round contains a bullet with enhanced stopping power thanks to its hollow point. Ineffective against body armor, but high damage against flesh.\n\nAP: None (10)\nDMG: 33",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.1786,
+			"weight": "0.02 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.1786,
+				"extended_weight": "0.02 lb"
+			}
+		},
+		{
+			"id": "ab2228ed-d083-42cf-bd15-7156f051c19e",
+			"type": "equipment",
+			"description": "9x19mm AP Round",
+			"notes": "This Russian 9x19 calibre bullet comes with a hard steel core and increased pressure. Designed to enhance armor penetrating capabilities of small arms and submachine guns.\n\nAP: BR4 (38)\nDMG: 21",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.885,
+			"weight": "0.0186 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.885,
+				"extended_weight": "0.0186 lb"
+			}
+		},
+		{
+			"id": "c713b490-1ff2-4493-820d-14cadc538719",
+			"type": "equipment",
+			"description": "9x19mm FMJ Round",
+			"notes": "This basic 9x19 calibre round with a jacketed bullet has good characteristics while being simple to produce. The round is popular due to the fact that international conventions prohibit the use of expanding ammunition in combat. Ineffective against body armor.\n\nAP: BR1 (17)\nDMG: 21",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 0.7919,
+			"weight": "0.024 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.7919,
+				"extended_weight": "0.024 lb"
+			}
+		},
+		{
+			"id": "f275950d-6753-4742-818c-222b4a3487be",
+			"type": "equipment",
+			"description": "9x19mm HP Round",
+			"notes": "This 9x19 calibre jacketed hollow-point bullet with an expanding hollow has high stopping power and low ricochet propensity. used by police and for self-defense. Ineffective against body armor due to its low penetration potential, but flesh damage. One of the cheapest ammo to efficiently kill mutants in the zone.\n\nAP: None (10)\nDMG: 40",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.3812,
+			"weight": "0.0226 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.3812,
+				"extended_weight": "0.0226 lb"
+			}
+		},
+		{
+			"id": "f95624ef-5553-4357-aa37-e51b4092ae5a",
+			"type": "equipment",
+			"description": "9x21mm SP10 Round",
+			"notes": "Designed to destroy manpower protected by personal protective equipment. The nose part of the heat-strengthened steel core protrudes form the shell, due to which a high penetration effect of the bullet is achieved.\n\nAP: BR4 (36)\nDMG: 24",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.354,
+			"weight": "0.027 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.354,
+				"extended_weight": "0.027 lb"
+			}
+		},
+		{
+			"id": "15df2714-5678-44bd-b305-50218392a34d",
+			"type": "equipment",
+			"description": "9x39mm SP-6 Round",
+			"notes": "The SP-6 is a subsonic armor-piercing round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a suppressor for stealth firing. Used by special services of Warsaw pact countries. Effective against light body armor.\n\nAP: BR5 (53)\nDMG: 39\nUNIQUE: sub-sonic ammunition, greatly increased projectile drop with distance",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 6.3843,
+			"weight": "0.048 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 6.3843,
+				"extended_weight": "0.048 lb"
+			}
+		},
+		{
+			"id": "dcaff026-dba3-440a-8d4e-1276ac08d28c",
+			"type": "equipment",
+			"description": "9x39mm SP-5 Round",
+			"notes": "The SP-5 is a subsonic rifle round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a suppressor for stealth firing. Used by special services of Warsaw Pact countries.\n\nAP: BR3 (30)\nDMG: 39\nUNIQUE: sub-sonic ammunition, greatly increased projectile drop with distance",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.9644,
+			"weight": "0.0494 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.9644,
+				"extended_weight": "0.0494 lb"
+			}
+		},
+		{
+			"id": "3c65ff58-7f5b-43c5-81c1-7e26b8d2cecf",
+			"type": "equipment",
+			"description": ".338 Lapua Magnum Round",
+			"notes": "The .338 Lapua Magnum is a specialized rimless bottlenecked centerfire cartridge developed for military long-range sniper rifles. The Afghanistan War and Iraq War made it a combat-proven round with ready and substantial ammunition availability. The .338 Lapua is a duel-purpose anti-personnel and anti-materiel round, but its anti-materiel potential is limited.\n\nAP: Unlimited (140)\nDMG: 130",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 31.308,
+			"weight": "0.088 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 31.308,
+				"extended_weight": "0.088 lb"
+			}
+		},
+		{
+			"id": "d3a588df-e538-4cda-99e8-f4ab69f9d1a8",
+			"type": "equipment",
+			"description": "7.62x54mm PP Round",
+			"notes": "The 7.62x54 PP is a dated rifle calibre introduced in the Soviet Empire at the turn of the 19th century and was still used by the USSR after World War II. It was originally designed for the Mosin-Nagant standard-issue infantry rifle and is quite common in the Zone due to the popularity of the rifle. The round is relatively cheap (considering it comes in boxes of 50) but has surprisingly good penetrative capabilities, even in comparison to more modern ammo types. It can also be used as a cheaper solution in the PKM machine gun.\n\nAP: BR3 (37)\nDMG: High",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.3885,
+			"weight": "0.072 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.3885,
+				"extended_weight": "0.072 lb"
+			}
+		},
+		{
+			"id": "a058c666-b4d6-4eca-9611-249dbe6b5475",
+			"type": "equipment",
+			"description": "Propellant, Pistol/Shotgun",
+			"notes": "Fast burning double-base propellant for use in shotghuns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.012,
+			"weight": "0.002 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.012,
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
+			"id": "428d86e8-2f76-4563-99ec-da324b2856e4",
+			"type": "equipment",
+			"description": "Propellant, Small Rifle",
+			"notes": "IMR propellant for light rifle cartridges and some heavy handgun cartridges. This powder burns at medium rate and produces a good amount of energy. Cannot be used in blowback handguns and shotguns as insufficient pressures will lead to incomplete burning, causing fouling.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.14,
+			"weight": "0.002 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.14,
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
+			"id": "e581ae31-bac0-45ea-8087-40b8e7dd0cdb",
+			"type": "equipment",
+			"description": "Propellant, Rifle",
+			"notes": "High-yield, slow burning ball propellant for large rifle rounds. This powder yields the most energy and burns the slowest, thus it is only suitable for use in large caliber rifle ammunition fired from long-barrel weapons.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.15,
+			"weight": "0.002 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.15,
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
+			"id": "c4ed47b6-0bb9-4482-846a-9d738a6c0a75",
+			"type": "equipment",
+			"description": "Batteries (GAUSS)",
+			"notes": "Batteries that use a capsulated fragment of the \"Flash\" artefact as their power source. Manufactured using hi-tech equipment.\n\nAP: REDACTED\nDMG: REDACTED",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 23.61,
+			"weight": "0.15 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 23.61,
+				"extended_weight": "0.15 lb"
+			}
+		},
+		{
+			"id": "57fd8b2f-3f17-4ea3-9970-bb21cf7da8d5",
+			"type": "equipment",
+			"description": "M203 Grenade",
+			"notes": "40mm grenade for the M203 underbarrel grenade launcher. This round has a 3.5 metre kill zone. Also suitable for use in the FN F2000 integrated grenade launcher.\n\nBlast power: medium\nBlast radius: 4.1 m\nFragments' radius: 28 m\nAv. number of fragments: 95 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 41.6943,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 41.6943,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "be2ee00e-ab39-431c-a70c-898c7c7d8f44",
+			"type": "equipment",
+			"description": "VOG-25 Grenade",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "7b5553e2-1a06-4ba9-9596-c68b497ebd70",
+			"type": "equipment",
+			"description": "VOG-30 Grenade",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "1b82997f-eaa6-4078-8bcb-0fa975c1b0b4",
+			"type": "equipment",
+			"description": "Handgun Bullet",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e53d9ca1-7096-4eff-a1b0-b7b99c4d6b1f",
+			"type": "equipment",
+			"description": "Handgun Bullet, Armor Piercing",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "948df966-ea89-4d29-b0ec-19aa483af0b3",
+			"type": "equipment",
+			"description": "Small-bore Rifle Bullet",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "4d37ab2c-4d91-4baa-85f4-8a355a36055e",
+			"type": "equipment",
+			"description": "Small-bore Rifle Bullet, Armor Piercing",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "2d9a4e72-869c-4da5-990b-c70adb8188f7",
+			"type": "equipment",
+			"description": "Rifle Bullet",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d313a735-8be7-4687-b60b-708d603b93b8",
+			"type": "equipment",
+			"description": "Rifle Bullet, Armor Piercing",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "8eac1376-9859-42d9-826f-ff80af7ff41a",
+			"type": "equipment",
+			"description": "Lead Shot",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "ed19faa7-4b9f-4ef0-be35-dc670279acb2",
+			"type": "equipment",
+			"description": "Saboted Dart",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "973bed87-86f6-4072-8111-4715daf89953",
+			"type": "equipment",
+			"description": "Casing, Handgun",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "132a8b30-8322-48b2-8d2f-b2b59c0d0993",
+			"type": "equipment",
+			"description": "Casing, Small Rifle",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "16b00931-34d2-451f-b702-c7b6fdc0ac93",
+			"type": "equipment",
+			"description": "Casing, Large Rifle",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "87b95377-59c6-4e0c-99b9-4ccc4f265410",
+			"type": "equipment",
+			"description": "Casing, Shotgun",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		}
+	]
+}

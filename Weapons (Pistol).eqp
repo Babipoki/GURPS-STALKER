@@ -1,0 +1,206 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "ab1e4c23-90a3-4c0f-a883-39509c85a140",
+			"type": "equipment_container",
+			"open": true,
+			"children": [
+				{
+					"id": "194a93e6-df78-4b63-aa03-b027acb10ea7",
+					"type": "equipment_container",
+					"open": true,
+					"description": "Magazine",
+					"legality_class": "4",
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 0,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "f631e1bc-5d49-4d54-bb39-e6d62ccb72f7",
+					"type": "equipment",
+					"description": "9x18mm Barrel",
+					"legality_class": "4",
+					"tags": [
+						"Parts",
+						"Barrel"
+					],
+					"quantity": 1,
+					"value": 13.81,
+					"weight": "0.2 lb",
+					"max_uses": 100,
+					"equipped": true,
+					"calc": {
+						"extended_value": 13.81,
+						"extended_weight": "0.2 lb"
+					}
+				},
+				{
+					"id": "34cd0577-8f67-46bb-8bd4-6ac887508727",
+					"type": "equipment",
+					"description": "9mm Recoil Spring Assembly [Soviet] [9 SOV] (Spring)",
+					"legality_class": "4",
+					"tags": [
+						"Parts",
+						"Spring"
+					],
+					"quantity": 1,
+					"value": 15.65,
+					"weight": "0.1 lb",
+					"max_uses": 100,
+					"equipped": true,
+					"calc": {
+						"extended_value": 15.65,
+						"extended_weight": "0.1 lb"
+					}
+				},
+				{
+					"id": "7c0e5a2f-80e1-4275-9979-341209b9d49c",
+					"type": "equipment",
+					"description": "Double-action (DA/SA) Trigger Mechanism [DA/SA] (Trigger)",
+					"legality_class": "4",
+					"tags": [
+						"Parts",
+						"Trigger"
+					],
+					"quantity": 1,
+					"value": 15.65,
+					"weight": "0.14 lb",
+					"max_uses": 100,
+					"equipped": true,
+					"calc": {
+						"extended_value": 15.65,
+						"extended_weight": "0.14 lb"
+					}
+				},
+				{
+					"id": "87a6f6e0-6784-49d4-ac02-d37cc2201651",
+					"type": "equipment_container",
+					"open": true,
+					"children": [
+						{
+							"id": "c85f3496-f8ab-44d3-9c29-a249946ebba2",
+							"type": "equipment",
+							"description": "9x18mm AP Round",
+							"notes": "RG028 is a cartridge used for its armor penetration capabilities. The goal of the RG028 was to become a counter to body armor; for this reason, it's loaded with a hardened steel core. Unfortunately, the round itself isn't much of an improvement over the standard, it just has a stronger impact than typical 9x18 round.\n\nAP: BR3 (30)\nDMG: 18",
+							"legality_class": "4",
+							"tags": [
+								"Ammo"
+							],
+							"quantity": 20,
+							"value": 1.4732,
+							"weight": "0.0226 lb",
+							"equipped": true,
+							"calc": {
+								"extended_value": 29.464,
+								"extended_weight": "0.452 lb"
+							}
+						},
+						{
+							"id": "cb3e4830-d1fe-494a-b088-92332c07dfe0",
+							"type": "equipment",
+							"description": "9x18mm FMJ Round",
+							"notes": "A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armor.\n\nAP: BR1 (15)\nDMG: 18",
+							"legality_class": "4",
+							"tags": [
+								"Ammo"
+							],
+							"quantity": 20,
+							"value": 0.688,
+							"weight": "0.0214 lb",
+							"equipped": true,
+							"calc": {
+								"extended_value": 13.76,
+								"extended_weight": "0.428 lb"
+							}
+						},
+						{
+							"id": "b57c1aae-3e8e-4fb8-99bb-8ad0c946b555",
+							"type": "equipment",
+							"description": "9x18mm HP Round",
+							"notes": "This round contains a bullet with enhanced stopping power thanks to its hollow point. Ineffective against body armor, but high damage against flesh.\n\nAP: None (10)\nDMG: 33",
+							"legality_class": "4",
+							"tags": [
+								"Ammo"
+							],
+							"quantity": 20,
+							"value": 1.1786,
+							"weight": "0.02 lb",
+							"equipped": true,
+							"calc": {
+								"extended_value": 23.572,
+								"extended_weight": "0.4 lb"
+							}
+						}
+					],
+					"description": "Compatible Ammo",
+					"notes": "Choose one then drag it up into the magazine and delete this container.",
+					"legality_class": "4",
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 66.796,
+						"extended_weight": "1.28 lb"
+					}
+				}
+			],
+			"description": "Molot APS, 9x18mm",
+			"reference": "TS55",
+			"tech_level": "7",
+			"legality_class": "2",
+			"tags": [
+				"Pistols",
+				"Weapons"
+			],
+			"quantity": 1,
+			"value": 172.744,
+			"weight": "2.7 lb",
+			"weapons": [
+				{
+					"id": "bba5fb08-398e-4ad2-a207-7a9d1c8eaf76",
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "150/1600",
+					"rate_of_fire": "12",
+					"shots": "20+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"level": 8,
+						"range": "150/1600",
+						"damage": "2d pi"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 284.65,
+				"extended_weight": "4.42 lb"
+			}
+		}
+	]
+}
