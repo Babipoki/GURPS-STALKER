@@ -840,11 +840,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.12,
+			"value": 0.17,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.12,
+				"extended_value": 0.17,
 				"extended_weight": "0.002 lb"
 			}
 		},
@@ -858,11 +858,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.14,
+			"value": 0.19,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.14,
+				"extended_value": 0.19,
 				"extended_weight": "0.002 lb"
 			}
 		},
@@ -876,11 +876,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.15,
+			"value": 0.22,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.15,
+				"extended_value": 0.22,
 				"extended_weight": "0.002 lb"
 			}
 		},
@@ -1074,11 +1074,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.21,
+			"value": 0.021,
 			"weight": "0.007 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.21,
+				"extended_value": 0.021,
 				"extended_weight": "0.007 lb"
 			}
 		},
@@ -1110,11 +1110,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.017,
+			"value": 0.031,
 			"weight": "0.0014 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.017,
+				"extended_value": 0.031,
 				"extended_weight": "0.0014 lb"
 			}
 		},
@@ -1128,11 +1128,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.024,
+			"value": 0.035,
 			"weight": "0.0018 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.024,
+				"extended_value": 0.035,
 				"extended_weight": "0.0018 lb"
 			}
 		},
@@ -1146,11 +1146,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.029,
+			"value": 0.039,
 			"weight": "0.0024 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.029,
+				"extended_value": 0.039,
 				"extended_weight": "0.0024 lb"
 			}
 		},
