@@ -175,11 +175,11 @@
 			],
 			"quantity": 1,
 			"value": 1.104,
-			"weight": "0.07 lb",
+			"weight": "0.08 lb",
 			"equipped": true,
 			"calc": {
 				"extended_value": 1.104,
-				"extended_weight": "0.07 lb"
+				"extended_weight": "0.08 lb"
 			}
 		},
 		{
