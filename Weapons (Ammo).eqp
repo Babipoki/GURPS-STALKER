@@ -834,17 +834,17 @@
 			"id": "a058c666-b4d6-4eca-9611-249dbe6b5475",
 			"type": "equipment",
 			"description": "Propellant, Pistol/Shotgun",
-			"notes": "Fast burning double-base propellant for use in shotghuns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly.",
+			"notes": "Fast burning double-base propellant for use in shotguns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.042,
+			"value": 0.12,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.042,
+				"extended_value": 0.12,
 				"extended_weight": "0.002 lb"
 			}
 		},
