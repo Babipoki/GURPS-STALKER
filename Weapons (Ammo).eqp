@@ -840,11 +840,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.012,
+			"value": 0.042,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.012,
+				"extended_value": 0.042,
 				"extended_weight": "0.002 lb"
 			}
 		},
@@ -924,168 +924,252 @@
 			"id": "be2ee00e-ab39-431c-a70c-898c7c7d8f44",
 			"type": "equipment",
 			"description": "VOG-25 Grenade",
+			"notes": "Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has a 2.5 metre kill zone. The VOG-25 grenade is also used in the OC-14 Groza complex and RG6 / 6G30 revolver-type grenade launcher.\n\nBlast power: medium\nBlast radius: 3.6 m\nFragments' radius: 20 m\nAv. number of fragments: 81 (small shrapnel)\nExplosion delay: None (explodes on impact)",
 			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
 			"quantity": 1,
+			"value": 40.15,
+			"weight": "0.52 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 40.15,
+				"extended_weight": "0.52 lb"
 			}
 		},
 		{
 			"id": "7b5553e2-1a06-4ba9-9596-c68b497ebd70",
 			"type": "equipment",
 			"description": "VOG-30 Grenade",
+			"notes": "A VOG-30 fragmentation grenade is designed to destroy enemy manpower and fire weapons located in open areas. An improved version in comparison with analogues, developed in the 1980s, has a more powerful fragmentation effect, as well as autonomous sealing of the propellant charge in the cartridge.\n\nBlast power: medium\nBlast radius: 2.8 m\nFragments' radius: 25 m\nAv. number of fragments: 95 (small sharpnel)\nExplosion delay: None (explodes on impact)",
 			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
 			"quantity": 1,
+			"value": 34.07,
+			"weight": "0.4 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 34.07,
+				"extended_weight": "0.4 lb"
 			}
 		},
 		{
 			"id": "1b82997f-eaa6-4078-8bcb-0fa975c1b0b4",
 			"type": "equipment",
-			"description": "Handgun Bullet",
+			"description": "Handgun Bullet [FMJ]",
+			"notes": "Variously sized handgun rounds salvaged from ammunition. These will be useful in crafting new ammuntion.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.467,
+			"weight": "0.0014 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.467,
+				"extended_weight": "0.0014 lb"
 			}
 		},
 		{
 			"id": "e53d9ca1-7096-4eff-a1b0-b7b99c4d6b1f",
 			"type": "equipment",
 			"description": "Handgun Bullet, Armor Piercing",
+			"notes": "Variously sized handgun rounds salvaged from ammunition. These have alloy penetrators embedded in the bullet. Handgun rounds are usually too slow to penetrate armor, even with penetrators, unless an overpressure powder charge is used or the bullet is designed specially for penetrating armor, like the 5.7x28 round.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.55,
+			"weight": "0.0016 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.55,
+				"extended_weight": "0.0016 lb"
 			}
 		},
 		{
 			"id": "948df966-ea89-4d29-b0ec-19aa483af0b3",
 			"type": "equipment",
-			"description": "Small-bore Rifle Bullet",
+			"description": "Small-bore Rifle Bullet [FMJ]",
+			"notes": "Variously sized small-bore rifle bullets used in assault rifles. Military-manufactured and covered in a full metal jacket, optimized for accuracy.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.6,
+			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.6,
+				"extended_weight": "0.002 lb"
 			}
 		},
 		{
 			"id": "4d37ab2c-4d91-4baa-85f4-8a355a36055e",
 			"type": "equipment",
 			"description": "Small-bore Rifle Bullet, Armor Piercing",
+			"notes": "Variously sized small-bore rifle bullets with alloy penetrators used in assault rifles. These are special-issue rounds designed to defeat armor at standard engagement ranges, at the cost of effectiveness against flesh.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.65,
+			"weight": "0.003 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.65,
+				"extended_weight": "0.003 lb"
 			}
 		},
 		{
 			"id": "2d9a4e72-869c-4da5-990b-c70adb8188f7",
 			"type": "equipment",
-			"description": "Rifle Bullet",
+			"description": "Rifle Bullet [FMJ]",
+			"notes": "Full-size rifle bullets covered in a metal jacket. These are commonly used to load cartridges for hunting and military sniping use.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.71,
+			"weight": "0.006 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.71,
+				"extended_weight": "0.006 lb"
 			}
 		},
 		{
 			"id": "d313a735-8be7-4687-b60b-708d603b93b8",
 			"type": "equipment",
 			"description": "Rifle Bullet, Armor Piercing",
+			"notes": "Full-size rifle bullets with embedded alloy penetrators. These are found in special-issue cartridges used by military and special forces to defeat body armor from long range.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.81,
+			"weight": "0.04 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.81,
+				"extended_weight": "0.04 lb"
 			}
 		},
 		{
 			"id": "8eac1376-9859-42d9-826f-ff80af7ff41a",
 			"type": "equipment",
-			"description": "Lead Shot",
+			"description": "Lead Shot [SG BUCK]",
+			"notes": "Small lead buckshot pellets used in hunting shotguns. These can also be melted down and cast into large slugs.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.21,
+			"weight": "0.007 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.21,
+				"extended_weight": "0.007 lb"
 			}
 		},
 		{
 			"id": "ed19faa7-4b9f-4ef0-be35-dc670279acb2",
 			"type": "equipment",
-			"description": "Saboted Dart",
+			"description": "Saboted Dart [SG SLUG]",
+			"notes": "Hardened steel dart round encased in a sabot. These are designed to be fired out of police shotguns to disable engine blocks, but do decently well against body armor.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 1.7,
+			"weight": "0.014 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 1.7,
+				"extended_weight": "0.014 lb"
 			}
 		},
 		{
 			"id": "973bed87-86f6-4072-8111-4715daf89953",
 			"type": "equipment",
 			"description": "Casing, Handgun",
+			"notes": "Small brass casings with primers for handgun ammunition. These cartridges can be reformed into any size from 7.62x25 up to .357 Magnum.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.017,
+			"weight": "0.0014 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.017,
+				"extended_weight": "0.0014 lb"
 			}
 		},
 		{
 			"id": "132a8b30-8322-48b2-8d2f-b2b59c0d0993",
 			"type": "equipment",
 			"description": "Casing, Small Rifle",
+			"notes": "Medium-sized brass casings with primers for rifle ammunition. These cartridges can be reformed into any size to accomodate 39mm or 45mm length bullets.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.024,
+			"weight": "0.0018 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.024,
+				"extended_weight": "0.0018 lb"
 			}
 		},
 		{
 			"id": "16b00931-34d2-451f-b702-c7b6fdc0ac93",
 			"type": "equipment",
 			"description": "Casing, Large Rifle",
+			"notes": "Large brass casings with primers for full-sized rifle ammunition.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.029,
+			"weight": "0.0024 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.029,
+				"extended_weight": "0.0024 lb"
 			}
 		},
 		{
 			"id": "87b95377-59c6-4e0c-99b9-4ccc4f265410",
 			"type": "equipment",
 			"description": "Casing, Shotgun",
+			"notes": "Plastic shells with brass primers used to make shotgun ammunition.",
 			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
 			"quantity": 1,
+			"value": 0.042,
+			"weight": "0.04 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0,
-				"extended_weight": "0 lb"
+				"extended_value": 0.042,
+				"extended_weight": "0.04 lb"
 			}
 		}
 	]
