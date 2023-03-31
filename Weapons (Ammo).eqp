@@ -1146,11 +1146,11 @@
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.039,
+			"value": 0.045,
 			"weight": "0.0024 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.039,
+				"extended_value": 0.045,
 				"extended_weight": "0.0024 lb"
 			}
 		},

@@ -511,6 +511,25 @@
 			}
 		},
 		{
+			"id": "f73ae9dd-21f5-43a7-943f-4621025b59e8",
+			"type": "equipment",
+			"description": "Chemical Byproduct",
+			"notes": "Chemical byproduct, used for crafting. 1 byproduct = 1 gram. Keep inside a vial.",
+			"legality_class": "4",
+			"tags": [
+				"Base Component",
+				"Parts"
+			],
+			"quantity": 1,
+			"value": 0.2,
+			"weight": "0.002 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.2,
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
 			"id": "3cf35506-4c94-4f09-85e5-c5f7eaa0b454",
 			"type": "equipment",
 			"description": "Textolite Base",
