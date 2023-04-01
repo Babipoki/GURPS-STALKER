@@ -424,7 +424,7 @@
 					"calc": {
 						"roll_range": "16",
 						"dr": {
-							"all": 0
+							"all": 1
 						}
 					}
 				},
@@ -853,6 +853,100 @@
 				"extended_value": 400,
 				"extended_weight": "5.8 lb"
 			}
+		},
+		{
+			"id": "916b2c6c-87f1-42df-8f53-1b4ebd9be370",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Head",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "f40ccbd0-5234-4c6c-ab59-54b62fb37470",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Torso",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e13637eb-6326-4d27-90ff-467b18a30c0b",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Hands",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "c03e1e6f-990b-48fa-9b81-d58bf96b54be",
+			"type": "equipment_container",
+			"description": "Legs",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "d79087d8-e168-47d7-9f7b-048e7807549d",
+			"type": "equipment_container",
+			"open": true,
+			"children": [
+				{
+					"id": "6e39d4f1-906b-407a-afd4-c9679fdce56b",
+					"type": "equipment",
+					"description": "Rubber Boots",
+					"notes": "Good ol' rubber boots.",
+					"vtt_notes": "VTT notes go here.",
+					"tech_level": "7",
+					"legality_class": "4",
+					"tags": [
+						"Armor",
+						"Feet"
+					],
+					"quantity": 1,
+					"value": 3,
+					"weight": "4 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"location": "foot",
+							"amount": 1
+						}
+					],
+					"equipped": true,
+					"calc": {
+						"extended_value": 3,
+						"extended_weight": "4 lb"
+					}
+				}
+			],
+			"description": "Feet",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 3,
+				"extended_weight": "4 lb"
+			}
 		}
 	],
 	"notes": [
@@ -864,7 +958,7 @@
 		}
 	],
 	"created_date": "2023-03-21T07:42:46+01:00",
-	"modified_date": "2023-03-27T08:32:32+02:00",
+	"modified_date": "2023-04-01T12:40:10+02:00",
 	"calc": {
 		"swing": "1d",
 		"thrust": "1d-2",

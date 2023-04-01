@@ -3,276 +3,6 @@
 	"version": 4,
 	"rows": [
 		{
-			"id": "3f64af79-9925-4420-aba4-d90102a6eb1e",
-			"type": "equipment",
-			"description": "OG-7V Warhead",
-			"notes": "Fragmentation warhead for anti-personnel warfare used with the RPG-7 grenade launcher. The main purpose of the warhead is to kill enemies in cover outside the range of hand grenades.\n\nBlast power: high\nBlast radius: 5.6 m\nFragments' radius: 41 m\nAv. number of fragments: 153 (small shrapnel)\nExplosion delay: None (explodes on impact)",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 45.86,
-			"weight": "3.92 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 45.86,
-				"extended_weight": "3.92 lb"
-			}
-		},
-		{
-			"id": "6765dbcb-ad87-4fc6-8cd4-1a3ac0e1c7bf",
-			"type": "equipment",
-			"description": ".45 ACP FMJ Round",
-			"notes": "The .45 calibre full metal jacket round has enjoyed popularity for a hundred years thanks to its ballistic performance and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping powder.\n\nAP: BR2 (19)\nDMG: 25",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 1.25,
-			"weight": "0.0414 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 1.25,
-				"extended_weight": "0.0414 lb"
-			}
-		},
-		{
-			"id": "d5e2df40-02fa-4f5b-a83e-6924c70e2b08",
-			"type": "equipment",
-			"description": ".45 ACP Hydra-shock HP Round",
-			"notes": "This unusual .45 ACP calibre round consists of a jacketed soft point bullet with a hollow steel core, possessing both their advantages and disadvantages.\n\nAP: BR1 (10)\nDMG: 82",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 2.32,
-			"weight": "0.0328 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 2.32,
-				"extended_weight": "0.0328 lb"
-			}
-		},
-		{
-			"id": "e621fe65-ae22-414d-8898-97cc35c8f11b",
-			"type": "equipment",
-			"description": "12.7x55mm STs-130 VPS Round",
-			"notes": "The armor-piercing 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR6 (75)\nDMG: 80",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 13.812,
-			"weight": "0.07 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 13.812,
-				"extended_weight": "0.07 lb"
-			}
-		},
-		{
-			"id": "85a3cf6d-3211-42cd-82fa-727d467a2004",
-			"type": "equipment",
-			"description": "12.7x55mm STs-130 Round [FMJ]",
-			"notes": "The full metal jacket 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR3 (38)\nDMG: 80",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 5.893,
-			"weight": "0.15 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 5.893,
-				"extended_weight": "0.15 lb"
-			}
-		},
-		{
-			"id": "3c833a14-8682-4d35-8bef-b659eb08544b",
-			"type": "equipment",
-			"description": "12x70 buckshot shell [BUCK]",
-			"notes": "Standard 12 gauge shell filled with 8mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 190 (21 x 9)\n\nExpanding cloud of pellets, short eff. range.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 0.6906,
-			"weight": "0.09 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 0.6906,
-				"extended_weight": "0.09 lb"
-			}
-		},
-		{
-			"id": "3cf0fe99-6ff9-4d44-9a0e-d82298a74a1f",
-			"type": "equipment",
-			"description": "12x76 Bull shell [AP SLUG]",
-			"notes": "12 gauge custom-made slugs for putting down dinosaurs and mutants. Slug inside is made of lead covered in copper that has steel, dart-like insert inside. Slug is very long and has got big powder load. It really can break your hands with recoil.\n\nAP: BR2\nDMG: very high",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 9.208,
-			"weight": "0.12 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 9.208,
-				"extended_weight": "0.12 lb"
-			}
-		},
-		{
-			"id": "885903e1-1647-4c67-befd-bcd47d52aa86",
-			"type": "equipment",
-			"description": "12x76 AP Slug Dart",
-			"notes": "12 gauge dart round, normally used for hunting big game but also suitable for other purposes, including puncturing armor.\n\nAP: BR4 (42)\nDMG: 74",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 9.208,
-			"weight": "0.08 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 9.208,
-				"extended_weight": "0.08 lb"
-			}
-		},
-		{
-			"id": "3ecfb94b-256c-4c50-8ff9-7a47095f359f",
-			"type": "equipment",
-			"description": "12x76 Slug Shell",
-			"notes": "This heavy 12 gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.\n\nAP: BR2 (23)\nDMG: 132",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 2.67,
-			"weight": "0.09 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 2.67,
-				"extended_weight": "0.09 lb"
-			}
-		},
-		{
-			"id": "f4864efb-e6c0-4bd0-a354-754b51aeb94b",
-			"type": "equipment",
-			"description": "20x70 Buckshot Round",
-			"notes": "Standard 20-calibre round filled with 6mm buckshot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 143 (16 x 9)",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 1.104,
-			"weight": "0.08 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 1.104,
-				"extended_weight": "0.08 lb"
-			}
-		},
-		{
-			"id": "d4aa2838-4ead-446c-9ff3-77dbae2e8fb8",
-			"type": "equipment",
-			"description": "Ecolog-23 Cartridge",
-			"notes": "A special cartridge designed for the needs of the scientific staff located in the Zone. Depending on the task, it is filled with different types of solutions. Requires very careful handling. How to use: very slowly put into the weapon.\n\nAP: None\nDMG None\nUNIQUE: Using a thin wolfram needle, it pierces the skin to inject the solution.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 64.46,
-			"weight": "0.1 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 64.46,
-				"extended_weight": "0.1 lb"
-			}
-		},
-		{
-			"id": "651ac50b-fa0e-4d65-b411-d0ef6137f121",
-			"type": "equipment",
-			"description": "\"Barrikada\" 23x75mm",
-			"notes": "A cartridge with a stell pointed bullet. It is used to forcibly stop vehicles by damaging them. Application range up to 100 meters. It is used for firing from the KS-23 carbine.\n\nAP: BR5 (51)\nDMG: 133",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 17.5,
-			"weight": "0.1 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 17.5,
-				"extended_weight": "0.1 lb"
-			}
-		},
-		{
-			"id": "70f2b20c-0fe1-44bc-a094-1ee7254b1b3e",
-			"type": "equipment",
-			"description": "\"Shrapnel-25\" 23x75mm",
-			"notes": "Cartridge with buckshot charge. Application range up to 25 meters. It is used for firing from the KS-23 carbine. Due to the fact that the barrel has a rifling in the KS-23 carbine, the buckshot flies over a large area, which allows you to shoot offhand, practically without aiming.\n\nAP: BR3 (6 x 6)\nDMG: 285 (47.5 x 6)",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 4.641,
-			"weight": "0.09 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 4.641,
-				"extended_weight": "0.09 lb"
-			}
-		},
-		{
-			"id": "7e5930d6-6198-41e1-bdb9-1fd932e8f0a4",
-			"type": "equipment",
-			"description": ".338 Federal",
-			"notes": "The .338 Federal is a rifle cartridge based on the .308 Winchester case necked up to .33 caliber. It was created by Federal Cartridge and Sako in 2006 and intended as a big game cartridge with reasonable recoil for lightweight rifles.\n\nAP: BR6 (75)\nDMG: 56",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 11.97,
-			"weight": "0.084 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 11.97,
-				"extended_weight": "0.084 lb"
-			}
-		},
-		{
-			"id": "11d7ab5e-477b-4ad3-9730-de941ed4d2d2",
-			"type": "equipment",
-			"description": ".357 HP Round",
-			"notes": "The .357 HP round is a hollow-point bullet. The purpose of the round is to slow down upon impact, which decreases its penetration, but at the same time causes larger internal tissue damage.\n\nAP: BR1 (15)\nDMG: 103",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 3.683,
-			"weight": "0.0324 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 3.683,
-				"extended_weight": "0.0324 lb"
-			}
-		},
-		{
 			"id": "e1529f01-0d26-414c-abcb-142045bbfa61",
 			"type": "equipment",
 			"description": "4.6x30mm FMJ Round",
@@ -288,6 +18,42 @@
 			"calc": {
 				"extended_value": 3.683,
 				"extended_weight": "0.012 lb"
+			}
+		},
+		{
+			"id": "97ae2942-56a7-45db-a38f-24594089d169",
+			"type": "equipment",
+			"description": "5.7x28 SS190 Round",
+			"notes": "The FN 5.7x28mm is a high velocity cartridge designed and manufactured by FN Herstal. It is a bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet. The 5.7x28mm was developed in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol, in response to NATO requests for a replacement for the 9x19mm Parabellum cartridge.\n\nAP: BR4 (42)\nDMG: 23",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.1921,
+			"weight": "0.012 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.1921,
+				"extended_weight": "0.012 lb"
+			}
+		},
+		{
+			"id": "ef3d1d5a-f0b2-490f-8c82-82a76709e374",
+			"type": "equipment",
+			"description": "5.7x28mm SS195 Round",
+			"notes": "The SS195 FN 5.7x28mm is an expensive cartridge designed and manufactured by FN Herstal. It is bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet.\n\nAP: BR2 (21)\nDMG: 23",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.5654,
+			"weight": "0.0134 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.5654,
+				"extended_weight": "0.0134 lb"
 			}
 		},
 		{
@@ -309,24 +75,6 @@
 			}
 		},
 		{
-			"id": "3c68fa1f-1d38-4d57-8156-43f8a9733be9",
-			"type": "equipment",
-			"description": "5.45x39mm HP Round",
-			"notes": "Military 5.45x39 calibre HP is a hollow point round for automatic rifles of Warsaw Pact countries.\n\nAP: BR1 (15)\nDMG: 53",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 2.455,
-			"weight": "0.0214 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 2.455,
-				"extended_weight": "0.0214 lb"
-			}
-		},
-		{
 			"id": "0fb331bd-6426-4242-8e1b-cf2e80b03cfb",
 			"type": "equipment",
 			"description": "5.45x39mm FMJ Round",
@@ -341,6 +89,24 @@
 			"equipped": true,
 			"calc": {
 				"extended_value": 1.6575,
+				"extended_weight": "0.0214 lb"
+			}
+		},
+		{
+			"id": "3c68fa1f-1d38-4d57-8156-43f8a9733be9",
+			"type": "equipment",
+			"description": "5.45x39mm HP Round",
+			"notes": "Military 5.45x39 calibre HP is a hollow point round for automatic rifles of Warsaw Pact countries.\n\nAP: BR1 (15)\nDMG: 53",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.455,
+			"weight": "0.0214 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.455,
 				"extended_weight": "0.0214 lb"
 			}
 		},
@@ -399,60 +165,6 @@
 			}
 		},
 		{
-			"id": "97ae2942-56a7-45db-a38f-24594089d169",
-			"type": "equipment",
-			"description": "5.7x28 SS190 Round",
-			"notes": "The FN 5.7x28mm is a high velocity cartridge designed and manufactured by FN Herstal. It is a bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet. The 5.7x28mm was developed in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol, in response to NATO requests for a replacement for the 9x19mm Parabellum cartridge.\n\nAP: BR4 (42)\nDMG: 23",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 3.1921,
-			"weight": "0.012 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 3.1921,
-				"extended_weight": "0.012 lb"
-			}
-		},
-		{
-			"id": "ef3d1d5a-f0b2-490f-8c82-82a76709e374",
-			"type": "equipment",
-			"description": "5.7x28mm SS195 Round",
-			"notes": "The SS195 FN 5.7x28mm is an expensive cartridge designed and manufactured by FN Herstal. It is bottlenecked centerfire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet.\n\nAP: BR2 (21)\nDMG: 23",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 1.5654,
-			"weight": "0.0134 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 1.5654,
-				"extended_weight": "0.0134 lb"
-			}
-		},
-		{
-			"id": "ac9a638e-bf45-45cb-96bc-c01b7a0a73f3",
-			"type": "equipment",
-			"description": ".50 BMG Round",
-			"notes": "The .50 Browning Machine Gun (12.7x99mm NATO and designed as the 50 Browning by the C.I.P.) is a cartridge for the Browning .50 caliber machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is standard cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber rounds. The rounds intended for machine guns are made into continuous belt using metallic links.\n\nThe .50 BMG cartridge is also used in long-range target and anti-materiel rifles, as well as other .50 caliber machine guns.\n\nAP: BR6\nDMG: very high",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 33.395,
-			"weight": "0.044 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 33.395,
-				"extended_weight": "0.044 lb"
-			}
-		},
-		{
 			"id": "28fb0aa2-25ff-45a6-a592-b4c72a9ea8c9",
 			"type": "equipment",
 			"description": "7.62x25mm LRNPC Round",
@@ -489,24 +201,6 @@
 			}
 		},
 		{
-			"id": "bbfe02d1-df6f-4a39-a5d8-e9e15a83b944",
-			"type": "equipment",
-			"description": "7.62x39mm M43 Round",
-			"notes": "7.62x39 M43 is an armor piercing round produced in China, which is why it's often referred to as \"7.62x39 CN\". This round features a mild steel core which enhances its penetration capabilities. This Chinese round (as well as all other M43 ammunition) is currently banned for import in the US because US federal law classifies the round as an armor-piercing handgun round. This classification is based on materials and bullet design rather than on empirical ability to penetrate armor.\n\nAP: BR6 (55)\nDMG: 40",
-			"legality_class": "4",
-			"tags": [
-				"Ammo"
-			],
-			"quantity": 1,
-			"value": 7.244,
-			"weight": "0.032 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 7.244,
-				"extended_weight": "0.032 lb"
-			}
-		},
-		{
 			"id": "90d91df1-a5bc-4bf2-8798-47d3bf03c055",
 			"type": "equipment",
 			"description": "7.62x39mm FMJ Round",
@@ -521,6 +215,24 @@
 			"equipped": true,
 			"calc": {
 				"extended_value": 2.394,
+				"extended_weight": "0.032 lb"
+			}
+		},
+		{
+			"id": "bbfe02d1-df6f-4a39-a5d8-e9e15a83b944",
+			"type": "equipment",
+			"description": "7.62x39mm M43 Round",
+			"notes": "7.62x39 M43 is an armor piercing round produced in China, which is why it's often referred to as \"7.62x39 CN\". This round features a mild steel core which enhances its penetration capabilities. This Chinese round (as well as all other M43 ammunition) is currently banned for import in the US because US federal law classifies the round as an armor-piercing handgun round. This classification is based on materials and bullet design rather than on empirical ability to penetrate armor.\n\nAP: BR6 (55)\nDMG: 40",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 7.244,
+			"weight": "0.032 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 7.244,
 				"extended_weight": "0.032 lb"
 			}
 		},
@@ -594,6 +306,24 @@
 			"calc": {
 				"extended_value": 18.692,
 				"extended_weight": "0.066 lb"
+			}
+		},
+		{
+			"id": "d3a588df-e538-4cda-99e8-f4ab69f9d1a8",
+			"type": "equipment",
+			"description": "7.62x54mm PP Round",
+			"notes": "The 7.62x54 PP is a dated rifle calibre introduced in the Soviet Empire at the turn of the 19th century and was still used by the USSR after World War II. It was originally designed for the Mosin-Nagant standard-issue infantry rifle and is quite common in the Zone due to the popularity of the rifle. The round is relatively cheap (considering it comes in boxes of 50) but has surprisingly good penetrative capabilities, even in comparison to more modern ammo types. It can also be used as a cheaper solution in the PKM machine gun.\n\nAP: BR3 (37)\nDMG: High",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 3.3885,
+			"weight": "0.072 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 3.3885,
+				"extended_weight": "0.072 lb"
 			}
 		},
 		{
@@ -759,6 +489,24 @@
 			}
 		},
 		{
+			"id": "dcaff026-dba3-440a-8d4e-1276ac08d28c",
+			"type": "equipment",
+			"description": "9x39mm SP-5 Round",
+			"notes": "The SP-5 is a subsonic rifle round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a suppressor for stealth firing. Used by special services of Warsaw Pact countries.\n\nAP: BR3 (30)\nDMG: 39\nUNIQUE: sub-sonic ammunition, greatly increased projectile drop with distance",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.9644,
+			"weight": "0.0494 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.9644,
+				"extended_weight": "0.0494 lb"
+			}
+		},
+		{
 			"id": "15df2714-5678-44bd-b305-50218392a34d",
 			"type": "equipment",
 			"description": "9x39mm SP-6 Round",
@@ -777,21 +525,237 @@
 			}
 		},
 		{
-			"id": "dcaff026-dba3-440a-8d4e-1276ac08d28c",
+			"id": "85a3cf6d-3211-42cd-82fa-727d467a2004",
 			"type": "equipment",
-			"description": "9x39mm SP-5 Round",
-			"notes": "The SP-5 is a subsonic rifle round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a suppressor for stealth firing. Used by special services of Warsaw Pact countries.\n\nAP: BR3 (30)\nDMG: 39\nUNIQUE: sub-sonic ammunition, greatly increased projectile drop with distance",
+			"description": "12.7x55mm STs-130 Round [FMJ]",
+			"notes": "The full metal jacket 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR3 (38)\nDMG: 80",
 			"legality_class": "4",
 			"tags": [
 				"Ammo"
 			],
 			"quantity": 1,
-			"value": 1.9644,
-			"weight": "0.0494 lb",
+			"value": 5.893,
+			"weight": "0.15 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 1.9644,
-				"extended_weight": "0.0494 lb"
+				"extended_value": 5.893,
+				"extended_weight": "0.15 lb"
+			}
+		},
+		{
+			"id": "e621fe65-ae22-414d-8898-97cc35c8f11b",
+			"type": "equipment",
+			"description": "12.7x55mm STs-130 VPS Round",
+			"notes": "The armor-piercing 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between 59 grams (911 grains) and 76 g (1173 grains), yielding massive amounts of kinetic energy.\n\nAP: BR6 (75)\nDMG: 80",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 13.812,
+			"weight": "0.07 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.812,
+				"extended_weight": "0.07 lb"
+			}
+		},
+		{
+			"id": "3c833a14-8682-4d35-8bef-b659eb08544b",
+			"type": "equipment",
+			"description": "12x70 buckshot shell [BUCK]",
+			"notes": "Standard 12 gauge shell filled with 8mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 190 (21 x 9)\n\nExpanding cloud of pellets, short eff. range.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 0.6906,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.6906,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "885903e1-1647-4c67-befd-bcd47d52aa86",
+			"type": "equipment",
+			"description": "12x76 AP Slug Dart",
+			"notes": "12 gauge dart round, normally used for hunting big game but also suitable for other purposes, including puncturing armor.\n\nAP: BR4 (42)\nDMG: 74",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 9.208,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.208,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "3cf0fe99-6ff9-4d44-9a0e-d82298a74a1f",
+			"type": "equipment",
+			"description": "12x76 Bull shell [AP SLUG]",
+			"notes": "12 gauge custom-made slugs for putting down dinosaurs and mutants. Slug inside is made of lead covered in copper that has steel, dart-like insert inside. Slug is very long and has got big powder load. It really can break your hands with recoil.\n\nAP: BR2\nDMG: very high",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 9.208,
+			"weight": "0.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 9.208,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "3ecfb94b-256c-4c50-8ff9-7a47095f359f",
+			"type": "equipment",
+			"description": "12x76 Slug Shell",
+			"notes": "This heavy 12 gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.\n\nAP: BR2 (23)\nDMG: 132",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.67,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.67,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "f4864efb-e6c0-4bd0-a354-754b51aeb94b",
+			"type": "equipment",
+			"description": "20x70 Buckshot Round",
+			"notes": "Standard 20-calibre round filled with 6mm buckshot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n\nAP: None (3 x 9)\nDMG: 143 (16 x 9)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.104,
+			"weight": "0.08 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.104,
+				"extended_weight": "0.08 lb"
+			}
+		},
+		{
+			"id": "651ac50b-fa0e-4d65-b411-d0ef6137f121",
+			"type": "equipment",
+			"description": "\"Barrikada\" 23x75mm",
+			"notes": "A cartridge with a stell pointed bullet. It is used to forcibly stop vehicles by damaging them. Application range up to 100 meters. It is used for firing from the KS-23 carbine.\n\nAP: BR5 (51)\nDMG: 133",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 17.5,
+			"weight": "0.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 17.5,
+				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "70f2b20c-0fe1-44bc-a094-1ee7254b1b3e",
+			"type": "equipment",
+			"description": "\"Shrapnel-25\" 23x75mm",
+			"notes": "Cartridge with buckshot charge. Application range up to 25 meters. It is used for firing from the KS-23 carbine. Due to the fact that the barrel has a rifling in the KS-23 carbine, the buckshot flies over a large area, which allows you to shoot offhand, practically without aiming.\n\nAP: BR3 (6 x 6)\nDMG: 285 (47.5 x 6)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 4.641,
+			"weight": "0.09 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4.641,
+				"extended_weight": "0.09 lb"
+			}
+		},
+		{
+			"id": "6765dbcb-ad87-4fc6-8cd4-1a3ac0e1c7bf",
+			"type": "equipment",
+			"description": ".45 ACP FMJ Round",
+			"notes": "The .45 calibre full metal jacket round has enjoyed popularity for a hundred years thanks to its ballistic performance and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping powder.\n\nAP: BR2 (19)\nDMG: 25",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 1.25,
+			"weight": "0.0414 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 1.25,
+				"extended_weight": "0.0414 lb"
+			}
+		},
+		{
+			"id": "d5e2df40-02fa-4f5b-a83e-6924c70e2b08",
+			"type": "equipment",
+			"description": ".45 ACP Hydra-shock HP Round",
+			"notes": "This unusual .45 ACP calibre round consists of a jacketed soft point bullet with a hollow steel core, possessing both their advantages and disadvantages.\n\nAP: BR1 (10)\nDMG: 82",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 2.32,
+			"weight": "0.0328 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 2.32,
+				"extended_weight": "0.0328 lb"
+			}
+		},
+		{
+			"id": "ac9a638e-bf45-45cb-96bc-c01b7a0a73f3",
+			"type": "equipment",
+			"description": ".50 BMG Round",
+			"notes": "The .50 Browning Machine Gun (12.7x99mm NATO and designed as the 50 Browning by the C.I.P.) is a cartridge for the Browning .50 caliber machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is standard cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber rounds. The rounds intended for machine guns are made into continuous belt using metallic links.\n\nThe .50 BMG cartridge is also used in long-range target and anti-materiel rifles, as well as other .50 caliber machine guns.\n\nAP: BR6\nDMG: very high",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 33.395,
+			"weight": "0.044 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 33.395,
+				"extended_weight": "0.044 lb"
+			}
+		},
+		{
+			"id": "7e5930d6-6198-41e1-bdb9-1fd932e8f0a4",
+			"type": "equipment",
+			"description": ".338 Federal",
+			"notes": "The .338 Federal is a rifle cartridge based on the .308 Winchester case necked up to .33 caliber. It was created by Federal Cartridge and Sako in 2006 and intended as a big game cartridge with reasonable recoil for lightweight rifles.\n\nAP: BR6 (75)\nDMG: 56",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 11.97,
+			"weight": "0.084 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.97,
+				"extended_weight": "0.084 lb"
 			}
 		},
 		{
@@ -813,75 +777,21 @@
 			}
 		},
 		{
-			"id": "d3a588df-e538-4cda-99e8-f4ab69f9d1a8",
+			"id": "11d7ab5e-477b-4ad3-9730-de941ed4d2d2",
 			"type": "equipment",
-			"description": "7.62x54mm PP Round",
-			"notes": "The 7.62x54 PP is a dated rifle calibre introduced in the Soviet Empire at the turn of the 19th century and was still used by the USSR after World War II. It was originally designed for the Mosin-Nagant standard-issue infantry rifle and is quite common in the Zone due to the popularity of the rifle. The round is relatively cheap (considering it comes in boxes of 50) but has surprisingly good penetrative capabilities, even in comparison to more modern ammo types. It can also be used as a cheaper solution in the PKM machine gun.\n\nAP: BR3 (37)\nDMG: High",
+			"description": ".357 HP Round",
+			"notes": "The .357 HP round is a hollow-point bullet. The purpose of the round is to slow down upon impact, which decreases its penetration, but at the same time causes larger internal tissue damage.\n\nAP: BR1 (15)\nDMG: 103",
 			"legality_class": "4",
 			"tags": [
 				"Ammo"
 			],
 			"quantity": 1,
-			"value": 3.3885,
-			"weight": "0.072 lb",
+			"value": 3.683,
+			"weight": "0.0324 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 3.3885,
-				"extended_weight": "0.072 lb"
-			}
-		},
-		{
-			"id": "a058c666-b4d6-4eca-9611-249dbe6b5475",
-			"type": "equipment",
-			"description": "Propellant, Pistol/Shotgun",
-			"notes": "Fast burning double-base propellant for use in shotguns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo Crafting"
-			],
-			"quantity": 1,
-			"value": 0.17,
-			"weight": "0.002 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 0.17,
-				"extended_weight": "0.002 lb"
-			}
-		},
-		{
-			"id": "428d86e8-2f76-4563-99ec-da324b2856e4",
-			"type": "equipment",
-			"description": "Propellant, Small Rifle",
-			"notes": "IMR propellant for light rifle cartridges and some heavy handgun cartridges. This powder burns at medium rate and produces a good amount of energy. Cannot be used in blowback handguns and shotguns as insufficient pressures will lead to incomplete burning, causing fouling.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo Crafting"
-			],
-			"quantity": 1,
-			"value": 0.19,
-			"weight": "0.002 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 0.19,
-				"extended_weight": "0.002 lb"
-			}
-		},
-		{
-			"id": "e581ae31-bac0-45ea-8087-40b8e7dd0cdb",
-			"type": "equipment",
-			"description": "Propellant, Rifle",
-			"notes": "High-yield, slow burning ball propellant for large rifle rounds. This powder yields the most energy and burns the slowest, thus it is only suitable for use in large caliber rifle ammunition fired from long-barrel weapons.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo Crafting"
-			],
-			"quantity": 1,
-			"value": 0.22,
-			"weight": "0.002 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 0.22,
-				"extended_weight": "0.002 lb"
+				"extended_value": 3.683,
+				"extended_weight": "0.0324 lb"
 			}
 		},
 		{
@@ -903,57 +813,93 @@
 			}
 		},
 		{
-			"id": "57fd8b2f-3f17-4ea3-9970-bb21cf7da8d5",
+			"id": "973bed87-86f6-4072-8111-4715daf89953",
 			"type": "equipment",
-			"description": "M203 Grenade",
-			"notes": "40mm grenade for the M203 underbarrel grenade launcher. This round has a 3.5 metre kill zone. Also suitable for use in the FN F2000 integrated grenade launcher.\n\nBlast power: medium\nBlast radius: 4.1 m\nFragments' radius: 28 m\nAv. number of fragments: 95 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"description": "Casing, Handgun",
+			"notes": "Small brass casings with primers for handgun ammunition. These cartridges can be reformed into any size from 7.62x25 up to .357 Magnum.",
 			"legality_class": "4",
 			"tags": [
-				"Ammo"
+				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 41.6943,
-			"weight": "0.4 lb",
+			"value": 0.031,
+			"weight": "0.0014 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 41.6943,
-				"extended_weight": "0.4 lb"
+				"extended_value": 0.031,
+				"extended_weight": "0.0014 lb"
 			}
 		},
 		{
-			"id": "be2ee00e-ab39-431c-a70c-898c7c7d8f44",
+			"id": "16b00931-34d2-451f-b702-c7b6fdc0ac93",
 			"type": "equipment",
-			"description": "VOG-25 Grenade",
-			"notes": "Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has a 2.5 metre kill zone. The VOG-25 grenade is also used in the OC-14 Groza complex and RG6 / 6G30 revolver-type grenade launcher.\n\nBlast power: medium\nBlast radius: 3.6 m\nFragments' radius: 20 m\nAv. number of fragments: 81 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"description": "Casing, Large Rifle",
+			"notes": "Large brass casings with primers for full-sized rifle ammunition.",
 			"legality_class": "4",
 			"tags": [
-				"Ammo"
+				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 40.15,
-			"weight": "0.52 lb",
+			"value": 0.045,
+			"weight": "0.0024 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 40.15,
-				"extended_weight": "0.52 lb"
+				"extended_value": 0.045,
+				"extended_weight": "0.0024 lb"
 			}
 		},
 		{
-			"id": "7b5553e2-1a06-4ba9-9596-c68b497ebd70",
+			"id": "87b95377-59c6-4e0c-99b9-4ccc4f265410",
 			"type": "equipment",
-			"description": "VOG-30 Grenade",
-			"notes": "A VOG-30 fragmentation grenade is designed to destroy enemy manpower and fire weapons located in open areas. An improved version in comparison with analogues, developed in the 1980s, has a more powerful fragmentation effect, as well as autonomous sealing of the propellant charge in the cartridge.\n\nBlast power: medium\nBlast radius: 2.8 m\nFragments' radius: 25 m\nAv. number of fragments: 95 (small sharpnel)\nExplosion delay: None (explodes on impact)",
+			"description": "Casing, Shotgun",
+			"notes": "Plastic shells with brass primers used to make shotgun ammunition.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.042,
+			"weight": "0.04 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.042,
+				"extended_weight": "0.04 lb"
+			}
+		},
+		{
+			"id": "132a8b30-8322-48b2-8d2f-b2b59c0d0993",
+			"type": "equipment",
+			"description": "Casing, Small Rifle",
+			"notes": "Medium-sized brass casings with primers for rifle ammunition. These cartridges can be reformed into any size to accomodate 39mm or 45mm length bullets.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.035,
+			"weight": "0.0018 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.035,
+				"extended_weight": "0.0018 lb"
+			}
+		},
+		{
+			"id": "d4aa2838-4ead-446c-9ff3-77dbae2e8fb8",
+			"type": "equipment",
+			"description": "Ecolog-23 Cartridge",
+			"notes": "A special cartridge designed for the needs of the scientific staff located in the Zone. Depending on the task, it is filled with different types of solutions. Requires very careful handling. How to use: very slowly put into the weapon.\n\nAP: None\nDMG None\nUNIQUE: Using a thin wolfram needle, it pierces the skin to inject the solution.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo"
 			],
 			"quantity": 1,
-			"value": 34.07,
-			"weight": "0.4 lb",
+			"value": 64.46,
+			"weight": "0.1 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 34.07,
-				"extended_weight": "0.4 lb"
+				"extended_value": 64.46,
+				"extended_weight": "0.1 lb"
 			}
 		},
 		{
@@ -993,39 +939,111 @@
 			}
 		},
 		{
-			"id": "948df966-ea89-4d29-b0ec-19aa483af0b3",
+			"id": "8eac1376-9859-42d9-826f-ff80af7ff41a",
 			"type": "equipment",
-			"description": "Small-bore Rifle Bullet [FMJ]",
-			"notes": "Variously sized small-bore rifle bullets used in assault rifles. Military-manufactured and covered in a full metal jacket, optimized for accuracy.",
+			"description": "Lead Shot [SG BUCK]",
+			"notes": "Small lead buckshot pellets used in hunting shotguns. These can also be melted down and cast into large slugs.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.6,
+			"value": 0.021,
+			"weight": "0.007 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.021,
+				"extended_weight": "0.007 lb"
+			}
+		},
+		{
+			"id": "57fd8b2f-3f17-4ea3-9970-bb21cf7da8d5",
+			"type": "equipment",
+			"description": "M203 Grenade",
+			"notes": "40mm grenade for the M203 underbarrel grenade launcher. This round has a 3.5 metre kill zone. Also suitable for use in the FN F2000 integrated grenade launcher.\n\nBlast power: medium\nBlast radius: 4.1 m\nFragments' radius: 28 m\nAv. number of fragments: 95 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 41.6943,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 41.6943,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "3f64af79-9925-4420-aba4-d90102a6eb1e",
+			"type": "equipment",
+			"description": "OG-7V Warhead",
+			"notes": "Fragmentation warhead for anti-personnel warfare used with the RPG-7 grenade launcher. The main purpose of the warhead is to kill enemies in cover outside the range of hand grenades.\n\nBlast power: high\nBlast radius: 5.6 m\nFragments' radius: 41 m\nAv. number of fragments: 153 (small shrapnel)\nExplosion delay: None (explodes on impact)",
+			"legality_class": "4",
+			"tags": [
+				"Ammo"
+			],
+			"quantity": 1,
+			"value": 45.86,
+			"weight": "3.92 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 45.86,
+				"extended_weight": "3.92 lb"
+			}
+		},
+		{
+			"id": "a058c666-b4d6-4eca-9611-249dbe6b5475",
+			"type": "equipment",
+			"description": "Propellant, Pistol/Shotgun",
+			"notes": "Fast burning double-base propellant for use in shotguns and small handgun rounds. This variant of smokeless powder produces less overall energy than slower powders but burns more cleanly and quickly.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.17,
 			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.6,
+				"extended_value": 0.17,
 				"extended_weight": "0.002 lb"
 			}
 		},
 		{
-			"id": "4d37ab2c-4d91-4baa-85f4-8a355a36055e",
+			"id": "e581ae31-bac0-45ea-8087-40b8e7dd0cdb",
 			"type": "equipment",
-			"description": "Small-bore Rifle Bullet, Armor Piercing",
-			"notes": "Variously sized small-bore rifle bullets with alloy penetrators used in assault rifles. These are special-issue rounds designed to defeat armor at standard engagement ranges, at the cost of effectiveness against flesh.",
+			"description": "Propellant, Rifle",
+			"notes": "High-yield, slow burning ball propellant for large rifle rounds. This powder yields the most energy and burns the slowest, thus it is only suitable for use in large caliber rifle ammunition fired from long-barrel weapons.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.65,
-			"weight": "0.003 lb",
+			"value": 0.22,
+			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.65,
-				"extended_weight": "0.003 lb"
+				"extended_value": 0.22,
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
+			"id": "428d86e8-2f76-4563-99ec-da324b2856e4",
+			"type": "equipment",
+			"description": "Propellant, Small Rifle",
+			"notes": "IMR propellant for light rifle cartridges and some heavy handgun cartridges. This powder burns at medium rate and produces a good amount of energy. Cannot be used in blowback handguns and shotguns as insufficient pressures will lead to incomplete burning, causing fouling.",
+			"legality_class": "4",
+			"tags": [
+				"Ammo Crafting"
+			],
+			"quantity": 1,
+			"value": 0.19,
+			"weight": "0.002 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.19,
+				"extended_weight": "0.002 lb"
 			}
 		},
 		{
@@ -1065,24 +1083,6 @@
 			}
 		},
 		{
-			"id": "8eac1376-9859-42d9-826f-ff80af7ff41a",
-			"type": "equipment",
-			"description": "Lead Shot [SG BUCK]",
-			"notes": "Small lead buckshot pellets used in hunting shotguns. These can also be melted down and cast into large slugs.",
-			"legality_class": "4",
-			"tags": [
-				"Ammo Crafting"
-			],
-			"quantity": 1,
-			"value": 0.021,
-			"weight": "0.007 lb",
-			"equipped": true,
-			"calc": {
-				"extended_value": 0.021,
-				"extended_weight": "0.007 lb"
-			}
-		},
-		{
 			"id": "ed19faa7-4b9f-4ef0-be35-dc670279acb2",
 			"type": "equipment",
 			"description": "Saboted Dart [SG SLUG]",
@@ -1101,75 +1101,75 @@
 			}
 		},
 		{
-			"id": "973bed87-86f6-4072-8111-4715daf89953",
+			"id": "948df966-ea89-4d29-b0ec-19aa483af0b3",
 			"type": "equipment",
-			"description": "Casing, Handgun",
-			"notes": "Small brass casings with primers for handgun ammunition. These cartridges can be reformed into any size from 7.62x25 up to .357 Magnum.",
+			"description": "Small-bore Rifle Bullet [FMJ]",
+			"notes": "Variously sized small-bore rifle bullets used in assault rifles. Military-manufactured and covered in a full metal jacket, optimized for accuracy.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.031,
-			"weight": "0.0014 lb",
+			"value": 0.6,
+			"weight": "0.002 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.031,
-				"extended_weight": "0.0014 lb"
+				"extended_value": 0.6,
+				"extended_weight": "0.002 lb"
 			}
 		},
 		{
-			"id": "132a8b30-8322-48b2-8d2f-b2b59c0d0993",
+			"id": "4d37ab2c-4d91-4baa-85f4-8a355a36055e",
 			"type": "equipment",
-			"description": "Casing, Small Rifle",
-			"notes": "Medium-sized brass casings with primers for rifle ammunition. These cartridges can be reformed into any size to accomodate 39mm or 45mm length bullets.",
+			"description": "Small-bore Rifle Bullet, Armor Piercing",
+			"notes": "Variously sized small-bore rifle bullets with alloy penetrators used in assault rifles. These are special-issue rounds designed to defeat armor at standard engagement ranges, at the cost of effectiveness against flesh.",
 			"legality_class": "4",
 			"tags": [
 				"Ammo Crafting"
 			],
 			"quantity": 1,
-			"value": 0.035,
-			"weight": "0.0018 lb",
+			"value": 0.65,
+			"weight": "0.003 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.035,
-				"extended_weight": "0.0018 lb"
+				"extended_value": 0.65,
+				"extended_weight": "0.003 lb"
 			}
 		},
 		{
-			"id": "16b00931-34d2-451f-b702-c7b6fdc0ac93",
+			"id": "be2ee00e-ab39-431c-a70c-898c7c7d8f44",
 			"type": "equipment",
-			"description": "Casing, Large Rifle",
-			"notes": "Large brass casings with primers for full-sized rifle ammunition.",
+			"description": "VOG-25 Grenade",
+			"notes": "Regular fragmentation grenade for the GP-25 Kostyor underbarrel grenade launcher. This round has a 2.5 metre kill zone. The VOG-25 grenade is also used in the OC-14 Groza complex and RG6 / 6G30 revolver-type grenade launcher.\n\nBlast power: medium\nBlast radius: 3.6 m\nFragments' radius: 20 m\nAv. number of fragments: 81 (small shrapnel)\nExplosion delay: None (explodes on impact)",
 			"legality_class": "4",
 			"tags": [
-				"Ammo Crafting"
+				"Ammo"
 			],
 			"quantity": 1,
-			"value": 0.045,
-			"weight": "0.0024 lb",
+			"value": 40.15,
+			"weight": "0.52 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.045,
-				"extended_weight": "0.0024 lb"
+				"extended_value": 40.15,
+				"extended_weight": "0.52 lb"
 			}
 		},
 		{
-			"id": "87b95377-59c6-4e0c-99b9-4ccc4f265410",
+			"id": "7b5553e2-1a06-4ba9-9596-c68b497ebd70",
 			"type": "equipment",
-			"description": "Casing, Shotgun",
-			"notes": "Plastic shells with brass primers used to make shotgun ammunition.",
+			"description": "VOG-30 Grenade",
+			"notes": "A VOG-30 fragmentation grenade is designed to destroy enemy manpower and fire weapons located in open areas. An improved version in comparison with analogues, developed in the 1980s, has a more powerful fragmentation effect, as well as autonomous sealing of the propellant charge in the cartridge.\n\nBlast power: medium\nBlast radius: 2.8 m\nFragments' radius: 25 m\nAv. number of fragments: 95 (small sharpnel)\nExplosion delay: None (explodes on impact)",
 			"legality_class": "4",
 			"tags": [
-				"Ammo Crafting"
+				"Ammo"
 			],
 			"quantity": 1,
-			"value": 0.042,
-			"weight": "0.04 lb",
+			"value": 34.07,
+			"weight": "0.4 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 0.042,
-				"extended_weight": "0.04 lb"
+				"extended_value": 34.07,
+				"extended_weight": "0.4 lb"
 			}
 		}
 	]

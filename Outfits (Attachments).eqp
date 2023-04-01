@@ -1,0 +1,696 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "464b507e-ad0c-48f5-831b-bdb5fb70326e",
+			"type": "equipment",
+			"description": "Combat Backpack",
+			"notes": "A combat backpack used by the military. Comes with plenty of space to store additional munitions and medical supplies.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 276.243,
+			"weight": "2.48 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 3
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 276.243,
+				"extended_weight": "2.48 lb"
+			}
+		},
+		{
+			"id": "d01dddcc-2907-4ef0-b836-a331c72144ed",
+			"type": "equipment",
+			"description": "Travel Backpack",
+			"notes": "A large backpack for long journeys. Thanks to the weight distribution system, it allows the wearer to carry enough supplies and equipment.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 138.122,
+			"weight": "1.34 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 2
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 138.122,
+				"extended_weight": "1.34 lb"
+			}
+		},
+		{
+			"id": "1bc3df49-ad28-4ade-bac3-5a83dd362ce4",
+			"type": "equipment",
+			"description": "Camping Backpack",
+			"notes": "A backpack with considerable storage space. The inside has been modified to keep water out. A popular choice among stalkers and rookies.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 82.873,
+			"weight": "1.08 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 2
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 82.873,
+				"extended_weight": "1.08 lb"
+			}
+		},
+		{
+			"id": "ed6ee5db-ef58-4185-9b47-95b72689b18b",
+			"type": "equipment",
+			"description": "Tourist Backpack",
+			"notes": "A tourist backpack with a lot of storage space. Not very popular due to its cumbersome size.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 368.32,
+			"weight": "3.66 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 4
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 368.32,
+				"extended_weight": "3.66 lb"
+			}
+		},
+		{
+			"id": "21edf9c1-3f1b-4e52-8bc6-44649bb91c1e",
+			"type": "equipment",
+			"description": "Backpack",
+			"notes": "A backpack made of durable material able to withstand the harshest weather conditions.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 36.832,
+			"weight": "1.64 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 1
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 36.832,
+				"extended_weight": "1.64 lb"
+			}
+		},
+		{
+			"id": "ec793f93-8fcf-4f89-9e4a-e2c61a32cbb3",
+			"type": "equipment",
+			"description": "Hunter's Kit",
+			"notes": "A whole bag full of hooks, knives and other equipment useful for skinning and gutting mutants. Thanks to the variety of tools, the kit can effectively allow the collection of extra mutant parts while skinning.",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Backpack"
+			],
+			"quantity": 1,
+			"value": 148.122,
+			"weight": "2 lb",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"limitation": "lifting_only",
+					"attribute": "st",
+					"amount": 1
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 148.122,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "eb134522-40a5-48b0-9a98-0814ad746d0a",
+			"type": "equipment",
+			"description": "Bloodsucker Skin",
+			"notes": "Bloodsuckers as a species evolved from humans and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant tin touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, bloodsuckers boast well-developed muscles which can be utilized to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes bloodsucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it.\n\nRepair bonus: +4%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 37.2,
+			"weight": "1.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 37.2,
+				"extended_weight": "1.16 lb"
+			}
+		},
+		{
+			"id": "5b4b63d3-740e-46d3-8dac-8f0910d1fee2",
+			"type": "equipment",
+			"description": "Boar Pelt",
+			"notes": "A hide almost fully covered with a thick layer of fur, removed from one of the wild boars found commonly in the Zone. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin, on the other hand, is quite thin (most probably to provide the creature with effective means of thermal regulation), making it a rather poor choice for armor enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs. Unfortunately, wearing the pelt on top of the armor makes the user less resistant to radioactive and toxic damage as heavy particles often accumulate within the fur.\n\nRepair bonus: +3%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 13.444,
+			"weight": "1.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.444,
+				"extended_weight": "1.14 lb"
+			}
+		},
+		{
+			"id": "57431170-be8b-45db-ab9f-04430a1dd01d",
+			"type": "equipment",
+			"description": "Burer Skin",
+			"notes": "Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head. Burer's skin has low electrical resistance, thus the wearer is more suspectible to electrical damage. Furthermore, due to the fact that burers are relatively rarely encountered in the Zone, the skin has significant research potential, making it a valuable trading commodity for the scientists.\n\nRepair bonus: +3%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 46.777,
+			"weight": "1.32 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 46.777,
+				"extended_weight": "1.32 lb"
+			}
+		},
+		{
+			"id": "0b464f20-ae64-49f4-9f92-1c2d49d8901c",
+			"type": "equipment",
+			"description": "Chimera Hide",
+			"notes": "Chimera, being one of the most dangerous mutants in the Zone, is not only a significant threat, but can also be regarded as a viable source of wealth. All parts that can be taken from chimera's corpse can be sold for a large amount of money, but it is the sin that is one of the most valud scientific specimens as well as one of the best armor enhancements available in the Exclusion Zone. It offers very good protection properties and, even more importantly, is relatively light-weight thanks to which it does not limit mobility. However, its most unique feature is that organic fibers found in the skin act as very effective electrical conductors. This fact to a large degree confirms reports of recon units (especially those scouting around the AMK Industrial Complex) concerning sightings of chimeras surrounded in what looked like an electrical anomaly, producing discharges on contact with any hostile living organism,. Unfortunately, no unit was able to make it back, so there is no evidence confirming the existence of such a creature.\n\nRepair bonus: +8%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 60.479,
+			"weight": "1.36 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 60.479,
+				"extended_weight": "1.36 lb"
+			}
+		},
+		{
+			"id": "bf96f908-4c51-4386-a6aa-ca2c63c632a9",
+			"type": "equipment",
+			"description": "Controller Scalp",
+			"notes": "As is the case with other humanoid mutants, it's quite an emotional challenge to scalp a controller and it proves to be even more difficult as the face of a controller retains certain characteristics of the person it once was. Confidential sources within the military also revealed that fingerprints of the person who turned into a controller can sometimes be found in the database. Recent analysis shows that not only the hand of the controller is capable of producing psy waves - the whole body is the source of emissions. For this reason, the scalp - when prepared properly - has the ability to absorb and filter psy energy, but for this effect to take place it is necessary to cover your head with multiple scalps. The skin is also electrically conductive. As regards to its physical properties, it is light and can only be used for minor outfit repairs.\n\nRepair bonus: +3%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 55.99,
+			"weight": "1.26 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 55.99,
+				"extended_weight": "1.26 lb"
+			}
+		},
+		{
+			"id": "e9fdc2a5-0ff7-4810-af9f-3cf71c8f221b",
+			"type": "equipment",
+			"description": "Flesh Hide",
+			"notes": "Hide removed from a breed of mutated pigs commonly referred to as fleshes. Its heavy weight (its main drawback) results from a thick layer of fat underneath the relatively soft and shallow skin. It offers low physical protection, but on the other hand considerably reduces the harmful effects of chemical, thermal and electrical anomalies. Can be used only for minor repairs as the layer of fat is useless for the purposes of armor maintenance and must be cut off, leaving only a small patch of shallow skin tissue.\n\nRepair bonus: +2%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 11.79,
+			"weight": "2.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.79,
+				"extended_weight": "2.18 lb"
+			}
+		},
+		{
+			"id": "0219e5b4-7993-4b55-bb22-7142e7d8c4ab",
+			"type": "equipment",
+			"description": "Lurker Hide",
+			"notes": "A thick hide almost fully covered with a layer of fur, removed from a lurker. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin of a lurker is known for being thick and durable, making it a good choice for armor enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs.\n\nRepair bonus: +3%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 13.44,
+			"weight": "1.14 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.44,
+				"extended_weight": "1.14 lb"
+			}
+		},
+		{
+			"id": "10e2b29a-8cc2-404e-b35c-9b2101b6b641",
+			"type": "equipment",
+			"description": "Pseudodog Fur",
+			"notes": "Densely covered with short and stiff fur, the pelt of pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone. It can be easily attached to armor with even lightest of tools, and yet it's quite durable, which makes it suitable for medium-grade outfit repairs. When used as a whole - it can cover significant area of the body with protective layer which increases resistance to both physical damage and heat. The fur also provides effective insulation. However, as is the case with all such pelts, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas.\n\nRepair bonus: +5%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 17.311,
+			"weight": "1.1 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 17.311,
+				"extended_weight": "1.1 lb"
+			}
+		},
+		{
+			"id": "80fdfea4-96a6-4be7-a39b-e2739a36b604",
+			"type": "equipment",
+			"description": "Pseudogiant Hide",
+			"notes": "The skin of a pseudogiant in many ways resembles the skin of an elephant. It's thick and hard in touch, its texture is very irregular and full of folds which act as the creature's cooling mechanism. The average thickness of pseudogiant's skin is around 2 cm, which makes it very durable and capable of withstanding significant damage. This is, however, at the cost of increased weight. Since pseudogiants are known to often live in areas of high toxicity and radioactivity, the hide naturally adapted to such conditions, which further increases its usefulness. It can also be used to patch even the heaviest of outfits but this process requires the most durable and expensive tools available. It is valued not only for its practical qualities, but can also serve as a prestigious hunting trophy and a rare specimen for the scientists in the Zone.\n\nRepair bonus: +8%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 75.322,
+			"weight": "2.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 75.322,
+				"extended_weight": "2.18 lb"
+			}
+		},
+		{
+			"id": "3e372cad-a11a-42c1-8adb-db6809a3e96c",
+			"type": "equipment",
+			"description": "Psy-dog Fur",
+			"notes": "The fur of a psy dog is undoubtedly one of the most beautiful and rare clothing materials in the world. Usually snow white or grey, it is in great demand and can be sold for a hefty sum of money. It's probably made its way into fashion industry thanks to smugglers some of whom have recently turned to hunting mutants. For those in the Zone, it can serve as a blanket, especially during cold nights, and offers efficient rupture protection and mild psy influence reduction when head part of the fur is used as a mask or a hood. However, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas. Hunters wear it with pride, but only if the creature was slain by their own hands.\n\nRepair bonus: +6%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 28.913,
+			"weight": "1.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 28.913,
+				"extended_weight": "1.16 lb"
+			}
+		},
+		{
+			"id": "9c062b49-580b-4139-9cef-60673d31e24f",
+			"type": "equipment",
+			"description": "Psysucker Skin",
+			"notes": "Psysuckers as a species evolved from bloodsuckers and this affinity can still be seen in the texture of their skin. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy-waves when worn over the head.\n\nRepair bonus: +5%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 37.2,
+			"weight": "1.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 37.2,
+				"extended_weight": "1.16 lb"
+			}
+		},
+		{
+			"id": "22efd11d-997a-46e0-af63-5f76f91cdf4a",
+			"type": "equipment",
+			"description": "'Diamond Powder'",
+			"notes": "'Diamond Powder' is a common name given to crystal-like substance sometimes found in the belly of all species of psy-creatures. It is not known what metabolic processes lead to its emergence and for this reason scientists are eager to pay large sums of money to lay their hands on it. Practical use is limited but some stalkers are known to sprinkle their most cherished hunting knives with it as it makes sharpening significantly easier. It als omakes blades look shiny and well-kept.\n\nRepair bonus: +29%",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Skin"
+			],
+			"quantity": 1,
+			"value": 50.83,
+			"weight": "0.16 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 50.83,
+				"extended_weight": "0.16 lb"
+			}
+		},
+		{
+			"id": "86a2c86e-a991-476e-8fd9-96dfdcb7ad53",
+			"type": "equipment",
+			"description": "Camelbak",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 120.44,
+			"weight": "0.62 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 120.44,
+				"extended_weight": "0.62 lb"
+			}
+		},
+		{
+			"id": "ad32b02a-8d59-4e1e-bfee-6662a72f661f",
+			"type": "equipment",
+			"description": "Improved Camelbak",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 324.494,
+			"weight": "3.06 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 324.494,
+				"extended_weight": "3.06 lb"
+			}
+		},
+		{
+			"id": "610ecc9b-4ce7-40f5-a672-07e696dae648",
+			"type": "equipment",
+			"description": "Body Cooler",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 111.971,
+			"weight": "1.96 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 111.971,
+				"extended_weight": "1.96 lb"
+			}
+		},
+		{
+			"id": "5399833b-df7a-41d2-b022-39c0ffdb34d6",
+			"type": "equipment",
+			"description": "Improved Body Cooler",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 304.972,
+			"weight": "7.12 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 304.972,
+				"extended_weight": "7.12 lb"
+			}
+		},
+		{
+			"id": "44e34463-67c3-4068-8d14-7346de076c32",
+			"type": "equipment",
+			"description": "Aluminium Frames",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 117.495,
+			"weight": "1.46 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 117.495,
+				"extended_weight": "1.46 lb"
+			}
+		},
+		{
+			"id": "40382ffd-f909-4454-93c4-2f9a674aed4a",
+			"type": "equipment",
+			"description": "Improved Aluminium Frames",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 233.15,
+			"weight": "2.46 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 233.15,
+				"extended_weight": "2.46 lb"
+			}
+		},
+		{
+			"id": "2e8dcb45-5e1e-4e20-aee7-67c274ad35b9",
+			"type": "equipment",
+			"description": "Freon Emission Module",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 84.35,
+			"weight": "1.44 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 84.35,
+				"extended_weight": "1.44 lb"
+			}
+		},
+		{
+			"id": "55244ae5-913d-4c65-8975-c5f6cdf4c1ab",
+			"type": "equipment",
+			"description": "Improved Freon Emission Module",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 208.471,
+			"weight": "4.68 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 208.471,
+				"extended_weight": "4.68 lb"
+			}
+		},
+		{
+			"id": "da5086a5-378b-4df2-9480-86121de0bfea",
+			"type": "equipment",
+			"description": "Titanium Grid",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 155.617,
+			"weight": "0.88 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 155.617,
+				"extended_weight": "0.88 lb"
+			}
+		},
+		{
+			"id": "27a3bd71-2e69-408e-b7c3-46600bad1a19",
+			"type": "equipment",
+			"description": "Improved Titanium Grid",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 309.392,
+			"weight": "2.94 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 309.392,
+				"extended_weight": "2.94 lb"
+			}
+		},
+		{
+			"id": "7f475e0b-36e7-4b52-be4a-8c7096fbb7b8",
+			"type": "equipment",
+			"description": "Kevlar Plates and Attachments",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 117.495,
+			"weight": "2.56 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 117.495,
+				"extended_weight": "2.56 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		},
+		{
+			"id": "8a1977c1-4e06-4678-8e53-bfcc98c38a66",
+			"type": "equipment",
+			"description": "Improved Kevlar Plates and Attachments",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 246.41,
+			"weight": "5.96 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 246.41,
+				"extended_weight": "5.96 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		},
+		{
+			"id": "5af47b53-c023-4d59-8a46-692990e0eac1",
+			"type": "equipment",
+			"description": "Carbon Steel Plates",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 144.751,
+			"weight": "3.7 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 144.751,
+				"extended_weight": "3.7 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		},
+		{
+			"id": "b79d4950-3ca1-421f-bdb7-a3b5550d8b06",
+			"type": "equipment",
+			"description": "Improved Carbon Steel Plates",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 310.497,
+			"weight": "7.06 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 310.497,
+				"extended_weight": "7.06 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		},
+		{
+			"id": "9837b861-a0f0-4d37-92c4-d00860da8be9",
+			"type": "equipment",
+			"description": "Surge Suppressor",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 100.552,
+			"weight": "3.12 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 100.552,
+				"extended_weight": "3.12 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		},
+		{
+			"id": "df771973-45f2-4c99-a90b-5670bff62335",
+			"type": "equipment",
+			"description": "Improved Surge Suppressor",
+			"legality_class": "4",
+			"tags": [
+				"Outfit Attachments",
+				"Special"
+			],
+			"quantity": 1,
+			"value": 188.214,
+			"weight": "9.9 lb",
+			"equipped": true,
+			"ignore_weight_for_skills": true,
+			"calc": {
+				"extended_value": 188.214,
+				"extended_weight": "9.9 lb",
+				"extended_weight_for_skills": "0 lb"
+			}
+		}
+	]
+}
