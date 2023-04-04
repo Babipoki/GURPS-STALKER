@@ -310,12 +310,12 @@
 			],
 			"quantity": 1,
 			"value": 51.58,
-			"weight": "0.02 lb",
+			"weight": "0.06 lb",
 			"max_uses": 3,
 			"equipped": true,
 			"calc": {
 				"extended_value": 51.58,
-				"extended_weight": "0.02 lb"
+				"extended_weight": "0.06 lb"
 			}
 		},
 		{

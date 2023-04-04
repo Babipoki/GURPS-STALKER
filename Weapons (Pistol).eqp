@@ -783,7 +783,6 @@
 				{
 					"id": "f88bc59c-6b3f-49bb-91ff-38f97ce6961e",
 					"type": "equipment_container",
-					"open": true,
 					"children": [
 						{
 							"id": "0ed2e0cc-02fa-416c-aee4-d6aacff49957",

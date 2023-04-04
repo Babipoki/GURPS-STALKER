@@ -215,7 +215,7 @@
 			"id": "615b171d-9d0d-4b86-ac76-38f66e487336",
 			"type": "equipment",
 			"description": "Russian IRP-B Combat Ration",
-			"notes": "Breakfast, dinner, and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your healthy as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with polymetric box that protects the ingredients from hazardous environmental conditions.\n\n+4,000 kcal\n\nProperties: military ration, 7 portions per ration, slight sleepiness increment, moderate thirstiness increment",
+			"notes": "Breakfast, dinner, and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your healthy as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with polymetric box that protects the ingredients from hazardous environmental conditions.\n\n+4,790 kcal for ALL portions\n\nProperties: military ration, 7 portions per ration, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Military Ration"
@@ -234,7 +234,7 @@
 			"id": "c9a3a521-213b-4d81-b400-1a591d8e9b2f",
 			"type": "equipment",
 			"description": "Ukrainian Combat Ration",
-			"notes": "The Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n\n+3,700 kcal\n\nProperties: military ration, 6 portions per ration, slight sleepiness increment, moderate thirstiness increment",
+			"notes": "The Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n\n+3,700 kcal for ALL portions\n\nProperties: military ration, 6 portions per ration, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Military Ration"
