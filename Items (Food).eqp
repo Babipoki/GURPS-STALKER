@@ -3,440 +3,76 @@
 	"version": 4,
 	"rows": [
 		{
-			"id": "ad78491a-2a98-4553-a6f1-6c0635d55376",
+			"id": "048d7ca6-7d76-49fe-a773-700d12797931",
 			"type": "equipment",
-			"description": "Boar Chop",
-			"notes": "The most popular meat in the Zone. Nutritious and hardly contaminated. The scientists have enough samples already, which limits its use as a commodity. However, it can serve as a source of animal fat for gun lubrication.\n\n+166 kcal\n\nProperties: cookable, low-tier mutant meat, radiation poisoning: +2860 mSv, repair bonus: +2%, slight sleepiness increment, toxic food, unhealthy",
+			"description": "Altoids",
+			"notes": "Mint-flavoured altoids imported from the West. They are highly refreshing and remove radiation particles from the mouth. They also seem to reduce sleepiness for a short while.\n\nSnack, 100 kcal, in addition: -0.2 mRP per use\n\nProperties: food, slight sleepiness reduction, slight thirstiness increment, 20 uses",
 			"legality_class": "4",
 			"tags": [
-				"Low-Tier Mutant Meat"
+				"Food"
 			],
 			"quantity": 1,
-			"value": 12.32,
-			"weight": "0.18 lb",
-			"max_uses": 166,
+			"value": 6,
+			"weight": "0.08 lb",
+			"max_uses": 20,
 			"equipped": true,
 			"calc": {
-				"extended_value": 12.32,
-				"extended_weight": "0.18 lb"
-			}
-		},
-		{
-			"id": "d91a2319-3ad1-4d57-b239-c65bd8a514d3",
-			"type": "equipment",
-			"description": "Chunk of Chimera Meat",
-			"notes": "A heavy chunk of chimera meat. Since chimeras are considered one of the the most dangerous creatures, their meat is highly valued by veteran stalkers. Furthermore, it provides the best quality animal fat available in the Zone for the purposes of gun lubrication.\n\n+238 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +840 mSv, repair bonus: +4%",
-			"legality_class": "4",
-			"tags": [
-				"High-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 25.93,
-			"weight": "0.26 lb",
-			"max_uses": 238,
-			"equipped": true,
-			"calc": {
-				"extended_value": 25.93,
-				"extended_weight": "0.26 lb"
-			}
-		},
-		{
-			"id": "b3d213e7-e1b7-458d-8a1b-a79ac778f43a",
-			"type": "equipment",
-			"description": "Dog Meat",
-			"notes": "Meat of mutated dogs is used as a cheap alternative to the more popular boar meat. The scientists have enough samples already, which limits its use as a commodity. However, it can also serve as a source of animal fat for gun lubrication.\n\n+48 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +1020 mSv, repair bonus: +1%",
-			"legality_class": "4",
-			"tags": [
-				"Low-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 3.85,
-			"weight": "0.06 lb",
-			"max_uses": 48,
-			"equipped": true,
-			"calc": {
-				"extended_value": 3.85,
-				"extended_weight": "0.06 lb"
-			}
-		},
-		{
-			"id": "7f68582e-67c0-49de-9963-c0417b07f723",
-			"type": "equipment",
-			"description": "Flesh Meat",
-			"notes": "A popular choice in the Zone. Flesh meat has a good taste and high nutritional value. The scientists have enough samples already, which limits its use as a commodity. However, it can serve as a source of animal fat for gun lubrication.\n\n+143 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +3020 mSv, repair bonus: +3%",
-			"legality_class": "4",
-			"tags": [
-				"Low-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 9.28,
-			"weight": "0.16 lb",
-			"max_uses": 143,
-			"equipped": true,
-			"calc": {
-				"extended_value": 9.28,
-				"extended_weight": "0.16 lb"
-			}
-		},
-		{
-			"id": "d4ad516d-0e76-42df-9761-cdf99b83dad3",
-			"type": "equipment",
-			"description": "Bloodsucker Meat",
-			"notes": "Bloodsucker meat is stringy and thus not suited for eating. Although bloodsuckers are fearsome beasts, the price of the meat is not very high due to its limited use. Can be sold to the scientists. morover can also serve as a source of animal fat for gun lubrication.\n\n+212 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +2781 mSv, repair bonus: +1%",
-			"legality_class": "4",
-			"tags": [
-				"High-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 16.89,
-			"weight": "0.16 lb",
-			"max_uses": 212,
-			"equipped": true,
-			"calc": {
-				"extended_value": 16.89,
-				"extended_weight": "0.16 lb"
-			}
-		},
-		{
-			"id": "3c5fbca1-a448-4096-8a97-79130a92d2ae",
-			"type": "equipment",
-			"description": "Lurker Meat",
-			"notes": "A chunk of lurker meat. Nutritious and hardly contaminated. However, it can also serve as a source of animal fat for gun lubrication.\n\n+170 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +3360 mSv, repair bonus: +4%",
-			"legality_class": "4",
-			"tags": [
-				"High-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 25.93,
-			"weight": "0.26 lb",
-			"max_uses": 170,
-			"equipped": true,
-			"calc": {
-				"extended_value": 25.93,
-				"extended_weight": "0.26 lb"
-			}
-		},
-		{
-			"id": "3374550b-9c9a-4cbf-983a-6857acc1ff08",
-			"type": "equipment",
-			"description": "Pseudodog Meat",
-			"notes": "Pseudodog meat is a common dietary component in the Zone. Tasty, with high nutritional value and a popular choice among stalkers. Can be sold to the scientists. Morover, it can also serve as a source of animal fat for gun lubrication.\n\n+65 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +290 mSv, repair bonus: +1%",
-			"legality_class": "4",
-			"tags": [
-				"Low-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 9.74,
-			"weight": "0.16 lb",
-			"max_uses": 65,
-			"equipped": true,
-			"calc": {
-				"extended_value": 9.74,
-				"extended_weight": "0.16 lb"
-			}
-		},
-		{
-			"id": "c38af5de-bc51-4d8f-9c9a-fad8b1db46c2",
-			"type": "equipment",
-			"description": "MRE",
-			"notes": "The Meat, Ready-to-Eat (commonly known as the MRE) is a self-contained individual field ration in lightweight packaging, developed by the United States military for its service members for use in combat or other field conditions where organized food facilities are not available. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains one course along with a variety of other food and drink items.\n\n+1,250 kcal\n\nProperties: military ration, 3 portions per ration, slight sleepiness increment, moderate thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Military Ration"
-			],
-			"quantity": 1,
-			"value": 151.01,
-			"weight": "1.38 lb",
-			"max_uses": 3,
-			"equipped": true,
-			"calc": {
-				"extended_value": 151.01,
-				"extended_weight": "1.38 lb"
-			}
-		},
-		{
-			"id": "fb29c677-4efa-45b3-8265-f39dff63eb44",
-			"type": "equipment",
-			"description": "Psysucker Meat",
-			"notes": "Similar to bloodsuckers, Psysucker meat is stringy and thus not suited for eating. The price of the meat is not very high due to its limited use. Can be sold to the scientists. Moreover, it can also serve as a source of animal fat for gun lubrication.\n\n+156 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +2781 mSv, repair bonus: +1%",
-			"legality_class": "4",
-			"tags": [
-				"High-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 20.26,
-			"weight": "0.16 lb",
-			"max_uses": 156,
-			"equipped": true,
-			"calc": {
-				"extended_value": 20.26,
-				"extended_weight": "0.16 lb"
-			}
-		},
-		{
-			"id": "b553f9fb-253a-4f43-9395-b5cdfe39288d",
-			"type": "equipment",
-			"description": "Snork Hand",
-			"notes": "As is widely known, snorks originate from humans, so eating their meat is considered cannibalistic and immoral. However, certain factions, such as bandits and mercenaries, include it in their meals as to show their superiority over other groups. Can be sold to other scientists.\n\n+39 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +1480 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Low-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 8.32,
-			"weight": "0.06 lb",
-			"max_uses": 39,
-			"equipped": true,
-			"calc": {
-				"extended_value": 8.32,
-				"extended_weight": "0.06 lb"
-			}
-		},
-		{
-			"id": "b89a148e-9918-4187-a8d8-f8c3f4fdb06d",
-			"type": "equipment",
-			"description": "Rodent Meat",
-			"notes": "A small portion of rodent meat. A cheap and commonly found food.\n\n+31 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +720 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Low-Tier Mutant Meat"
-			],
-			"quantity": 1,
-			"value": 3.06,
-			"weight": "0.04 lb",
-			"max_uses": 31,
-			"equipped": true,
-			"calc": {
-				"extended_value": 3.06,
-				"extended_weight": "0.04 lb"
-			}
-		},
-		{
-			"id": "615b171d-9d0d-4b86-ac76-38f66e487336",
-			"type": "equipment",
-			"description": "Russian IRP-B Combat Ration",
-			"notes": "Breakfast, dinner, and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your healthy as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with polymetric box that protects the ingredients from hazardous environmental conditions.\n\n+4,790 kcal for ALL portions\n\nProperties: military ration, 7 portions per ration, slight sleepiness increment, moderate thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Military Ration"
-			],
-			"quantity": 1,
-			"value": 288.4,
-			"weight": "4.2 lb",
-			"max_uses": 7,
-			"equipped": true,
-			"calc": {
-				"extended_value": 288.4,
-				"extended_weight": "4.2 lb"
-			}
-		},
-		{
-			"id": "c9a3a521-213b-4d81-b400-1a591d8e9b2f",
-			"type": "equipment",
-			"description": "Ukrainian Combat Ration",
-			"notes": "The Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n\n+3,700 kcal for ALL portions\n\nProperties: military ration, 6 portions per ration, slight sleepiness increment, moderate thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Military Ration"
-			],
-			"quantity": 1,
-			"value": 252.85,
-			"weight": "3.84 lb",
-			"max_uses": 6,
-			"equipped": true,
-			"calc": {
-				"extended_value": 252.85,
-				"extended_weight": "3.84 lb"
+				"extended_value": 6,
+				"extended_weight": "0.08 lb"
 			}
 		},
 		{
 			"id": "165e5e96-96b1-45a1-8e8f-49f44057a093",
 			"type": "equipment",
 			"description": "Baked Beans",
-			"notes": "Canned baked beans brought from the West. These haricot beans in tomato sauce may bring back nice memories to some people.\n\n+217 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"notes": "Canned baked beans brought from the West. These haricot beans in tomato sauce may bring back nice memories to some people.\n\n1/3 Meal, 217 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Food",
 				"Reusable Can"
 			],
 			"quantity": 1,
-			"value": 16.48,
+			"value": 9.5,
 			"weight": "0.68 lb",
-			"max_uses": 217,
 			"equipped": true,
 			"calc": {
-				"extended_value": 16.48,
+				"extended_value": 9.5,
 				"extended_weight": "0.68 lb"
 			}
 		},
 		{
-			"id": "e33f000b-20c5-4a9a-895e-6e0e01902683",
+			"id": "95499b8c-f567-41c0-804a-a5048aef6d0a",
 			"type": "equipment",
-			"description": "Bread Loaf",
-			"notes": "A loaf of bread. Surprisingly fresh suggesting that it was recently baked somewhere within the Zone.\n\n+258 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"description": "Beef Tushonka",
+			"notes": "Tushonka is a common name of canned, stewed meat produced in the Soviet Union and other Warsaw Pact countries. It has become a primary means of long-time meat preservation, used both by the civilian population and as a standard-issue Red Army food ration. Tushonkas are known for their high nutrition value and a relatively good taste.\n\n1/3 Meal, 292 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Food"
 			],
 			"quantity": 1,
-			"value": 16.57,
-			"weight": "0.38 lb",
-			"max_uses": 258,
-			"equipped": true,
-			"calc": {
-				"extended_value": 16.57,
-				"extended_weight": "0.38 lb"
-			}
-		},
-		{
-			"id": "4cc6fe3d-9680-402c-a6f8-629884bfc9be",
-			"type": "equipment",
-			"description": "Stale Bread Loaf",
-			"notes": "A stale loaf of bread. Better than nothing, albeit a bit hard.\n\n+148 kcal\n\nA stale loaf of bread. Better than nothing, albeit a bit hard.",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 11.51,
-			"weight": "0.38 lb",
-			"max_uses": 148,
-			"equipped": true,
-			"calc": {
-				"extended_value": 11.51,
-				"extended_weight": "0.38 lb"
-			}
-		},
-		{
-			"id": "2c773460-1cdd-4968-83ed-6ae8ca8c5b97",
-			"type": "equipment",
-			"description": "Chili Beans",
-			"notes": "Canned chili beans imported from the West. Popular as an ingredient in some dishes in the Zone.\n\n+286 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 13.94,
+			"value": 12,
 			"weight": "0.68 lb",
-			"max_uses": 286,
 			"equipped": true,
 			"calc": {
-				"extended_value": 13.94,
+				"extended_value": 12,
 				"extended_weight": "0.68 lb"
-			}
-		},
-		{
-			"id": "216c6c3d-636e-40d5-891e-cce47399cb25",
-			"type": "equipment",
-			"description": "Russian Chocolate",
-			"notes": "Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n\n+519 kcal\n+1,000 μg of adrenaline\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 36.46,
-			"weight": "0.5 lb",
-			"max_uses": 519,
-			"equipped": true,
-			"calc": {
-				"extended_value": 36.46,
-				"extended_weight": "0.5 lb"
-			}
-		},
-		{
-			"id": "889b9aea-21a6-4fd5-bfd8-4034eed4e9e6",
-			"type": "equipment",
-			"description": "Can of Tuna",
-			"notes": "Canned tuna in oil, imported from outside the Zone.\n\n+114 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 11.42,
-			"weight": "0.34 lb",
-			"max_uses": 114,
-			"equipped": true,
-			"calc": {
-				"extended_value": 11.42,
-				"extended_weight": "0.34 lb"
-			}
-		},
-		{
-			"id": "5e4eedf9-48c6-45e7-8017-314f248ddd39",
-			"type": "equipment",
-			"description": "Canned Corn",
-			"notes": "Canned sweet corn imported from the outside. Can be eaten as it is, but there are some who use it as a soup ingredient.\n\n+218 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness reduction",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 11.97,
-			"weight": "0.68 lb",
-			"max_uses": 218,
-			"equipped": true,
-			"calc": {
-				"extended_value": 11.97,
-				"extended_weight": "0.68 lb"
-			}
-		},
-		{
-			"id": "98fc5141-6143-40b5-8d63-0446642b9832",
-			"type": "equipment",
-			"description": "Doctor's Sausage",
-			"notes": "This sausaga was originally intended to be a dietary supplement for people exhibiting signs of prolonged starvation. Because it was a midlt-tasting inexpensive and relatively healthy source of meat, Doctor's Sausage became very popular in the USSR.\n\n+325 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment, unhealthy",
-			"legality_class": "4",
-			"tags": [
-				"Food"
-			],
-			"quantity": 1,
-			"value": 23.48,
-			"weight": "0.66 lb",
-			"max_uses": 325,
-			"equipped": true,
-			"calc": {
-				"extended_value": 23.48,
-				"extended_weight": "0.66 lb"
-			}
-		},
-		{
-			"id": "f72da41b-00dc-4526-9c48-37451136b34e",
-			"type": "equipment",
-			"description": "Bloodsucker Goulash (Zone-produced)",
-			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\n+242 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +54 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 26.19,
-			"weight": "0.34 lb",
-			"max_uses": 242,
-			"equipped": true,
-			"calc": {
-				"extended_value": 26.19,
-				"extended_weight": "0.34 lb"
 			}
 		},
 		{
 			"id": "3847172c-c70e-402c-a37a-5438c214a251",
 			"type": "equipment",
 			"description": "Bloodsucker Goulash (Purified)",
-			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\n+454 kcal\n+150 μg of adrenaline\n\nProperties: meal, slight sleepiness increment",
+			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\nHalf Meal, 454 kcal, +1 DX for 3xHT seconds\n\nProperties: meal, slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 68.55,
+			"value": 15,
 			"weight": "0.34 lb",
-			"max_uses": 454,
 			"equipped": true,
 			"calc": {
-				"extended_value": 68.55,
+				"extended_value": 15,
 				"extended_weight": "0.34 lb"
 			}
 		},
@@ -444,56 +80,89 @@
 			"id": "e86458e9-c6ec-4f6a-ac88-3d298df8c8fc",
 			"type": "equipment",
 			"description": "Bloodsucker Goulash (Stewed)",
-			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\n+385 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +27 mSv",
+			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\nHalf Meal, 1mRP, 385 kcal, +1 DX for 3xHT seconds\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +27 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 35.4,
+			"value": 13,
 			"weight": "0.34 lb",
-			"max_uses": 454,
 			"equipped": true,
 			"calc": {
-				"extended_value": 35.4,
+				"extended_value": 13,
 				"extended_weight": "0.34 lb"
 			}
 		},
 		{
-			"id": "3d4d8808-3a1e-40a2-b03b-717743731f5f",
+			"id": "f72da41b-00dc-4526-9c48-37451136b34e",
 			"type": "equipment",
-			"description": "Boar Chops (Zone-produced)",
-			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\n+481 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +150 mSv",
+			"description": "Bloodsucker Goulash (Zone-produced)",
+			"notes": "A small hot meal made from bloodsucker meat, spiced with various herbs and mushrooms.\n\n1/3 Meal, 2mRP, 242 kcal, +1 DX for 3xHT seconds\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +54 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 19.04,
-			"weight": "0.38 lb",
-			"max_uses": 481,
+			"value": 4,
+			"weight": "0.34 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 19.04,
-				"extended_weight": "0.38 lb"
+				"extended_value": 4,
+				"extended_weight": "0.34 lb"
+			}
+		},
+		{
+			"id": "d4ad516d-0e76-42df-9761-cdf99b83dad3",
+			"type": "equipment",
+			"description": "Bloodsucker Meat",
+			"notes": "Bloodsucker meat is stringy and thus not suited for eating. Although bloodsuckers are fearsome beasts, the price of the meat is not very high due to its limited use. Can be sold to the scientists. morover can also serve as a source of animal fat for gun lubrication.\n\nInedible, 1mRP, 750 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +2781 mSv, repair bonus: +1%",
+			"legality_class": "4",
+			"tags": [
+				"High-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 23,
+			"weight": "0.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 23,
+				"extended_weight": "0.3 lb"
+			}
+		},
+		{
+			"id": "ad78491a-2a98-4553-a6f1-6c0635d55376",
+			"type": "equipment",
+			"description": "Boar Chop",
+			"notes": "The most popular meat in the Zone. Nutritious and hardly contaminated. The scientists have enough samples already, which limits its use as a commodity. However, it can serve as a source of animal fat for gun lubrication.\n\nInedible, 1mRP, 700 kcal\n\nProperties: cookable, low-tier mutant meat, radiation poisoning: +2860 mSv, repair bonus: +2%, slight sleepiness increment, toxic food, unhealthy",
+			"legality_class": "4",
+			"tags": [
+				"Low-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 11,
+			"weight": "0.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "4b5c02cf-c584-4441-bb3b-9c27137bc555",
 			"type": "equipment",
 			"description": "Boar Chops (Purified)",
-			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\n+903 kcal\n+290 μg of adrenaline\n\nProperties: meal, slight sleepiness increment",
+			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\n1 Meal, 903 kcal\n\nProperties: meal, slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 65.08,
+			"value": 30,
 			"weight": "0.38 lb",
-			"max_uses": 903,
 			"equipped": true,
 			"calc": {
-				"extended_value": 65.08,
+				"extended_value": 30,
 				"extended_weight": "0.38 lb"
 			}
 		},
@@ -501,113 +170,197 @@
 			"id": "8a345708-c74d-48ac-9780-28c2e3be4e62",
 			"type": "equipment",
 			"description": "Boar Chops (Stewed)",
-			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\n+767 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +75 mSv",
+			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\n1 Meal, 1mRP, 767 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +75 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 31.93,
+			"value": 29,
 			"weight": "0.38 lb",
-			"max_uses": 767,
 			"equipped": true,
 			"calc": {
-				"extended_value": 31.93,
+				"extended_value": 29,
 				"extended_weight": "0.38 lb"
 			}
 		},
 		{
-			"id": "55d7b6c3-eb13-48e6-9c20-a0184b6f6654",
+			"id": "3d4d8808-3a1e-40a2-b03b-717743731f5f",
 			"type": "equipment",
-			"description": "The Masculine Meal (Zone-produced)",
-			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\n+528 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +160 mSv",
+			"description": "Boar Chops (Zone-produced)",
+			"notes": "A small portion of boar meat, grilled and seasoned with salt and various herbs. The most popular warm meal among stalkers.\n\nHalf Meal, 2mRP, 481 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +150 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 40.57,
-			"weight": "0.5 lb",
-			"max_uses": 528,
+			"value": 8,
+			"weight": "0.38 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 40.57,
-				"extended_weight": "0.5 lb"
+				"extended_value": 8,
+				"extended_weight": "0.38 lb"
 			}
 		},
 		{
-			"id": "69a2f076-5908-4dd1-9253-f567e5d540e4",
+			"id": "e33f000b-20c5-4a9a-895e-6e0e01902683",
 			"type": "equipment",
-			"description": "The Masculine Meal (Purified)",
-			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\n+990 kcal\n+500 μg of adrenaline\n\nProperties: meal, slight sleepiness increment",
+			"description": "Bread Loaf",
+			"notes": "A loaf of bread. Surprisingly fresh suggesting that it was recently baked somewhere within the Zone.\n\n1/3 Meal, 258 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
 			"legality_class": "4",
 			"tags": [
-				"Meal"
+				"Food"
 			],
 			"quantity": 1,
-			"value": 97.66,
-			"weight": "0.5 lb",
-			"max_uses": 990,
+			"value": 11,
+			"weight": "0.38 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 97.66,
-				"extended_weight": "0.5 lb"
+				"extended_value": 11,
+				"extended_weight": "0.38 lb"
 			}
 		},
 		{
-			"id": "e5149021-651f-427e-a283-80950a825be7",
+			"id": "889b9aea-21a6-4fd5-bfd8-4034eed4e9e6",
 			"type": "equipment",
-			"description": "The Masculine Meal (Stewed)",
-			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\n+841 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +80 mSv",
+			"description": "Can of Tuna",
+			"notes": "Canned tuna in oil, imported from outside the Zone.\n\nSnack, 114 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
-				"Meal"
+				"Food"
 			],
 			"quantity": 1,
-			"value": 57.15,
-			"weight": "0.5 lb",
-			"max_uses": 841,
+			"value": 4.5,
+			"weight": "0.34 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 57.15,
-				"extended_weight": "0.5 lb"
+				"extended_value": 4.5,
+				"extended_weight": "0.34 lb"
 			}
 		},
 		{
-			"id": "065a2b40-3006-425f-9fe3-31f39154185e",
+			"id": "5e4eedf9-48c6-45e7-8017-314f248ddd39",
 			"type": "equipment",
-			"description": "Dog Chops (Zone-produced)",
-			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\n+237 kcal\n\nProperties: slight sleepiness increment, +70 mSv",
+			"description": "Canned Corn",
+			"notes": "Canned sweet corn imported from the outside. Can be eaten as it is, but there are some who use it as a soup ingredient.\n\n1/3 Meal, 218 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness reduction",
 			"legality_class": "4",
 			"tags": [
-				"Meal"
+				"Food"
 			],
 			"quantity": 1,
-			"value": 11.86,
-			"weight": "0.28 lb",
-			"max_uses": 237,
+			"value": 9.5,
+			"weight": "0.68 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 11.86,
-				"extended_weight": "0.28 lb"
+				"extended_value": 9.5,
+				"extended_weight": "0.68 lb"
+			}
+		},
+		{
+			"id": "850aa8be-94b9-4579-a9d6-a3af8be746cf",
+			"type": "equipment",
+			"description": "Canned Tomatoes",
+			"notes": "Canned, sliced and diced tomatoes are imported to the Zone on a regular basis. The best before date on the bottom suggests they're still fresh.\n\nSnack, 141 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 6,
+			"weight": "0.62 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 6,
+				"extended_weight": "0.62 lb"
+			}
+		},
+		{
+			"id": "2c773460-1cdd-4968-83ed-6ae8ca8c5b97",
+			"type": "equipment",
+			"description": "Chili Beans",
+			"notes": "Canned chili beans imported from the West. Popular as an ingredient in some dishes in the Zone.\n\n1/3 Meal, 286 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 11.5,
+			"weight": "0.68 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 11.5,
+				"extended_weight": "0.68 lb"
+			}
+		},
+		{
+			"id": "3707a3e7-f14d-47f2-9bb8-e3855ef6f0bb",
+			"type": "equipment",
+			"description": "Chocolate Protein Bar",
+			"notes": "This bar provides the body with necessary proteins and sugars which give you a welcome boost. Useful for longer trips when you're on the go and need to eat something fast.\n\nHalf Meal, 315 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 15,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 15,
+				"extended_weight": "0.18 lb"
+			}
+		},
+		{
+			"id": "d91a2319-3ad1-4d57-b239-c65bd8a514d3",
+			"type": "equipment",
+			"description": "Chunk of Chimera Meat",
+			"notes": "A heavy chunk of chimera meat. Since chimeras are considered one of the the most dangerous creatures, their meat is highly valued by veteran stalkers. Furthermore, it provides the best quality animal fat available in the Zone for the purposes of gun lubrication.\n\nInedible, 1mRP, 900 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +840 mSv, repair bonus: +4%",
+			"legality_class": "4",
+			"tags": [
+				"High-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 14,
+			"weight": "0.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 14,
+				"extended_weight": "0.6 lb"
+			}
+		},
+		{
+			"id": "98fc5141-6143-40b5-8d63-0446642b9832",
+			"type": "equipment",
+			"description": "Doctor's Sausage",
+			"notes": "This sausaga was originally intended to be a dietary supplement for people exhibiting signs of prolonged starvation. Because it was a midlt-tasting inexpensive and relatively healthy source of meat, Doctor's Sausage became very popular in the USSR.\n\nHalf Meal, 325 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment, unhealthy",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 13.5,
+			"weight": "0.66 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 13.5,
+				"extended_weight": "0.66 lb"
 			}
 		},
 		{
 			"id": "315e1834-1ec8-465d-9a53-985183275ebe",
 			"type": "equipment",
 			"description": "Dog Chops (Purified)",
-			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\n+445 kcal\n+290 μg of adrenaline\n\nProperties: slight sleepiness increment",
+			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\nHalf Meal, 445 kcal\n\nProperties: slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 22.91,
+			"value": 15,
 			"weight": "0.28 lb",
-			"max_uses": 445,
 			"equipped": true,
 			"calc": {
-				"extended_value": 22.91,
+				"extended_value": 15,
 				"extended_weight": "0.28 lb"
 			}
 		},
@@ -615,56 +368,71 @@
 			"id": "f7a27917-cf5a-4001-b1ef-35a39b32668d",
 			"type": "equipment",
 			"description": "Dog Chops (Stewed)",
-			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\n+378 kcal\n\nProperties: slight sleepiness increment, +35 mSv",
+			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\nHalf Meal, 1mRP, 378 kcal\n\nProperties: slight sleepiness increment, +35 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 15.54,
+			"value": 13,
 			"weight": "0.28 lb",
-			"max_uses": 378,
 			"equipped": true,
 			"calc": {
-				"extended_value": 15.54,
+				"extended_value": 13,
 				"extended_weight": "0.28 lb"
 			}
 		},
 		{
-			"id": "b2c8448e-0d57-4c1f-b409-d802e9face47",
+			"id": "065a2b40-3006-425f-9fe3-31f39154185e",
 			"type": "equipment",
-			"description": "Flesh Bacon (Zone-produced)",
-			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\n+404 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +130 mSv",
+			"description": "Dog Chops (Zone-produced)",
+			"notes": "A small hot meal of grilled dog chops mixed with various herbs. A cheap alternative to the more popular boar beef.\n\n1/3 Meal, 2mRP, 237 kcal\n\nProperties: slight sleepiness increment, +70 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 17.49,
-			"weight": "0.36 lb",
-			"max_uses": 404,
+			"value": 4,
+			"weight": "0.28 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 17.49,
-				"extended_weight": "0.36 lb"
+				"extended_value": 4,
+				"extended_weight": "0.28 lb"
+			}
+		},
+		{
+			"id": "b3d213e7-e1b7-458d-8a1b-a79ac778f43a",
+			"type": "equipment",
+			"description": "Dog Meat",
+			"notes": "Meat of mutated dogs is used as a cheap alternative to the more popular boar meat. The scientists have enough samples already, which limits its use as a commodity. However, it can also serve as a source of animal fat for gun lubrication.\n\nInedible, 1mRP, 786 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +1020 mSv, repair bonus: +1%",
+			"legality_class": "4",
+			"tags": [
+				"Low-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 12,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 12,
+				"extended_weight": "0.9 lb"
 			}
 		},
 		{
 			"id": "a8711fab-5d74-43cc-a490-6d41fcdc32fe",
 			"type": "equipment",
 			"description": "Flesh Bacon (Purified)",
-			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\n+757 kcal\n+290 μg of adrenaline\n\nProperties: meal, slight sleepiness increment",
+			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\n1 Meal, 757 kcal\n\nProperties: meal, slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 58.01,
+			"value": 25,
 			"weight": "0.36 lb",
-			"max_uses": 757,
 			"equipped": true,
 			"calc": {
-				"extended_value": 58.01,
+				"extended_value": 25,
 				"extended_weight": "0.36 lb"
 			}
 		},
@@ -672,227 +440,71 @@
 			"id": "89a24f38-c245-486c-8861-576fdfb477fa",
 			"type": "equipment",
 			"description": "Flesh Bacon (Stewed)",
-			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\n+643 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +65 mSv",
+			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\n1 Meal, 1mRP, 643 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +65 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 28.55,
+			"value": 22,
 			"weight": "0.36 lb",
-			"max_uses": 643,
 			"equipped": true,
 			"calc": {
-				"extended_value": 28.55,
+				"extended_value": 22,
 				"extended_weight": "0.36 lb"
 			}
 		},
 		{
-			"id": "6b5201d8-0448-46b5-8ce5-3f6b9bc2448d",
+			"id": "b2c8448e-0d57-4c1f-b409-d802e9face47",
 			"type": "equipment",
-			"description": "Lurker Chops (Zone-produced)",
-			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\n+296 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +92 mSv",
+			"description": "Flesh Bacon (Zone-produced)",
+			"notes": "Slices of greasy, fat bacon cut from the mutated pigs in the zone, commonly referred to as 'fleshes'.\n\nHalf Meal, 2mRP, 404 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +130 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 40.57,
-			"weight": "0.4 lb",
-			"max_uses": 296,
+			"value": 6.5,
+			"weight": "0.36 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 40.57,
-				"extended_weight": "0.4 lb"
+				"extended_value": 6.5,
+				"extended_weight": "0.36 lb"
 			}
 		},
 		{
-			"id": "1ba83d1d-ee19-42d4-a279-0129fe3f80dc",
+			"id": "7f68582e-67c0-49de-9963-c0417b07f723",
 			"type": "equipment",
-			"description": "Lurker Chops (Purified)",
-			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\n+555 kcal\n+320 μg of adrenaline\n\nProperties: meal, slight sleepiness increment",
+			"description": "Flesh Meat",
+			"notes": "A popular choice in the Zone. Flesh meat has a good taste and high nutritional value. The scientists have enough samples already, which limits its use as a commodity. However, it can serve as a source of animal fat for gun lubrication.\n\nInedible, 3mRP, 900 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +3020 mSv, repair bonus: +3%",
 			"legality_class": "4",
 			"tags": [
-				"Meal"
+				"Low-Tier Mutant Meat"
 			],
 			"quantity": 1,
-			"value": 75.56,
-			"weight": "0.4 lb",
-			"max_uses": 555,
+			"value": 9,
+			"weight": "0.6 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 75.56,
-				"extended_weight": "0.4 lb"
-			}
-		},
-		{
-			"id": "cecee1ef-ceb5-4a3f-8e99-7674c83d6413",
-			"type": "equipment",
-			"description": "Lurker Chops (Stewed)",
-			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\n+471 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +46 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 51.62,
-			"weight": "0.4 lb",
-			"max_uses": 471,
-			"equipped": true,
-			"calc": {
-				"extended_value": 51.62,
-				"extended_weight": "0.4 lb"
-			}
-		},
-		{
-			"id": "3f531dd7-e650-4e30-b79b-30f63e80fd95",
-			"type": "equipment",
-			"description": "Pseudodog Chops (Zone-produced)",
-			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\n+307 kcal\n\nProperties: meal, slight sleepiness increment, radiational poisoning: +64 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 14.77,
-			"weight": "0.18 lb",
-			"max_uses": 307,
-			"equipped": true,
-			"calc": {
-				"extended_value": 14.77,
-				"extended_weight": "0.18 lb"
-			}
-		},
-		{
-			"id": "7c02acd3-1b2c-4b08-b44b-77d8aeffad74",
-			"type": "equipment",
-			"description": "Pseudodog Chops (Purified)",
-			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\n+576 kcal\n+5% psychic resistance\n\nProperties: meal, slight sleepiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 46.08,
-			"weight": "0.18 lb",
-			"max_uses": 576,
-			"equipped": true,
-			"calc": {
-				"extended_value": 46.08,
-				"extended_weight": "0.18 lb"
-			}
-		},
-		{
-			"id": "b4b61b29-a43c-47b2-a9a7-4bdd0c67dffd",
-			"type": "equipment",
-			"description": "Pseudodog Chops (Stewed)",
-			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\n+489 kcal\n\nProperties: meal, slight sleepiness increment, radiational poisoning: +32 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 22.14,
-			"weight": "0.18 lb",
-			"max_uses": 489,
-			"equipped": true,
-			"calc": {
-				"extended_value": 22.14,
-				"extended_weight": "0.18 lb"
-			}
-		},
-		{
-			"id": "7fc78dfe-bd50-47ee-b980-7306d7a355de",
-			"type": "equipment",
-			"description": "Psysucker Goulash (Zone-produced)",
-			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\n+514 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +330 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 31.3,
-			"weight": "0.32 lb",
-			"max_uses": 514,
-			"equipped": true,
-			"calc": {
-				"extended_value": 31.3,
-				"extended_weight": "0.32 lb"
-			}
-		},
-		{
-			"id": "e1455234-e1ad-4e31-8ce9-ee8ec8c307b0",
-			"type": "equipment",
-			"description": "Psysucker Goulash (Purified)",
-			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\n+514 kcal\n+6% psychic resistance\n\n\nProperties: meal, slight sleepiness increment",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 66.3,
-			"weight": "0.32 lb",
-			"max_uses": 514,
-			"equipped": true,
-			"calc": {
-				"extended_value": 66.3,
-				"extended_weight": "0.32 lb"
-			}
-		},
-		{
-			"id": "57995128-d071-42fc-9ccf-2808b71c53a8",
-			"type": "equipment",
-			"description": "Psysucker Goulash (Stewed)",
-			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\n+514 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +25 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 44.2,
-			"weight": "0.32 lb",
-			"max_uses": 514,
-			"equipped": true,
-			"calc": {
-				"extended_value": 44.2,
-				"extended_weight": "0.32 lb"
-			}
-		},
-		{
-			"id": "9ee907b1-9589-4bbe-8fec-58453c0ae174",
-			"type": "equipment",
-			"description": "Grilled Snork Hand (Zone-produced)",
-			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\n+81 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +40 mSv",
-			"legality_class": "4",
-			"tags": [
-				"Meal"
-			],
-			"quantity": 1,
-			"value": 15.94,
-			"weight": "0.12 lb",
-			"max_uses": 81,
-			"equipped": true,
-			"calc": {
-				"extended_value": 15.94,
-				"extended_weight": "0.12 lb"
+				"extended_value": 9,
+				"extended_weight": "0.6 lb"
 			}
 		},
 		{
 			"id": "87055117-a2ae-4dcd-b3e9-47e6ec10b2ee",
 			"type": "equipment",
 			"description": "Grilled Snork Hand (Purified)",
-			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\n+153 kcal\n+2% chemical resistance\n\nProperties: meal, slight sleepiness increment",
+			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\nSnack, 153 kcal\n\nProperties: meal, slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 54.62,
+			"value": 5,
 			"weight": "0.12 lb",
-			"max_uses": 153,
 			"equipped": true,
 			"calc": {
-				"extended_value": 54.62,
+				"extended_value": 5,
 				"extended_weight": "0.12 lb"
 			}
 		},
@@ -900,56 +512,323 @@
 			"id": "199f5331-ee8d-4855-9688-9c8410c75e67",
 			"type": "equipment",
 			"description": "Grilled Snork Hand (Stewed)",
-			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\n+130 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +20 mSv",
+			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\nSnack, 1mRP, 130 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +20 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 25.16,
+			"value": 4.3,
 			"weight": "0.12 lb",
-			"max_uses": 130,
 			"equipped": true,
 			"calc": {
-				"extended_value": 25.16,
+				"extended_value": 4.3,
 				"extended_weight": "0.12 lb"
 			}
 		},
 		{
-			"id": "14f710e0-1a61-4b0a-86c0-b436a916708c",
+			"id": "9ee907b1-9589-4bbe-8fec-58453c0ae174",
 			"type": "equipment",
-			"description": "Rat Skewers (Zone-produced)",
-			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\n+154 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +30 mSv",
+			"description": "Grilled Snork Hand (Zone-produced)",
+			"notes": "Grilled snork hand, ready to be eaten.\n\nWARNING: Most stalkers consider eating snork meat to be cannibalistic and immoral.\n\nSnack, 2mRP, 81 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +40 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 5.93,
-			"weight": "0.06 lb",
-			"max_uses": 154,
+			"value": 1.3,
+			"weight": "0.12 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 5.93,
-				"extended_weight": "0.06 lb"
+				"extended_value": 1.3,
+				"extended_weight": "0.12 lb"
+			}
+		},
+		{
+			"id": "1ba83d1d-ee19-42d4-a279-0129fe3f80dc",
+			"type": "equipment",
+			"description": "Lurker Chops (Purified)",
+			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\n1 Meal, 555 kcal\n\nProperties: meal, slight sleepiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 22.5,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 22.5,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "cecee1ef-ceb5-4a3f-8e99-7674c83d6413",
+			"type": "equipment",
+			"description": "Lurker Chops (Stewed)",
+			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\nHalf Meal, 1mRP, 471 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +46 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 15.5,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 15.5,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "6b5201d8-0448-46b5-8ce5-3f6b9bc2448d",
+			"type": "equipment",
+			"description": "Lurker Chops (Zone-produced)",
+			"notes": "A small portion of lurker meat, grilled and seasoned with salt and various herbs. Good nutritional value due to the mutants thick muscles.\n\n1/3 Meal, 2mRP, 296 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +92 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 4.8,
+			"weight": "0.4 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4.8,
+				"extended_weight": "0.4 lb"
+			}
+		},
+		{
+			"id": "3c5fbca1-a448-4096-8a97-79130a92d2ae",
+			"type": "equipment",
+			"description": "Lurker Meat",
+			"notes": "A chunk of lurker meat. Nutritious and hardly contaminated. However, it can also serve as a source of animal fat for gun lubrication.\n\nInedible, 3mRP, 500 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +3360 mSv, repair bonus: +4%",
+			"legality_class": "4",
+			"tags": [
+				"High-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 8,
+			"weight": "0.34 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 8,
+				"extended_weight": "0.34 lb"
+			}
+		},
+		{
+			"id": "bdfe4dce-a5cc-4c96-be43-299ee56aa1e4",
+			"type": "equipment",
+			"description": "Mixed Nuts",
+			"notes": "Assorted peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high. Imported from South Africa.\n\nSnack, 87 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 4,
+			"weight": "0.6 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4,
+				"extended_weight": "0.6 lb"
+			}
+		},
+		{
+			"id": "c38af5de-bc51-4d8f-9c9a-fad8b1db46c2",
+			"type": "equipment",
+			"description": "MRE",
+			"notes": "The Meat, Ready-to-Eat (commonly known as the MRE) is a self-contained individual field ration in lightweight packaging, developed by the United States military for its service members for use in combat or other field conditions where organized food facilities are not available. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains one course along with a variety of other food and drink items.\n\n1 Meal (Decent), 1250 kcal\n\nProperties: military ration, 3 portions per ration, slight sleepiness increment, moderate thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Military Ration"
+			],
+			"quantity": 1,
+			"value": 70,
+			"weight": "1.3 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 70,
+				"extended_weight": "1.3 lb"
+			}
+		},
+		{
+			"id": "7c02acd3-1b2c-4b08-b44b-77d8aeffad74",
+			"type": "equipment",
+			"description": "Pseudodog Chops (Purified)",
+			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\n1 Meal, 576 kcal\n\nProperties: meal, slight sleepiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 19,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 19,
+				"extended_weight": "0.18 lb"
+			}
+		},
+		{
+			"id": "b4b61b29-a43c-47b2-a9a7-4bdd0c67dffd",
+			"type": "equipment",
+			"description": "Pseudodog Chops (Stewed)",
+			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\nHalf Meal, 1mRP, 489 kcal\n\nProperties: meal, slight sleepiness increment, radiational poisoning: +32 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 17,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 17,
+				"extended_weight": "0.18 lb"
+			}
+		},
+		{
+			"id": "3f531dd7-e650-4e30-b79b-30f63e80fd95",
+			"type": "equipment",
+			"description": "Pseudodog Chops (Zone-produced)",
+			"notes": "Portion of grilled pseudodog meat chops. Good nutritional value due to the creature's thick muscles.\n\nHalf Meal, 2mRP, 307 kcal\n\nProperties: meal, slight sleepiness increment, radiational poisoning: +64 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 4.85,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 4.85,
+				"extended_weight": "0.18 lb"
+			}
+		},
+		{
+			"id": "3374550b-9c9a-4cbf-983a-6857acc1ff08",
+			"type": "equipment",
+			"description": "Pseudodog Meat",
+			"notes": "Pseudodog meat is a common dietary component in the Zone. Tasty, with high nutritional value and a popular choice among stalkers. Can be sold to the scientists. Morover, it can also serve as a source of animal fat for gun lubrication.\n\nInedible, 1mRP, 1000 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +290 mSv, repair bonus: +1%",
+			"legality_class": "4",
+			"tags": [
+				"Low-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 15,
+			"weight": "0.9 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 15,
+				"extended_weight": "0.9 lb"
+			}
+		},
+		{
+			"id": "e1455234-e1ad-4e31-8ce9-ee8ec8c307b0",
+			"type": "equipment",
+			"description": "Psysucker Goulash (Purified)",
+			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\nHalf Meal, 514 kcal\n\nProperties: meal, slight sleepiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 18,
+			"weight": "0.32 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 18,
+				"extended_weight": "0.32 lb"
+			}
+		},
+		{
+			"id": "57995128-d071-42fc-9ccf-2808b71c53a8",
+			"type": "equipment",
+			"description": "Psysucker Goulash (Stewed)",
+			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\nHalf Meal, 1mRP, 514 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +25 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 19,
+			"weight": "0.32 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 19,
+				"extended_weight": "0.32 lb"
+			}
+		},
+		{
+			"id": "7fc78dfe-bd50-47ee-b980-7306d7a355de",
+			"type": "equipment",
+			"description": "Psysucker Goulash (Zone-produced)",
+			"notes": "A small hot meal made from psysucker meat, spiced with various herbs and mushrooms.\n\nHalf Meal, 2mRP, 514 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +330 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 8.6,
+			"weight": "0.32 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 8.6,
+				"extended_weight": "0.32 lb"
+			}
+		},
+		{
+			"id": "fb29c677-4efa-45b3-8265-f39dff63eb44",
+			"type": "equipment",
+			"description": "Psysucker Meat",
+			"notes": "Similar to bloodsuckers, Psysucker meat is stringy and thus not suited for eating. The price of the meat is not very high due to its limited use. Can be sold to the scientists. Moreover, it can also serve as a source of animal fat for gun lubrication.\n\nInedible, 1mRP, 800 kcal\n\nProperties: high-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +2781 mSv, repair bonus: +1%",
+			"legality_class": "4",
+			"tags": [
+				"High-Tier Mutant Meat"
+			],
+			"quantity": 1,
+			"value": 12,
+			"weight": "0.8 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 12,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "3a0acb2b-3f56-4e19-9e3e-f0637fb1b370",
+			"type": "equipment",
+			"description": "Raisins",
+			"notes": "A pack of raisins. Rich in nutrients, balances sugar in the blood.\n\n1/3 Meal, 270 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Food"
+			],
+			"quantity": 1,
+			"value": 10.5,
+			"weight": "0.18 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 10.5,
+				"extended_weight": "0.18 lb"
 			}
 		},
 		{
 			"id": "75a63806-db45-407b-9ec8-fbeea6874760",
 			"type": "equipment",
 			"description": "Rat Skewers (Purified)",
-			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\n+289 kcal\n\nProperties: meal, slight sleepiness increment",
+			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\n1/3 Meal, 289 kcal\n\nProperties: meal, slight sleepiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 15.14,
+			"value": 10,
 			"weight": "0.06 lb",
-			"max_uses": 289,
 			"equipped": true,
 			"calc": {
-				"extended_value": 15.14,
+				"extended_value": 10,
 				"extended_weight": "0.06 lb"
 			}
 		},
@@ -957,113 +836,108 @@
 			"id": "7f16fc16-676c-4b63-a0b1-1f2f95d9e8a9",
 			"type": "equipment",
 			"description": "Rat Skewers (Stewed)",
-			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\n+245 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +15 mSv",
+			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\n1/3 Meal, 2mRP, 245 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +15 mSv",
 			"legality_class": "4",
 			"tags": [
 				"Meal"
 			],
 			"quantity": 1,
-			"value": 11.46,
+			"value": 8,
 			"weight": "0.06 lb",
-			"max_uses": 245,
 			"equipped": true,
 			"calc": {
-				"extended_value": 11.46,
+				"extended_value": 8,
 				"extended_weight": "0.06 lb"
 			}
 		},
 		{
-			"id": "048d7ca6-7d76-49fe-a773-700d12797931",
+			"id": "14f710e0-1a61-4b0a-86c0-b436a916708c",
 			"type": "equipment",
-			"description": "Altoids",
-			"notes": "Mint-flavoured altoids imported from the West. They are highly refreshing and remove radiation particles from the mouth. They also seem to reduce sleepiness for a short while.\n\n+5 kcal\n-8 mSv/sec for 14 seconds\n\nProperties: food, slight sleepiness reduction, slight thirstiness increment, 3 uses",
+			"description": "Rat Skewers (Zone-produced)",
+			"notes": "Small skewered tushkanos, grilled and seasoned with salt and various herbs. The cheapest hot meal available in the Zone.\n\nSnack, 3mRP, 154 kcal\n\nProperties: meal, slight sleepiness increment, unhealthy, radiation poisoning: +30 mSv",
 			"legality_class": "4",
 			"tags": [
-				"Food"
+				"Meal"
 			],
 			"quantity": 1,
-			"value": 4.6,
-			"weight": "0.08 lb",
-			"max_uses": 3,
+			"value": 2.3,
+			"weight": "0.06 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 4.6,
-				"extended_weight": "0.08 lb"
+				"extended_value": 2.3,
+				"extended_weight": "0.06 lb"
 			}
 		},
 		{
-			"id": "bdfe4dce-a5cc-4c96-be43-299ee56aa1e4",
+			"id": "b89a148e-9918-4187-a8d8-f8c3f4fdb06d",
 			"type": "equipment",
-			"description": "Mixed Nuts",
-			"notes": "Assorted peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high. Imported from South Africa.\n\n+87 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment, 3 uses",
+			"description": "Rodent Meat",
+			"notes": "A small portion of rodent meat. A cheap and commonly found food.\n\nInedible, 2mRP, 85 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +720 mSv",
 			"legality_class": "4",
 			"tags": [
-				"Food"
+				"Low-Tier Mutant Meat"
 			],
 			"quantity": 1,
-			"value": 23.63,
-			"weight": "0.6 lb",
-			"max_uses": 3,
+			"value": 1.1,
+			"weight": "0.1 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 23.63,
-				"extended_weight": "0.6 lb"
+				"extended_value": 1.1,
+				"extended_weight": "0.1 lb"
 			}
 		},
 		{
-			"id": "3707a3e7-f14d-47f2-9bb8-e3855ef6f0bb",
+			"id": "216c6c3d-636e-40d5-891e-cce47399cb25",
 			"type": "equipment",
-			"description": "Chocolate Protein Bar",
-			"notes": "This bar provides the body with necessary proteins and sugars which give you a welcome boost. Useful for longer trips when you're on the go and need to eat something fast.\n\n+101 kcal\n+280 μg of adrenaline\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"description": "Russian Chocolate",
+			"notes": "Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n\nHalf Meal, 519 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Food"
 			],
 			"quantity": 1,
-			"value": 18.42,
-			"weight": "0.18 lb",
-			"max_uses": 101,
+			"value": 25,
+			"weight": "0.5 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 18.42,
-				"extended_weight": "0.18 lb"
+				"extended_value": 25,
+				"extended_weight": "0.5 lb"
 			}
 		},
 		{
-			"id": "3a0acb2b-3f56-4e19-9e3e-f0637fb1b370",
+			"id": "615b171d-9d0d-4b86-ac76-38f66e487336",
 			"type": "equipment",
-			"description": "Raisins",
-			"notes": "A pack of raisins. Rich in nutrients, balances sugar in the blood.\n\n+24 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment, 3 uses",
+			"description": "Russian IRP-B Combat Ration",
+			"notes": "Breakfast, dinner, and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your healthy as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with polymetric box that protects the ingredients from hazardous environmental conditions.\n\n3 Meals (Decent), 4240 kcal\n\nProperties: military ration, 7 portions per ration, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
-				"Food"
+				"Military Ration"
 			],
 			"quantity": 1,
-			"value": 9.58,
-			"weight": "0.18 lb",
-			"max_uses": 3,
+			"value": 250,
+			"weight": "4.2 lb",
+			"max_uses": 7,
 			"equipped": true,
 			"calc": {
-				"extended_value": 9.58,
-				"extended_weight": "0.18 lb"
+				"extended_value": 250,
+				"extended_weight": "4.2 lb"
 			}
 		},
 		{
 			"id": "91c92406-4cf8-4739-b059-6f64c2c98507",
 			"type": "equipment",
 			"description": "Smoked Salmon",
-			"notes": "Ukrainian smoked salmon. As soon as it's brought to the Zone, the fish changes hands until it finds its way to the highest bidder. Very valuable.\n\n+100 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
+			"notes": "Ukrainian smoked salmon. As soon as it's brought to the Zone, the fish changes hands until it finds its way to the highest bidder. Very valuable.\n\nSnack, 117 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Food"
 			],
 			"quantity": 1,
-			"value": 46.04,
+			"value": 4.7,
 			"weight": "0.2 lb",
-			"max_uses": 100,
 			"equipped": true,
 			"calc": {
-				"extended_value": 46.04,
+				"extended_value": 4.7,
 				"extended_weight": "0.2 lb"
 			}
 		},
@@ -1071,57 +945,126 @@
 			"id": "80d6728f-23d8-45e3-9901-ba25799d499f",
 			"type": "equipment",
 			"description": "Smoked Sausage",
-			"notes": "Sausage mad of beef and fork. Smoked and vacuum packed, it can be preserved for long periods of time. This particular piece has been imported from the Russian Federation. Famous among certain Russian mafia leaders for its exceptional flavour and taste.\n\n+223 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
+			"notes": "Sausage mad of beef and fork. Smoked and vacuum packed, it can be preserved for long periods of time. This particular piece has been imported from the Russian Federation. Famous among certain Russian mafia leaders for its exceptional flavour and taste.\n\n1/3 Meal, 223 kcal\n\nProperties: food, slight sleepiness increment, moderate thirstiness increment",
 			"legality_class": "4",
 			"tags": [
 				"Food"
 			],
 			"quantity": 1,
-			"value": 25.64,
+			"value": 9.2,
 			"weight": "0.22 lb",
-			"max_uses": 223,
 			"equipped": true,
 			"calc": {
-				"extended_value": 25.64,
+				"extended_value": 9.2,
 				"extended_weight": "0.22 lb"
 			}
 		},
 		{
-			"id": "850aa8be-94b9-4579-a9d6-a3af8be746cf",
+			"id": "b553f9fb-253a-4f43-9395-b5cdfe39288d",
 			"type": "equipment",
-			"description": "Canned Tomatoes",
-			"notes": "Canned, sliced and diced tomatoes are imported to the Zone on a regular basis. The best before date on the bottom suggests they're still fresh.\n\n+141 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"description": "Snork Hand",
+			"notes": "As is widely known, snorks originate from humans, so eating their meat is considered cannibalistic and immoral. However, certain factions, such as bandits and mercenaries, include it in their meals as to show their superiority over other groups. Can be sold to other scientists.\n\nInedible, 1mRP, 425 kcal\n\nProperties: low-tier mutant meat, cookable, toxic food, slight sleepiness increment, unhealthy, radiation poisoning: +1480 mSv",
 			"legality_class": "4",
 			"tags": [
-				"Food"
+				"Low-Tier Mutant Meat"
 			],
 			"quantity": 1,
-			"value": 10.61,
-			"weight": "0.62 lb",
-			"max_uses": 141,
+			"value": 6.5,
+			"weight": "0.88 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 10.61,
-				"extended_weight": "0.62 lb"
+				"extended_value": 6.5,
+				"extended_weight": "0.88 lb"
 			}
 		},
 		{
-			"id": "95499b8c-f567-41c0-804a-a5048aef6d0a",
+			"id": "4cc6fe3d-9680-402c-a6f8-629884bfc9be",
 			"type": "equipment",
-			"description": "Beef Tushonka",
-			"notes": "Tushonka is a common name of canned, stewed meat produced in the Soviet Union and other Warsaw Pact countries. It has become a primary means of long-time meat preservation, used both by the civilian population and as a standard-issue Red Army food ration. Tushonkas are known for their high nutrition value and a relatively good taste.\n\n+292 kcal\n\nProperties: food, slight sleepiness increment, slight thirstiness increment",
+			"description": "Stale Bread Loaf",
+			"notes": "A stale loaf of bread. Better than nothing, albeit a bit hard.\n\nSnack, 148 kcal\n\nA stale loaf of bread. Better than nothing, albeit a bit hard.",
 			"legality_class": "4",
 			"tags": [
 				"Food"
 			],
 			"quantity": 1,
-			"value": 18.23,
-			"weight": "0.68 lb",
-			"max_uses": 292,
+			"value": 3,
+			"weight": "0.38 lb",
 			"equipped": true,
 			"calc": {
-				"extended_value": 18.23,
-				"extended_weight": "0.68 lb"
+				"extended_value": 3,
+				"extended_weight": "0.38 lb"
+			}
+		},
+		{
+			"id": "69a2f076-5908-4dd1-9253-f567e5d540e4",
+			"type": "equipment",
+			"description": "The Masculine Meal (Purified)",
+			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\n1 Meal (Decent), 990 kcal\n\nProperties: meal, slight sleepiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 40,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 40,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "e5149021-651f-427e-a283-80950a825be7",
+			"type": "equipment",
+			"description": "The Masculine Meal (Stewed)",
+			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\n1 Meal (Decent), 1mRP, 841 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +80 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 36,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 36,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "55d7b6c3-eb13-48e6-9c20-a0184b6f6654",
+			"type": "equipment",
+			"description": "The Masculine Meal (Zone-produced)",
+			"notes": "A portion of grilled chimera meat, served with mushrooms and various spices. An expensive meal, eaten most commonly by veteran Stalkers to celebrate the accomplishment of difficult missions.\n\nHalf Meal, 2mRP, 528 kcal\n\nProperties: meal, slight sleepiness increment, radiation poisoning: +160 mSv",
+			"legality_class": "4",
+			"tags": [
+				"Meal"
+			],
+			"quantity": 1,
+			"value": 8.5,
+			"weight": "0.5 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 8.5,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "c9a3a521-213b-4d81-b400-1a591d8e9b2f",
+			"type": "equipment",
+			"description": "Ukrainian Combat Ration",
+			"notes": "The Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n\n3 Meals (Decent), 3700 kcal\n\nProperties: military ration, 6 portions per ration, slight sleepiness increment, moderate thirstiness increment",
+			"legality_class": "4",
+			"tags": [
+				"Military Ration"
+			],
+			"quantity": 1,
+			"value": 220,
+			"weight": "3.84 lb",
+			"equipped": true,
+			"calc": {
+				"extended_value": 220,
+				"extended_weight": "3.84 lb"
 			}
 		}
 	]
